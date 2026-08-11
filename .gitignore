@@ -2,4 +2,6 @@ resources/datasets/*
 resources/checkpoints/*
 output/predictions/*
 output/results/*
+output/figures/*
 Models/*
+misc/*

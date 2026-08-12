@@ -1,0 +1,14 @@
+transformers>=5.0.0
+torch>=2.11.0
+numpy>=1.24
+opencv-python>=4.6.0
+Pillow>=9.5.0
+beautifulsoup4>=4.12.0
+easyocr>=1.7.0
+pytesseract>=0.3.10
+codecarbon>=2.0.0
+pandas>=2.0.0
+python-Levenshtein>=0.27.0
+scipy>=1.10.0
+matplotlib>=3.7.0
+seaborn>=0.12.0

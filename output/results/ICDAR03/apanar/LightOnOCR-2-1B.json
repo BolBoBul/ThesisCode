@@ -1,0 +1,3174 @@
+{
+  "IMG_1247": [
+    {
+      "ground_truth": "e",
+      "predicted": "e",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "g",
+      "predicted": "er",
+      "confidence": null,
+      "lev_dist": 1,
+      "lev_ratio": 1.0,
+      "cer": 0.5,
+      "dice_index": 0.0,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "intelligent",
+      "predicted": "intelligent",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "inhabited",
+      "predicted": "inhabited",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "environments",
+      "predicted": "environments",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "group",
+      "predicted": "group",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "processing_time": 2.007
+    }
+  ],
+  "IMG_1252": [
+    {
+      "ground_truth": "panasync",
+      "predicted": "panasync",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "e70",
+      "predicted": "e70",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "processing_time": 0.39
+    }
+  ],
+  "IMG_1253": [
+    {
+      "ground_truth": "atlantis",
+      "predicted": "atlantis",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "deodorant",
+      "predicted": "decoupant",
+      "confidence": null,
+      "lev_dist": 4,
+      "lev_ratio": 0.4444,
+      "cer": 0.4444,
+      "dice_index": 0.375,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "bodyspray",
+      "predicted": "bodywrap",
+      "confidence": null,
+      "lev_dist": 3,
+      "lev_ratio": 0.3333,
+      "cer": 0.375,
+      "dice_index": 0.5333,
+      "exact_match": false
+    },
+    {
+      "processing_time": 5.0867
+    }
+  ],
+  "IMG_1255": [
+    {
+      "ground_truth": "samsung",
+      "predicted": "samsung",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "pocket",
+      "predicted": "pocket",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "flash",
+      "predicted": "flash",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "processing_time": 1.5025
+    }
+  ],
+  "IMG_1259": [
+    {
+      "ground_truth": "george",
+      "predicted": "george",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "orwell",
+      "predicted": "orwell",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "animal",
+      "predicted": "animal",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "farm",
+      "predicted": "farm",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "processing_time": 4.3259
+    }
+  ],
+  "IMG_1261": [
+    {
+      "ground_truth": "self-adhesive",
+      "predicted": "self-adhesive",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "address",
+      "predicted": "address",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "labels",
+      "predicted": "labels",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "36",
+      "predicted": "36",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "89m",
+      "predicted": "89",
+      "confidence": null,
+      "lev_dist": 1,
+      "lev_ratio": 0.3333,
+      "cer": 0.5,
+      "dice_index": 0.6667,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "250",
+      "predicted": "250",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "on",
+      "predicted": "on",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "a",
+      "predicted": "a",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "roll",
+      "predicted": "roll",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "processing_time": 1.7539
+    }
+  ],
+  "IMG_1263": [
+    {
+      "ground_truth": "natwest",
+      "predicted": "natwest",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "processing_time": 5.6825
+    }
+  ],
+  "IMG_1265": [
+    {
+      "ground_truth": "greek",
+      "predicted": "greeky",
+      "confidence": null,
+      "lev_dist": 1,
+      "lev_ratio": 0.2,
+      "cer": 0.1667,
+      "dice_index": 0.8889,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "gastronomy",
+      "predicted": "gattsireneky",
+      "confidence": null,
+      "lev_dist": 6,
+      "lev_ratio": 0.6,
+      "cer": 0.5,
+      "dice_index": 0.1,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "cookery",
+      "predicted": "cookery",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "wines",
+      "predicted": "wines",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "local",
+      "predicted": "local",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "toubi's",
+      "predicted": "toubi's",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "specialties",
+      "predicted": "specialties",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "festive",
+      "predicted": "festive",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "recipes",
+      "predicted": "recipes",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "illustrated",
+      "predicted": "illustrated",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "processing_time": 2.6343
+    }
+  ],
+  "IMG_1269": [
+    {
+      "ground_truth": "the",
+      "predicted": "the",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "house",
+      "predicted": "house",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "of",
+      "predicted": "of",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "the",
+      "predicted": "the",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "spirits",
+      "predicted": "spirits",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "isabel",
+      "predicted": "isabel",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "allende",
+      "predicted": "allende",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "intensely",
+      "predicted": "'intensely",
+      "confidence": null,
+      "lev_dist": 1,
+      "lev_ratio": 0.1111,
+      "cer": 0.1,
+      "dice_index": 0.9412,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "moving",
+      "predicted": "moving.",
+      "confidence": null,
+      "lev_dist": 1,
+      "lev_ratio": 0.1667,
+      "cer": 0.1429,
+      "dice_index": 0.9091,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "both",
+      "predicted": "both",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "entertaining",
+      "predicted": "entertaining",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "and",
+      "predicted": "and",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "deeply",
+      "predicted": "deeply",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "serious",
+      "predicted": "serious'",
+      "confidence": null,
+      "lev_dist": 1,
+      "lev_ratio": 0.1429,
+      "cer": 0.125,
+      "dice_index": 0.9231,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "evening",
+      "predicted": "evening",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "standard",
+      "predicted": "standard",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "processing_time": 43.5787
+    }
+  ],
+  "IMG_1281": [
+    {
+      "ground_truth": "digital",
+      "predicted": "digital",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "multimedia",
+      "predicted": "multimedia",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "wiley",
+      "predicted": "",
+      "confidence": null,
+      "lev_dist": 5,
+      "lev_ratio": 1.0,
+      "cer": 0,
+      "dice_index": 0.0,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "nigel",
+      "predicted": "",
+      "confidence": null,
+      "lev_dist": 5,
+      "lev_ratio": 1.0,
+      "cer": 0,
+      "dice_index": 0.0,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "chapman",
+      "predicted": "",
+      "confidence": null,
+      "lev_dist": 7,
+      "lev_ratio": 1.0,
+      "cer": 0,
+      "dice_index": 0.0,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "and",
+      "predicted": "",
+      "confidence": null,
+      "lev_dist": 3,
+      "lev_ratio": 1.0,
+      "cer": 0,
+      "dice_index": 0.0,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "jenny",
+      "predicted": "",
+      "confidence": null,
+      "lev_dist": 5,
+      "lev_ratio": 1.0,
+      "cer": 0,
+      "dice_index": 0.0,
+      "exact_match": false
+    },
+    {
+      "processing_time": 3.3822
+    }
+  ],
+  "IMG_1282": [
+    {
+      "ground_truth": "software",
+      "predicted": "software",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "design",
+      "predicted": "design",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "for",
+      "predicted": "for",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "real-time",
+      "predicted": "real-time",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "systems",
+      "predicted": "systems",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "j",
+      "predicted": "j.",
+      "confidence": null,
+      "lev_dist": 1,
+      "lev_ratio": 1.0,
+      "cer": 0.5,
+      "dice_index": 0.0,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "e",
+      "predicted": "e.",
+      "confidence": null,
+      "lev_dist": 1,
+      "lev_ratio": 1.0,
+      "cer": 0.5,
+      "dice_index": 0.0,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "cooling",
+      "predicted": "cooling",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "processing_time": 1.6419
+    }
+  ],
+  "IMG_1283": [
+    {
+      "ground_truth": "nokia",
+      "predicted": "nokia",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "adapter",
+      "predicted": "adapter",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "cable",
+      "predicted": "cable",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "dlr-3p",
+      "predicted": "dlr-3p",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "a4382",
+      "predicted": "a4382",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "6210",
+      "predicted": "6210",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "data",
+      "predicted": "data",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "processing_time": 2.3175
+    }
+  ],
+  "IMG_1284": [
+    {
+      "ground_truth": "professional",
+      "predicted": "professional",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "issues",
+      "predicted": "issues",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "in",
+      "predicted": "in",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "software",
+      "predicted": "software",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "engineering",
+      "predicted": "engineering",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "frank",
+      "predicted": "frank",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "bott",
+      "predicted": "bott",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "allison",
+      "predicted": "allison",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "coleman",
+      "predicted": "coleman",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "jack",
+      "predicted": "jack",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "eaton",
+      "predicted": "eaton",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "diane",
+      "predicted": "diane",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "rowland",
+      "predicted": "rowland",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "third",
+      "predicted": "third",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "edition",
+      "predicted": "edition",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "processing_time": 1.9627
+    }
+  ],
+  "IMG_1285": [
+    {
+      "ground_truth": "silberschatz",
+      "predicted": "silberschatz",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "galvin",
+      "predicted": "galvin",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "operating",
+      "predicted": "operating",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "system",
+      "predicted": "system",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "concepts",
+      "predicted": "concepts",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "fifth",
+      "predicted": "fifth",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "edition",
+      "predicted": "edition",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "processing_time": 1.6878
+    }
+  ],
+  "IMG_1286": [
+    {
+      "ground_truth": "systems",
+      "predicted": "systems",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "series",
+      "predicted": "series",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "systems",
+      "predicted": "systems",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "analysis",
+      "predicted": "analysis,",
+      "confidence": null,
+      "lev_dist": 1,
+      "lev_ratio": 0.125,
+      "cer": 0.1111,
+      "dice_index": 0.9333,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "design",
+      "predicted": "design",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "stems",
+      "predicted": "systems",
+      "confidence": null,
+      "lev_dist": 2,
+      "lev_ratio": 0.4,
+      "cer": 0.2857,
+      "dice_index": 0.8,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "id",
+      "predicted": "david",
+      "confidence": null,
+      "lev_dist": 2,
+      "lev_ratio": 1.0,
+      "cer": 0.4,
+      "dice_index": 0.4,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "mason",
+      "predicted": "mason",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "leslie",
+      "predicted": "leslie",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "willcocks",
+      "predicted": "willcocks",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "business",
+      "predicted": "business",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "strategy",
+      "predicted": "strategy",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "it",
+      "predicted": "it",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "information",
+      "predicted": "information",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "processing_time": 2.438
+    }
+  ],
+  "IMG_1288": [
+    {
+      "ground_truth": "under",
+      "predicted": "",
+      "confidence": null,
+      "lev_dist": 5,
+      "lev_ratio": 1.0,
+      "cer": 0,
+      "dice_index": 0.0,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "wear",
+      "predicted": "wear.",
+      "confidence": null,
+      "lev_dist": 1,
+      "lev_ratio": 0.25,
+      "cer": 0.2,
+      "dice_index": 0.8571,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "s",
+      "predicted": "",
+      "confidence": null,
+      "lev_dist": 1,
+      "lev_ratio": 1.0,
+      "cer": 0,
+      "dice_index": 0.0,
+      "exact_match": false
+    },
+    {
+      "processing_time": 5.1543
+    }
+  ],
+  "IMG_1289": [
+    {
+      "ground_truth": "alan",
+      "predicted": "alan",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "clements",
+      "predicted": "clements",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "t",
+      "predicted": "the",
+      "confidence": null,
+      "lev_dist": 1,
+      "lev_ratio": 1.0,
+      "cer": 0.3333,
+      "dice_index": 0.0,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "rinciples",
+      "predicted": "principles",
+      "confidence": null,
+      "lev_dist": 1,
+      "lev_ratio": 0.1111,
+      "cer": 0.1,
+      "dice_index": 0.9412,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "of",
+      "predicted": "of",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "omputer",
+      "predicted": "computer",
+      "confidence": null,
+      "lev_dist": 1,
+      "lev_ratio": 0.1429,
+      "cer": 0.125,
+      "dice_index": 0.9231,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "hardware",
+      "predicted": "hardware",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "second",
+      "predicted": "second",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "edition",
+      "predicted": "edition",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "processing_time": 43.7185
+    }
+  ],
+  "IMG_1290": [
+    {
+      "ground_truth": "software",
+      "predicted": "software",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "engineering",
+      "predicted": "engineering",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "ian",
+      "predicted": "ian",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "sommerville",
+      "predicted": "sommerville",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "processing_time": 3.2204
+    }
+  ],
+  "IMG_1291": [
+    {
+      "ground_truth": "vaio",
+      "predicted": "create",
+      "confidence": null,
+      "lev_dist": 4,
+      "lev_ratio": 1.0,
+      "cer": 0.6667,
+      "dice_index": 0.0,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "go",
+      "predicted": "go",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "create",
+      "predicted": "create",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "sony",
+      "predicted": "sony",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "processing_time": 43.2083
+    }
+  ],
+  "IMG_1292": [
+    {
+      "ground_truth": "conditions",
+      "predicted": "",
+      "confidence": null,
+      "lev_dist": 10,
+      "lev_ratio": 1.0,
+      "cer": 0,
+      "dice_index": 0.0,
+      "exact_match": false
+    },
+    {
+      "processing_time": 8.0107
+    }
+  ],
+  "IMG_1293": [
+    {
+      "ground_truth": "handle",
+      "predicted": "handle",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "with",
+      "predicted": "with",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "care",
+      "predicted": "care",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "pleaes",
+      "predicted": "please",
+      "confidence": null,
+      "lev_dist": 2,
+      "lev_ratio": 0.3333,
+      "cer": 0.3333,
+      "dice_index": 0.6,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "return",
+      "predicted": "return",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "to",
+      "predicted": "to:",
+      "confidence": null,
+      "lev_dist": 1,
+      "lev_ratio": 0.5,
+      "cer": 0.3333,
+      "dice_index": 0.6667,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "future",
+      "predicted": "future",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "publishing",
+      "predicted": "publishing",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "ltd",
+      "predicted": "ltd,",
+      "confidence": null,
+      "lev_dist": 1,
+      "lev_ratio": 0.3333,
+      "cer": 0.25,
+      "dice_index": 0.8,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "somerton",
+      "predicted": "somerton,",
+      "confidence": null,
+      "lev_dist": 1,
+      "lev_ratio": 0.125,
+      "cer": 0.1111,
+      "dice_index": 0.9333,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "ta11",
+      "predicted": "ta11",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "6tb",
+      "predicted": "6tb,",
+      "confidence": null,
+      "lev_dist": 1,
+      "lev_ratio": 0.3333,
+      "cer": 0.25,
+      "dice_index": 0.8,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "united",
+      "predicted": "united",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "kingdom",
+      "predicted": "kingdom.",
+      "confidence": null,
+      "lev_dist": 1,
+      "lev_ratio": 0.1429,
+      "cer": 0.125,
+      "dice_index": 0.9231,
+      "exact_match": false
+    },
+    {
+      "processing_time": 6.0787
+    }
+  ],
+  "IMG_1294": [
+    {
+      "ground_truth": "hsbc",
+      "predicted": "hsbc",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "processing_time": 4.1287
+    }
+  ],
+  "IMG_1298": [
+    {
+      "ground_truth": "edition",
+      "predicted": "to",
+      "confidence": null,
+      "lev_dist": 5,
+      "lev_ratio": 0.7143,
+      "cer": 2.5,
+      "dice_index": 0.0,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "systems",
+      "predicted": "systems",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "database",
+      "predicted": "database",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "an",
+      "predicted": "an",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "introduction",
+      "predicted": "introduction",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "to",
+      "predicted": "",
+      "confidence": null,
+      "lev_dist": 2,
+      "lev_ratio": 1.0,
+      "cer": 0,
+      "dice_index": 0.0,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "c.j.",
+      "predicted": "",
+      "confidence": null,
+      "lev_dist": 4,
+      "lev_ratio": 1.0,
+      "cer": 0,
+      "dice_index": 0.0,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "date",
+      "predicted": "",
+      "confidence": null,
+      "lev_dist": 4,
+      "lev_ratio": 1.0,
+      "cer": 0,
+      "dice_index": 0.0,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "sixth",
+      "predicted": "",
+      "confidence": null,
+      "lev_dist": 5,
+      "lev_ratio": 1.0,
+      "cer": 0,
+      "dice_index": 0.0,
+      "exact_match": false
+    },
+    {
+      "processing_time": 6.1366
+    }
+  ],
+  "IMG_1299": [
+    {
+      "ground_truth": "stuart",
+      "predicted": "stuart",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "russell",
+      "predicted": "russell",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "peter",
+      "predicted": "peter",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "norvig",
+      "predicted": "norvig",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "intelligence",
+      "predicted": "intelligence",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "rtificial",
+      "predicted": "artificial",
+      "confidence": null,
+      "lev_dist": 1,
+      "lev_ratio": 0.1111,
+      "cer": 0.1,
+      "dice_index": 0.9412,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "a",
+      "predicted": "a",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "modern",
+      "predicted": "modern",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "approach",
+      "predicted": "approach",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "processing_time": 6.2287
+    }
+  ],
+  "IMG_1300": [
+    {
+      "ground_truth": "essence",
+      "predicted": "essence",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "of",
+      "predicted": "of",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "computing",
+      "predicted": "computing",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "the",
+      "predicted": "the",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "essence",
+      "predicted": "essence",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "of",
+      "predicted": "of",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "artificial",
+      "predicted": "artificial",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "intelligence",
+      "predicted": "intelligence",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "processing_time": 8.2881
+    }
+  ],
+  "IMG_1301": [
+    {
+      "ground_truth": "students",
+      "predicted": "students",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "engineering",
+      "predicted": "engineering",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "for",
+      "predicted": "for",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "communication",
+      "predicted": "communication",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "processing_time": 11.7827
+    }
+  ],
+  "IMG_1302": [
+    {
+      "ground_truth": "o",
+      "predicted": "computer",
+      "confidence": null,
+      "lev_dist": 1,
+      "lev_ratio": 1.0,
+      "cer": 0.125,
+      "dice_index": 0.0,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "c",
+      "predicted": "",
+      "confidence": null,
+      "lev_dist": 1,
+      "lev_ratio": 1.0,
+      "cer": 0,
+      "dice_index": 0.0,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "i",
+      "predicted": "",
+      "confidence": null,
+      "lev_dist": 1,
+      "lev_ratio": 1.0,
+      "cer": 0,
+      "dice_index": 0.0,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "international",
+      "predicted": "international",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "computer",
+      "predicted": "computer",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "science",
+      "predicted": "science",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "series",
+      "predicted": "series",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "discrete",
+      "predicted": "discrete",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "mathematics",
+      "predicted": "mathematics",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "for",
+      "predicted": "for",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "scientists",
+      "predicted": "scientists",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "processing_time": 4.9834
+    }
+  ],
+  "IMG_1303": [
+    {
+      "ground_truth": "release",
+      "predicted": "release",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "of",
+      "predicted": "of",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "net",
+      "predicted": ".net",
+      "confidence": null,
+      "lev_dist": 1,
+      "lev_ratio": 0.3333,
+      "cer": 0.25,
+      "dice_index": 0.8,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "v10",
+      "predicted": "v1.0",
+      "confidence": null,
+      "lev_dist": 1,
+      "lev_ratio": 0.3333,
+      "cer": 0.25,
+      "dice_index": 0.4,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "marco",
+      "predicted": "marco",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "bellinaso",
+      "predicted": "bellinaso",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "and",
+      "predicted": "and",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "kevin",
+      "predicted": "kevin",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "hoffman",
+      "predicted": "hoffman",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "wrox",
+      "predicted": "wrox",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "wrox",
+      "predicted": "wrox",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "technical",
+      "predicted": "technical",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "support",
+      "predicted": "support",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "at",
+      "predicted": "at:",
+      "confidence": null,
+      "lev_dist": 1,
+      "lev_ratio": 0.5,
+      "cer": 0.3333,
+      "dice_index": 0.6667,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "wroxcom",
+      "predicted": "support@wrox.com",
+      "confidence": null,
+      "lev_dist": 7,
+      "lev_ratio": 1.0,
+      "cer": 0.4375,
+      "dice_index": 0.4762,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "updates",
+      "predicted": "updates",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "source",
+      "predicted": "source",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "code",
+      "predicted": "code",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "www",
+      "predicted": "www.wrox.com",
+      "confidence": null,
+      "lev_dist": 3,
+      "lev_ratio": 1.0,
+      "cer": 0.25,
+      "dice_index": 0.1818,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "peer",
+      "predicted": "peer",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "discussion",
+      "predicted": "discussion",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "p2p",
+      "predicted": "p2p.wrox.com",
+      "confidence": null,
+      "lev_dist": 3,
+      "lev_ratio": 1.0,
+      "cer": 0.25,
+      "dice_index": 0.3077,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "programmer",
+      "predicted": "programmer",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "to",
+      "predicted": "to",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "aspnet",
+      "predicted": "asp.net",
+      "confidence": null,
+      "lev_dist": 1,
+      "lev_ratio": 0.1667,
+      "cer": 0.1429,
+      "dice_index": 0.7273,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "website",
+      "predicted": "website",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "programming",
+      "predicted": "programming",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "problem",
+      "predicted": "problem",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "design",
+      "predicted": "design",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "solution",
+      "predicted": "solution",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "written",
+      "predicted": "written",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "tested",
+      "predicted": "tested",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "for",
+      "predicted": "for",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "final",
+      "predicted": "final",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "processing_time": 43.6394
+    }
+  ],
+  "IMG_1304": [
+    {
+      "ground_truth": "wolfgang",
+      "predicted": "wolfgang",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "emmerich",
+      "predicted": "emmerich",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "engin",
+      "predicted": "engineering",
+      "confidence": null,
+      "lev_dist": 5,
+      "lev_ratio": 1.0,
+      "cer": 0.4545,
+      "dice_index": 0.6667,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "ing",
+      "predicted": "",
+      "confidence": null,
+      "lev_dist": 3,
+      "lev_ratio": 1.0,
+      "cer": 0,
+      "dice_index": 0.0,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "distributed",
+      "predicted": "distributed",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "objects",
+      "predicted": "objects",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "processing_time": 44.1169
+    }
+  ],
+  "Img_1305": [
+    {
+      "ground_truth": "lights",
+      "predicted": "lights",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "marlboro",
+      "predicted": "marlboro",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "processing_time": 0.5238
+    }
+  ],
+  "IMG_1306": [
+    {
+      "ground_truth": "autumn",
+      "predicted": "autumn/winter",
+      "confidence": null,
+      "lev_dist": 6,
+      "lev_ratio": 1.0,
+      "cer": 0.4615,
+      "dice_index": 0.5882,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "winter",
+      "predicted": "2002",
+      "confidence": null,
+      "lev_dist": 6,
+      "lev_ratio": 1.0,
+      "cer": 1.5,
+      "dice_index": 0.0,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "2001",
+      "predicted": "2001",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "processing_time": 44.097
+    }
+  ],
+  "IMG_1307": [
+    {
+      "ground_truth": "argos",
+      "predicted": "argos",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "processing_time": 11.3671
+    }
+  ],
+  "IMG_1308": [
+    {
+      "ground_truth": "philips",
+      "predicted": "philips",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "fisio",
+      "predicted": "fisio",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "820e",
+      "predicted": "820e",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "processing_time": 4.0547
+    }
+  ],
+  "IMG_1311": [
+    {
+      "ground_truth": "inspiring",
+      "predicted": "inspiring",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "scenes",
+      "predicted": "gardenes",
+      "confidence": null,
+      "lev_dist": 4,
+      "lev_ratio": 0.6667,
+      "cer": 0.5,
+      "dice_index": 0.5,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "the",
+      "predicted": "100000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+      "confidence": null,
+      "lev_dist": 3,
+      "lev_ratio": 1.0,
+      "cer": 0.003,
+      "dice_index": 0.0,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "edinburg",
+      "predicted": "edinburgh",
+      "confidence": null,
+      "lev_dist": 1,
+      "lev_ratio": 0.125,
+      "cer": 0.1111,
+      "dice_index": 0.9333,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "festivals",
+      "predicted": "festival's",
+      "confidence": null,
+      "lev_dist": 1,
+      "lev_ratio": 0.1111,
+      "cer": 0.1,
+      "dice_index": 0.8235,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "most",
+      "predicted": "most",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "processing_time": 43.7765
+    }
+  ],
+  "IMG_1312": [
+    {
+      "ground_truth": "espmoto",
+      "predicted": "espmoto",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "experience",
+      "predicted": "experience",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "the",
+      "predicted": "the",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "revolution",
+      "predicted": "revolution",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "with",
+      "predicted": "with",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "orange",
+      "predicted": "orange",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "to",
+      "predicted": "to",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "order",
+      "predicted": "order",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "your",
+      "predicted": "your",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "v70e",
+      "predicted": "v70e",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "on",
+      "predicted": "on",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "please",
+      "predicted": "please",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "call",
+      "predicted": "call",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "150",
+      "predicted": "150",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "and",
+      "predicted": "and",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "press",
+      "predicted": "press",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "orange",
+      "predicted": "orange™",
+      "confidence": null,
+      "lev_dist": 1,
+      "lev_ratio": 0.1667,
+      "cer": 0.1429,
+      "dice_index": 0.9091,
+      "exact_match": false
+    },
+    {
+      "processing_time": 4.7646
+    }
+  ],
+  "Img_1313": [
+    {
+      "ground_truth": "blackhorse",
+      "predicted": "blackhorse",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "person",
+      "predicted": "personal",
+      "confidence": null,
+      "lev_dist": 2,
+      "lev_ratio": 0.3333,
+      "cer": 0.25,
+      "dice_index": 0.8333,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "finan",
+      "predicted": "financial",
+      "confidence": null,
+      "lev_dist": 4,
+      "lev_ratio": 0.8,
+      "cer": 0.4444,
+      "dice_index": 0.6667,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "it",
+      "predicted": "it",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "borrow",
+      "predicted": "borrow",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "£25,000",
+      "predicted": "£25,000",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "for",
+      "predicted": "for",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "just",
+      "predicted": "just",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "£198$",
+      "predicted": "£198",
+      "confidence": null,
+      "lev_dist": 1,
+      "lev_ratio": 0.2,
+      "cer": 0.25,
+      "dice_index": 0.8571,
+      "exact_match": false
+    },
+    {
+      "processing_time": 1.797
+    }
+  ],
+  "IMG_1315": [
+    {
+      "ground_truth": "summer",
+      "predicted": "summer",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "2002",
+      "predicted": "2002",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "processing_time": 1.1859
+    }
+  ],
+  "IMG_1316": [
+    {
+      "ground_truth": "orange",
+      "predicted": "orange™",
+      "confidence": null,
+      "lev_dist": 1,
+      "lev_ratio": 0.1667,
+      "cer": 0.1429,
+      "dice_index": 0.9091,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "sounds",
+      "predicted": "sounds",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "of",
+      "predicted": "of",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "summer",
+      "predicted": "summer",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "events",
+      "predicted": "00150295",
+      "confidence": null,
+      "lev_dist": 6,
+      "lev_ratio": 1.0,
+      "cer": 0.75,
+      "dice_index": 0.0,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "music",
+      "predicted": "",
+      "confidence": null,
+      "lev_dist": 5,
+      "lev_ratio": 1.0,
+      "cer": 0,
+      "dice_index": 0.0,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "live",
+      "predicted": "",
+      "confidence": null,
+      "lev_dist": 4,
+      "lev_ratio": 1.0,
+      "cer": 0,
+      "dice_index": 0.0,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "best",
+      "predicted": "",
+      "confidence": null,
+      "lev_dist": 4,
+      "lev_ratio": 1.0,
+      "cer": 0,
+      "dice_index": 0.0,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "the",
+      "predicted": "the",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "o",
+      "predicted": "",
+      "confidence": null,
+      "lev_dist": 1,
+      "lev_ratio": 1.0,
+      "cer": 0,
+      "dice_index": 0.0,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "he's",
+      "predicted": "",
+      "confidence": null,
+      "lev_dist": 4,
+      "lev_ratio": 1.0,
+      "cer": 0,
+      "dice_index": 0.0,
+      "exact_match": false
+    },
+    {
+      "processing_time": 1.9728
+    }
+  ],
+  "IMG_1317": [
+    {
+      "ground_truth": "building",
+      "predicted": "building",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "web",
+      "predicted": "web",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "services",
+      "predicted": "services",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "with",
+      "predicted": "with",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "java",
+      "predicted": "java™",
+      "confidence": null,
+      "lev_dist": 1,
+      "lev_ratio": 0.25,
+      "cer": 0.2,
+      "dice_index": 0.8571,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "tm",
+      "predicted": "",
+      "confidence": null,
+      "lev_dist": 2,
+      "lev_ratio": 1.0,
+      "cer": 0,
+      "dice_index": 0.0,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "making",
+      "predicted": "making",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "sence",
+      "predicted": "sense",
+      "confidence": null,
+      "lev_dist": 1,
+      "lev_ratio": 0.2,
+      "cer": 0.2,
+      "dice_index": 0.5714,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "of",
+      "predicted": "of",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "xml",
+      "predicted": "xml,",
+      "confidence": null,
+      "lev_dist": 1,
+      "lev_ratio": 0.3333,
+      "cer": 0.25,
+      "dice_index": 0.8,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "soap",
+      "predicted": "soap,",
+      "confidence": null,
+      "lev_dist": 1,
+      "lev_ratio": 0.25,
+      "cer": 0.2,
+      "dice_index": 0.8571,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "wsdl",
+      "predicted": "wsdl,",
+      "confidence": null,
+      "lev_dist": 1,
+      "lev_ratio": 0.25,
+      "cer": 0.2,
+      "dice_index": 0.8571,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "and",
+      "predicted": "and",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "uddi",
+      "predicted": "uddi",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "processing_time": 3.9866
+    }
+  ],
+  "average_metrics": {
+    "avg_cer": 0.0615,
+    "avg_levenshtein_distance": 0.6465,
+    "avg_levenshtein_ratio": 0.1587,
+    "avg_exact_match": 0.7508,
+    "avg_dice_index": 0.8554
+  }
+}

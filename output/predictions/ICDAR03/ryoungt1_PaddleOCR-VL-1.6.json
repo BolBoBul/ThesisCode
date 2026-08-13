@@ -1,0 +1,661 @@
+{
+  "036._": {
+    "predictions": [
+      [
+        "FREEDOM",
+        null
+      ]
+    ],
+    "time": 0.3251
+  },
+  "ball": {
+    "predictions": [
+      [
+        "The",
+        null
+      ],
+      [
+        "text",
+        null
+      ],
+      [
+        "in",
+        null
+      ],
+      [
+        "the",
+        null
+      ],
+      [
+        "image",
+        null
+      ],
+      [
+        "is",
+        null
+      ],
+      [
+        "too",
+        null
+      ],
+      [
+        "blurry",
+        null
+      ],
+      [
+        "to",
+        null
+      ],
+      [
+        "be",
+        null
+      ],
+      [
+        "identified.",
+        null
+      ],
+      [
+        "Please",
+        null
+      ],
+      [
+        "provide",
+        null
+      ],
+      [
+        "a",
+        null
+      ],
+      [
+        "image",
+        null
+      ],
+      [
+        "that",
+        null
+      ],
+      [
+        "features",
+        null
+      ],
+      [
+        "text.",
+        null
+      ]
+    ],
+    "time": 1.6985
+  },
+  "benone": {
+    "predictions": [
+      [
+        "The",
+        null
+      ],
+      [
+        "image",
+        null
+      ],
+      [
+        "is",
+        null
+      ],
+      [
+        "too",
+        null
+      ],
+      [
+        "blurry",
+        null
+      ],
+      [
+        "to",
+        null
+      ],
+      [
+        "recognize",
+        null
+      ],
+      [
+        "any",
+        null
+      ],
+      [
+        "text",
+        null
+      ],
+      [
+        "content.",
+        null
+      ]
+    ],
+    "time": 1.0168
+  },
+  "from_joanne": {
+    "predictions": [
+      [
+        "Robert",
+        null
+      ]
+    ],
+    "time": 0.1906
+  },
+  "goose": {
+    "predictions": [
+      [
+        "The",
+        null
+      ],
+      [
+        "text",
+        null
+      ],
+      [
+        "in",
+        null
+      ],
+      [
+        "the",
+        null
+      ],
+      [
+        "image",
+        null
+      ],
+      [
+        "is",
+        null
+      ],
+      [
+        "too",
+        null
+      ],
+      [
+        "blurry",
+        null
+      ],
+      [
+        "to",
+        null
+      ],
+      [
+        "be",
+        null
+      ],
+      [
+        "identified.",
+        null
+      ],
+      [
+        "Please",
+        null
+      ],
+      [
+        "provide",
+        null
+      ],
+      [
+        "a",
+        null
+      ],
+      [
+        "image",
+        null
+      ],
+      [
+        "that",
+        null
+      ],
+      [
+        "features",
+        null
+      ],
+      [
+        "text.",
+        null
+      ]
+    ],
+    "time": 5.8106
+  },
+  "mach": {
+    "predictions": [
+      [
+        "The",
+        null
+      ],
+      [
+        "text",
+        null
+      ],
+      [
+        "in",
+        null
+      ],
+      [
+        "the",
+        null
+      ],
+      [
+        "image",
+        null
+      ],
+      [
+        "is",
+        null
+      ],
+      [
+        "too",
+        null
+      ],
+      [
+        "blurry",
+        null
+      ],
+      [
+        "to",
+        null
+      ],
+      [
+        "be",
+        null
+      ],
+      [
+        "identified.",
+        null
+      ],
+      [
+        "Please",
+        null
+      ],
+      [
+        "provide",
+        null
+      ],
+      [
+        "a",
+        null
+      ],
+      [
+        "image",
+        null
+      ],
+      [
+        "of",
+        null
+      ],
+      [
+        "the",
+        null
+      ],
+      [
+        "text.",
+        null
+      ]
+    ],
+    "time": 5.813
+  },
+  "PICT0004": {
+    "predictions": [
+      [
+        "WALLACE",
+        null
+      ]
+    ],
+    "time": 0.3234
+  },
+  "PICT0005": {
+    "predictions": [
+      [
+        "YOU",
+        null
+      ],
+      [
+        "ARE",
+        null
+      ],
+      [
+        "HERE",
+        null
+      ]
+    ],
+    "time": 0.3254
+  },
+  "PICT0010": {
+    "predictions": [
+      [
+        "Gates",
+        null
+      ],
+      [
+        "30",
+        null
+      ],
+      [
+        "&",
+        null
+      ],
+      [
+        "88",
+        null
+      ],
+      [
+        "Emergency",
+        null
+      ],
+      [
+        "exit",
+        null
+      ]
+    ],
+    "time": 3.9577
+  },
+  "PICT0011": {
+    "predictions": [
+      [
+        "RYANAIR.com",
+        null
+      ],
+      [
+        "S.J.",
+        null
+      ]
+    ],
+    "time": 2.9132
+  },
+  "PICT0015": {
+    "predictions": [
+      [
+        "DIONIM",
+        null
+      ],
+      [
+        "DIVISION",
+        null
+      ]
+    ],
+    "time": 1.5981
+  },
+  "PICT0019": {
+    "predictions": [
+      [
+        "THE",
+        null
+      ],
+      [
+        "WALLACE",
+        null
+      ],
+      [
+        "SWORD",
+        null
+      ]
+    ],
+    "time": 0.5579
+  },
+  "Pict0020": {
+    "predictions": [
+      [
+        "NATIONAL",
+        null
+      ]
+    ],
+    "time": 0.8015
+  },
+  "PICT0022": {
+    "predictions": [
+      [
+        "GLADSTONE",
+        null
+      ],
+      [
+        "1800",
+        null
+      ],
+      [
+        "-",
+        null
+      ],
+      [
+        "1894",
+        null
+      ]
+    ],
+    "time": 1.2515
+  },
+  "PICT0023": {
+    "predictions": [
+      [
+        "HALL",
+        null
+      ],
+      [
+        "OF",
+        null
+      ],
+      [
+        "HEROES",
+        null
+      ]
+    ],
+    "time": 0.5542
+  },
+  "PICT0025": {
+    "predictions": [
+      [
+        "DOLLAR",
+        null
+      ],
+      [
+        "GLEN",
+        null
+      ],
+      [
+        "AND",
+        null
+      ],
+      [
+        "CASTLE",
+        null
+      ],
+      [
+        "CAMPBELL",
+        null
+      ]
+    ],
+    "time": 1.0165
+  },
+  "PICT0026": {
+    "predictions": [
+      [
+        "ANCIENT",
+        null
+      ],
+      [
+        "MONUMENT",
+        null
+      ]
+    ],
+    "time": 0.4788
+  },
+  "PICT0029": {
+    "predictions": [
+      [
+        "RESERVED",
+        null
+      ],
+      [
+        "FOR",
+        null
+      ],
+      [
+        "CLUB",
+        null
+      ],
+      [
+        "SECRETARY",
+        null
+      ]
+    ],
+    "time": 0.6335
+  },
+  "PICT0030": {
+    "predictions": [
+      [
+        "DOLLAR",
+        null
+      ],
+      [
+        "GOLF",
+        null
+      ],
+      [
+        "CLUB",
+        null
+      ],
+      [
+        "二",
+        null
+      ]
+    ],
+    "time": 0.7036
+  },
+  "PICT0031": {
+    "predictions": [
+      [
+        "WEST",
+        null
+      ],
+      [
+        "BURNSIDE",
+        null
+      ]
+    ],
+    "time": 0.4034
+  },
+  "PICT0042": {
+    "predictions": [
+      [
+        "THE",
+        null
+      ],
+      [
+        "DOLLAR",
+        null
+      ],
+      [
+        "ARMS",
+        null
+      ]
+    ],
+    "time": 0.5487
+  },
+  "PICT0043": {
+    "predictions": [
+      [
+        "CASTLE",
+        null
+      ],
+      [
+        "CAMPBELL",
+        null
+      ]
+    ],
+    "time": 0.5524
+  },
+  "PICT0048": {
+    "predictions": [
+      [
+        "No",
+        null
+      ],
+      [
+        "footway",
+        null
+      ],
+      [
+        "for",
+        null
+      ],
+      [
+        "450",
+        null
+      ],
+      [
+        "yds",
+        null
+      ]
+    ],
+    "time": 0.8622
+  },
+  "PICT0049": {
+    "predictions": [
+      [
+        "The",
+        null
+      ],
+      [
+        "image",
+        null
+      ],
+      [
+        "is",
+        null
+      ],
+      [
+        "too",
+        null
+      ],
+      [
+        "blurry",
+        null
+      ],
+      [
+        "to",
+        null
+      ],
+      [
+        "recognize",
+        null
+      ],
+      [
+        "any",
+        null
+      ],
+      [
+        "text",
+        null
+      ],
+      [
+        "content.",
+        null
+      ]
+    ],
+    "time": 1.0148
+  },
+  "PICT0052": {
+    "predictions": [
+      [
+        "STIRLING",
+        null
+      ],
+      [
+        "CASTLE",
+        null
+      ],
+      [
+        "ARGYLL'S",
+        null
+      ],
+      [
+        "LODGINGS",
+        null
+      ]
+    ],
+    "time": 1.2534
+  },
+  "batch_info": {
+    "Batch #1": {
+      "time": "0min_34s_842ms",
+      "size": 25
+    }
+  }
+}

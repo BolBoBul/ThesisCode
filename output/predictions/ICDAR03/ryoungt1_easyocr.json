@@ -1,0 +1,360 @@
+{
+  "036._": {
+    "predictions": [],
+    "time": 0.0364
+  },
+  "ball": {
+    "predictions": [],
+    "time": 0.0288
+  },
+  "benone": {
+    "predictions": [],
+    "time": 0.0263
+  },
+  "from_joanne": {
+    "predictions": [
+      [
+        "let",
+        65.255
+      ],
+      [
+        "u",
+        65.255
+      ],
+      [
+        "Knau",
+        65.255
+      ],
+      [
+        "Q",
+        64.5448
+      ],
+      [
+        "sbudent",
+        86.4929
+      ],
+      [
+        "U",
+        70.3657
+      ],
+      [
+        "t",
+        87.5231
+      ],
+      [
+        "0",
+        89.4776
+      ],
+      [
+        "bamp",
+        97.7066
+      ],
+      [
+        "!",
+        97.7066
+      ],
+      [
+        "U",
+        98.908
+      ],
+      [
+        "not",
+        73.5089
+      ]
+    ],
+    "time": 0.2406
+  },
+  "goose": {
+    "predictions": [],
+    "time": 0.1224
+  },
+  "mach": {
+    "predictions": [],
+    "time": 0.1206
+  },
+  "PICT0004": {
+    "predictions": [
+      [
+        "WALLACE",
+        99.9647
+      ],
+      [
+        "MONUMENT",
+        70.4726
+      ]
+    ],
+    "time": 0.0683
+  },
+  "PICT0005": {
+    "predictions": [
+      [
+        "YOU",
+        88.2113
+      ],
+      [
+        "ARE",
+        88.2113
+      ],
+      [
+        "HERE",
+        99.9847
+      ]
+    ],
+    "time": 0.046
+  },
+  "PICT0010": {
+    "predictions": [
+      [
+        "Gates",
+        99.9995
+      ],
+      [
+        "30",
+        99.9877
+      ],
+      [
+        "&88",
+        95.7846
+      ],
+      [
+        "Emergency",
+        99.269
+      ]
+    ],
+    "time": 0.1747
+  },
+  "PICT0011": {
+    "predictions": [
+      [
+        "RYANNR",
+        86.0219
+      ]
+    ],
+    "time": 0.1316
+  },
+  "PICT0015": {
+    "predictions": [],
+    "time": 0.1903
+  },
+  "PICT0019": {
+    "predictions": [
+      [
+        "WALLACE",
+        92.431
+      ],
+      [
+        "SWORD",
+        62.4903
+      ]
+    ],
+    "time": 0.0548
+  },
+  "Pict0020": {
+    "predictions": [
+      [
+        "SCOTTISH",
+        99.8525
+      ],
+      [
+        "NATIONAL",
+        99.9733
+      ],
+      [
+        "GALLERY",
+        98.1341
+      ],
+      [
+        "MODERN",
+        66.7913
+      ]
+    ],
+    "time": 0.1659
+  },
+  "PICT0022": {
+    "predictions": [
+      [
+        "CLADSTONF,",
+        73.6427
+      ],
+      [
+        "809",
+        99.9838
+      ]
+    ],
+    "time": 0.0533
+  },
+  "PICT0023": {
+    "predictions": [
+      [
+        "HALL",
+        99.9574
+      ],
+      [
+        "OF",
+        99.9044
+      ],
+      [
+        "HEROES",
+        99.783
+      ]
+    ],
+    "time": 0.0561
+  },
+  "PICT0025": {
+    "predictions": [
+      [
+        "DOLLAR",
+        86.8599
+      ],
+      [
+        "GLEN",
+        99.9931
+      ],
+      [
+        "AND",
+        99.9947
+      ],
+      [
+        "CASTLE",
+        95.1679
+      ],
+      [
+        "CAMPBELL",
+        99.9799
+      ]
+    ],
+    "time": 0.0782
+  },
+  "PICT0026": {
+    "predictions": [
+      [
+        "ANCIENT",
+        81.2019
+      ],
+      [
+        "MONUMENT",
+        81.2019
+      ],
+      [
+        "CASTLE",
+        99.9889
+      ],
+      [
+        "CAMPBELL",
+        99.9051
+      ]
+    ],
+    "time": 0.0645
+  },
+  "PICT0029": {
+    "predictions": [
+      [
+        "RESERVED",
+        94.4933
+      ],
+      [
+        "FOR",
+        94.4933
+      ],
+      [
+        "CLUB",
+        88.2654
+      ],
+      [
+        "SECRETARY",
+        88.2654
+      ]
+    ],
+    "time": 0.0516
+  },
+  "PICT0030": {
+    "predictions": [],
+    "time": 0.0409
+  },
+  "PICT0031": {
+    "predictions": [
+      [
+        "WEST",
+        97.4815
+      ],
+      [
+        "BURNSIDE",
+        97.4815
+      ]
+    ],
+    "time": 0.0369
+  },
+  "PICT0042": {
+    "predictions": [],
+    "time": 0.039
+  },
+  "PICT0043": {
+    "predictions": [
+      [
+        "CASTLE",
+        93.1972
+      ],
+      [
+        "CAMPBELL",
+        93.1972
+      ]
+    ],
+    "time": 0.0398
+  },
+  "PICT0048": {
+    "predictions": [
+      [
+        "No",
+        99.9626
+      ],
+      [
+        "footway",
+        99.9626
+      ],
+      [
+        "for",
+        99.9248
+      ],
+      [
+        "450",
+        99.9248
+      ],
+      [
+        "yds",
+        99.9248
+      ]
+    ],
+    "time": 0.0484
+  },
+  "PICT0049": {
+    "predictions": [],
+    "time": 0.0464
+  },
+  "PICT0052": {
+    "predictions": [
+      [
+        "STIRLING",
+        99.9526
+      ],
+      [
+        "CASTLE",
+        99.9526
+      ],
+      [
+        "ARGYLL'S",
+        96.9963
+      ],
+      [
+        "LODGINGS",
+        96.9963
+      ]
+    ],
+    "time": 0.0698
+  },
+  "batch_info": {
+    "Batch #1": {
+      "time": "0min_34s_387ms",
+      "size": 25
+    }
+  }
+}

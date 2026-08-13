@@ -1,0 +1,3174 @@
+{
+  "IMG_1247": [
+    {
+      "ground_truth": "e",
+      "predicted": "e",
+      "confidence": 89.1017,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "g",
+      "predicted": "y",
+      "confidence": 29.9056,
+      "lev_dist": 1,
+      "lev_ratio": 1.0,
+      "cer": 1.0,
+      "dice_index": 0.0,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "intelligent",
+      "predicted": "intelligent",
+      "confidence": 96.0045,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "inhabited",
+      "predicted": "inhabited",
+      "confidence": 96.3298,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "environments",
+      "predicted": "environments",
+      "confidence": 90.4248,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "group",
+      "predicted": "group",
+      "confidence": 96.3986,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "processing_time": 1.2976
+    }
+  ],
+  "IMG_1252": [
+    {
+      "ground_truth": "panasync",
+      "predicted": "panasyne",
+      "confidence": null,
+      "lev_dist": 1,
+      "lev_ratio": 0.125,
+      "cer": 0.125,
+      "dice_index": 0.8571,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "e70",
+      "predicted": "e70",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "processing_time": 0.2377
+    }
+  ],
+  "IMG_1253": [
+    {
+      "ground_truth": "atlantis",
+      "predicted": "",
+      "confidence": null,
+      "lev_dist": 8,
+      "lev_ratio": 1.0,
+      "cer": 0,
+      "dice_index": 0.0,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "deodorant",
+      "predicted": "",
+      "confidence": null,
+      "lev_dist": 9,
+      "lev_ratio": 1.0,
+      "cer": 0,
+      "dice_index": 0.0,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "bodyspray",
+      "predicted": "",
+      "confidence": null,
+      "lev_dist": 9,
+      "lev_ratio": 1.0,
+      "cer": 0,
+      "dice_index": 0.0,
+      "exact_match": false
+    },
+    {
+      "processing_time": 0.0
+    }
+  ],
+  "IMG_1255": [
+    {
+      "ground_truth": "samsung",
+      "predicted": "samsung",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "pocket",
+      "predicted": "pocket",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "flash",
+      "predicted": "flash",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "processing_time": 0.4016
+    }
+  ],
+  "IMG_1259": [
+    {
+      "ground_truth": "george",
+      "predicted": "george",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "orwell",
+      "predicted": "orwell",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "animal",
+      "predicted": "animal",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "farm",
+      "predicted": "farm",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "processing_time": 0.5343
+    }
+  ],
+  "IMG_1261": [
+    {
+      "ground_truth": "self-adhesive",
+      "predicted": "athesive",
+      "confidence": 76.1369,
+      "lev_dist": 6,
+      "lev_ratio": 0.4615,
+      "cer": 0.75,
+      "dice_index": 0.5263,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "address",
+      "predicted": "address",
+      "confidence": 54.058,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "labels",
+      "predicted": "labels",
+      "confidence": 96.6105,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "36",
+      "predicted": "36.0",
+      "confidence": 94.6504,
+      "lev_dist": 2,
+      "lev_ratio": 1.0,
+      "cer": 0.5,
+      "dice_index": 0.5,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "89m",
+      "predicted": "self",
+      "confidence": 94.3991,
+      "lev_dist": 3,
+      "lev_ratio": 1.0,
+      "cer": 0.75,
+      "dice_index": 0.0,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "250",
+      "predicted": "250.0",
+      "confidence": 96.7056,
+      "lev_dist": 2,
+      "lev_ratio": 0.6667,
+      "cer": 0.4,
+      "dice_index": 0.6667,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "on",
+      "predicted": "on",
+      "confidence": 96.1788,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "a",
+      "predicted": "a",
+      "confidence": 96.8046,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "roll",
+      "predicted": "roll",
+      "confidence": 96.9668,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "processing_time": 1.711
+    }
+  ],
+  "IMG_1263": [
+    {
+      "ground_truth": "natwest",
+      "predicted": "natwest",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "processing_time": 0.2793
+    }
+  ],
+  "IMG_1265": [
+    {
+      "ground_truth": "greek",
+      "predicted": "greek",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "gastronomy",
+      "predicted": "",
+      "confidence": 0.0,
+      "lev_dist": 10,
+      "lev_ratio": 1.0,
+      "cer": 0,
+      "dice_index": 0.0,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "cookery",
+      "predicted": "cookery",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "wines",
+      "predicted": "‘wines",
+      "confidence": null,
+      "lev_dist": 1,
+      "lev_ratio": 0.2,
+      "cer": 0.1667,
+      "dice_index": 0.8889,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "local",
+      "predicted": "",
+      "confidence": 0.0,
+      "lev_dist": 5,
+      "lev_ratio": 1.0,
+      "cer": 0,
+      "dice_index": 0.0,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "toubi's",
+      "predicted": "“tousrs",
+      "confidence": null,
+      "lev_dist": 4,
+      "lev_ratio": 0.5714,
+      "cer": 0.5714,
+      "dice_index": 0.3333,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "specialties",
+      "predicted": "pel",
+      "confidence": 64.4417,
+      "lev_dist": 8,
+      "lev_ratio": 0.7273,
+      "cer": 2.6667,
+      "dice_index": 0.1667,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "festive",
+      "predicted": "",
+      "confidence": 0.0,
+      "lev_dist": 7,
+      "lev_ratio": 1.0,
+      "cer": 0,
+      "dice_index": 0.0,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "recipes",
+      "predicted": "recipes)",
+      "confidence": 18.1297,
+      "lev_dist": 1,
+      "lev_ratio": 0.1429,
+      "cer": 0.125,
+      "dice_index": 0.9231,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "illustrated",
+      "predicted": "",
+      "confidence": 0.0,
+      "lev_dist": 11,
+      "lev_ratio": 1.0,
+      "cer": 0,
+      "dice_index": 0.0,
+      "exact_match": false
+    },
+    {
+      "processing_time": 1.2705
+    }
+  ],
+  "IMG_1269": [
+    {
+      "ground_truth": "the",
+      "predicted": "the",
+      "confidence": 96.5505,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "house",
+      "predicted": "house",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "of",
+      "predicted": "of",
+      "confidence": 96.3742,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "the",
+      "predicted": "the",
+      "confidence": 96.5505,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "spirits",
+      "predicted": "hit",
+      "confidence": 44.821,
+      "lev_dist": 5,
+      "lev_ratio": 0.7143,
+      "cer": 1.6667,
+      "dice_index": 0.25,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "isabel",
+      "predicted": "isabes",
+      "confidence": null,
+      "lev_dist": 1,
+      "lev_ratio": 0.1667,
+      "cer": 0.1667,
+      "dice_index": 0.8,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "allende",
+      "predicted": "allende",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "intensely",
+      "predicted": "‘intensely",
+      "confidence": null,
+      "lev_dist": 1,
+      "lev_ratio": 0.1111,
+      "cer": 0.1,
+      "dice_index": 0.9412,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "moving",
+      "predicted": "moving.",
+      "confidence": 89.9128,
+      "lev_dist": 1,
+      "lev_ratio": 0.1667,
+      "cer": 0.1429,
+      "dice_index": 0.9091,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "both",
+      "predicted": "both:",
+      "confidence": null,
+      "lev_dist": 1,
+      "lev_ratio": 0.25,
+      "cer": 0.2,
+      "dice_index": 0.8571,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "entertaining",
+      "predicted": "‘entertaining",
+      "confidence": 53.4861,
+      "lev_dist": 1,
+      "lev_ratio": 0.0833,
+      "cer": 0.0769,
+      "dice_index": 0.9524,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "and",
+      "predicted": "3.0",
+      "confidence": 12.3331,
+      "lev_dist": 3,
+      "lev_ratio": 1.0,
+      "cer": 1.0,
+      "dice_index": 0.0,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "deeply",
+      "predicted": "‘deeply",
+      "confidence": 50.6184,
+      "lev_dist": 1,
+      "lev_ratio": 0.1667,
+      "cer": 0.1429,
+      "dice_index": 0.9091,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "serious",
+      "predicted": "serious’",
+      "confidence": 39.5007,
+      "lev_dist": 1,
+      "lev_ratio": 0.1429,
+      "cer": 0.125,
+      "dice_index": 0.9231,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "evening",
+      "predicted": "|",
+      "confidence": 57.721,
+      "lev_dist": 7,
+      "lev_ratio": 1.0,
+      "cer": 7.0,
+      "dice_index": 0.0,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "standard",
+      "predicted": "standard",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "processing_time": 2.1984
+    }
+  ],
+  "IMG_1281": [
+    {
+      "ground_truth": "digital",
+      "predicted": "digital",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "multimedia",
+      "predicted": "multimepia",
+      "confidence": null,
+      "lev_dist": 1,
+      "lev_ratio": 0.1,
+      "cer": 0.1,
+      "dice_index": 0.7778,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "wiley",
+      "predicted": ")",
+      "confidence": 69.6732,
+      "lev_dist": 5,
+      "lev_ratio": 1.0,
+      "cer": 5.0,
+      "dice_index": 0.0,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "nigel",
+      "predicted": "nigel",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "chapman",
+      "predicted": "‘chapman",
+      "confidence": null,
+      "lev_dist": 1,
+      "lev_ratio": 0.1429,
+      "cer": 0.125,
+      "dice_index": 0.9231,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "and",
+      "predicted": "and",
+      "confidence": 46.2484,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "jenny",
+      "predicted": "jenny.",
+      "confidence": null,
+      "lev_dist": 1,
+      "lev_ratio": 0.2,
+      "cer": 0.1667,
+      "dice_index": 0.8889,
+      "exact_match": false
+    },
+    {
+      "processing_time": 0.8181
+    }
+  ],
+  "IMG_1282": [
+    {
+      "ground_truth": "software",
+      "predicted": "software",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "design",
+      "predicted": "design",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "for",
+      "predicted": "for",
+      "confidence": 96.6804,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "real-time",
+      "predicted": "real-time",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "systems",
+      "predicted": "systems",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "j",
+      "predicted": "j.",
+      "confidence": null,
+      "lev_dist": 1,
+      "lev_ratio": 1.0,
+      "cer": 0.5,
+      "dice_index": 0.0,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "e",
+      "predicted": "e",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "cooling",
+      "predicted": "cooling",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "processing_time": 1.0633
+    }
+  ],
+  "IMG_1283": [
+    {
+      "ground_truth": "nokia",
+      "predicted": "nokia",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "adapter",
+      "predicted": "|",
+      "confidence": 64.5613,
+      "lev_dist": 7,
+      "lev_ratio": 1.0,
+      "cer": 7.0,
+      "dice_index": 0.0,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "cable",
+      "predicted": "",
+      "confidence": 0.0,
+      "lev_dist": 5,
+      "lev_ratio": 1.0,
+      "cer": 0,
+      "dice_index": 0.0,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "dlr-3p",
+      "predicted": "dlr.",
+      "confidence": null,
+      "lev_dist": 3,
+      "lev_ratio": 0.5,
+      "cer": 0.75,
+      "dice_index": 0.5,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "a4382",
+      "predicted": "3p",
+      "confidence": null,
+      "lev_dist": 4,
+      "lev_ratio": 0.8,
+      "cer": 2.0,
+      "dice_index": 0.0,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "6210",
+      "predicted": "6210.0",
+      "confidence": 61.6364,
+      "lev_dist": 2,
+      "lev_ratio": 0.5,
+      "cer": 0.3333,
+      "dice_index": 0.75,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "data",
+      "predicted": "data",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "processing_time": 0.8808
+    }
+  ],
+  "IMG_1284": [
+    {
+      "ground_truth": "professional",
+      "predicted": "professional",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "issues",
+      "predicted": "issues",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "in",
+      "predicted": "in",
+      "confidence": 72.4212,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "software",
+      "predicted": "software",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "engineering",
+      "predicted": "engineering",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "frank",
+      "predicted": "frank",
+      "confidence": 16.3788,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "bott",
+      "predicted": "<bott",
+      "confidence": 19.2063,
+      "lev_dist": 1,
+      "lev_ratio": 0.25,
+      "cer": 0.2,
+      "dice_index": 0.8571,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "allison",
+      "predicted": "“allison",
+      "confidence": 54.4263,
+      "lev_dist": 1,
+      "lev_ratio": 0.1429,
+      "cer": 0.125,
+      "dice_index": 0.9231,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "coleman",
+      "predicted": "coleman",
+      "confidence": 75.0524,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "jack",
+      "predicted": "“jack",
+      "confidence": 43.3403,
+      "lev_dist": 1,
+      "lev_ratio": 0.25,
+      "cer": 0.2,
+      "dice_index": 0.8571,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "eaton",
+      "predicted": "",
+      "confidence": 0.0,
+      "lev_dist": 5,
+      "lev_ratio": 1.0,
+      "cer": 0,
+      "dice_index": 0.0,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "diane",
+      "predicted": "“diane",
+      "confidence": 53.2484,
+      "lev_dist": 1,
+      "lev_ratio": 0.2,
+      "cer": 0.1667,
+      "dice_index": 0.8889,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "rowland",
+      "predicted": "rowland",
+      "confidence": 58.0737,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "third",
+      "predicted": "",
+      "confidence": 0.0,
+      "lev_dist": 5,
+      "lev_ratio": 1.0,
+      "cer": 0,
+      "dice_index": 0.0,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "edition",
+      "predicted": "",
+      "confidence": 0.0,
+      "lev_dist": 7,
+      "lev_ratio": 1.0,
+      "cer": 0,
+      "dice_index": 0.0,
+      "exact_match": false
+    },
+    {
+      "processing_time": 1.7001
+    }
+  ],
+  "IMG_1285": [
+    {
+      "ground_truth": "silberschatz",
+      "predicted": "chat",
+      "confidence": null,
+      "lev_dist": 8,
+      "lev_ratio": 0.6667,
+      "cer": 2.0,
+      "dice_index": 0.4286,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "galvin",
+      "predicted": "",
+      "confidence": 0.0,
+      "lev_dist": 6,
+      "lev_ratio": 1.0,
+      "cer": 0,
+      "dice_index": 0.0,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "operating",
+      "predicted": "operating",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "system",
+      "predicted": "system",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "concepts",
+      "predicted": "oncepts",
+      "confidence": null,
+      "lev_dist": 1,
+      "lev_ratio": 0.125,
+      "cer": 0.1429,
+      "dice_index": 0.9231,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "fifth",
+      "predicted": "|",
+      "confidence": 88.1647,
+      "lev_dist": 5,
+      "lev_ratio": 1.0,
+      "cer": 5.0,
+      "dice_index": 0.0,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "edition",
+      "predicted": "‘edition",
+      "confidence": null,
+      "lev_dist": 1,
+      "lev_ratio": 0.1429,
+      "cer": 0.125,
+      "dice_index": 0.9231,
+      "exact_match": false
+    },
+    {
+      "processing_time": 0.8875
+    }
+  ],
+  "IMG_1286": [
+    {
+      "ground_truth": "systems",
+      "predicted": "systems",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "series",
+      "predicted": "‘series",
+      "confidence": null,
+      "lev_dist": 1,
+      "lev_ratio": 0.1667,
+      "cer": 0.1429,
+      "dice_index": 0.9091,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "systems",
+      "predicted": "‘systems.",
+      "confidence": null,
+      "lev_dist": 2,
+      "lev_ratio": 0.2857,
+      "cer": 0.2222,
+      "dice_index": 0.8571,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "analysis",
+      "predicted": "analysis,",
+      "confidence": null,
+      "lev_dist": 1,
+      "lev_ratio": 0.125,
+      "cer": 0.1111,
+      "dice_index": 0.9333,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "design",
+      "predicted": "design",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "stems",
+      "predicted": "stems",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "id",
+      "predicted": "hd",
+      "confidence": null,
+      "lev_dist": 1,
+      "lev_ratio": 0.5,
+      "cer": 0.5,
+      "dice_index": 0.0,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "mason",
+      "predicted": "‘mason",
+      "confidence": null,
+      "lev_dist": 1,
+      "lev_ratio": 0.2,
+      "cer": 0.1667,
+      "dice_index": 0.8889,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "leslie",
+      "predicted": "leslie",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "willcocks",
+      "predicted": "willcocks",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "business",
+      "predicted": "‘business",
+      "confidence": null,
+      "lev_dist": 1,
+      "lev_ratio": 0.125,
+      "cer": 0.1111,
+      "dice_index": 0.9333,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "strategy",
+      "predicted": "strategy",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "it",
+      "predicted": "it",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "information",
+      "predicted": "pe",
+      "confidence": null,
+      "lev_dist": 11,
+      "lev_ratio": 1.0,
+      "cer": 5.5,
+      "dice_index": 0.0,
+      "exact_match": false
+    },
+    {
+      "processing_time": 1.6899
+    }
+  ],
+  "IMG_1288": [
+    {
+      "ground_truth": "under",
+      "predicted": "ee",
+      "confidence": 19.3644,
+      "lev_dist": 4,
+      "lev_ratio": 0.8,
+      "cer": 2.0,
+      "dice_index": 0.0,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "wear",
+      "predicted": "wear.",
+      "confidence": 74.177,
+      "lev_dist": 1,
+      "lev_ratio": 0.25,
+      "cer": 0.2,
+      "dice_index": 0.8571,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "s",
+      "predicted": "&",
+      "confidence": 20.1941,
+      "lev_dist": 1,
+      "lev_ratio": 1.0,
+      "cer": 1.0,
+      "dice_index": 0.0,
+      "exact_match": false
+    },
+    {
+      "processing_time": 0.402
+    }
+  ],
+  "IMG_1289": [
+    {
+      "ground_truth": "alan",
+      "predicted": "“allan:",
+      "confidence": null,
+      "lev_dist": 3,
+      "lev_ratio": 0.75,
+      "cer": 0.4286,
+      "dice_index": 0.6667,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "clements",
+      "predicted": "(clements",
+      "confidence": null,
+      "lev_dist": 1,
+      "lev_ratio": 0.125,
+      "cer": 0.1111,
+      "dice_index": 0.9333,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "t",
+      "predicted": "|",
+      "confidence": 8.476,
+      "lev_dist": 1,
+      "lev_ratio": 1.0,
+      "cer": 1.0,
+      "dice_index": 0.0,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "rinciples",
+      "predicted": "",
+      "confidence": 0.0,
+      "lev_dist": 9,
+      "lev_ratio": 1.0,
+      "cer": 0,
+      "dice_index": 0.0,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "of",
+      "predicted": "of",
+      "confidence": 96.2211,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "omputer",
+      "predicted": "_coputer",
+      "confidence": 5.6107,
+      "lev_dist": 3,
+      "lev_ratio": 0.4286,
+      "cer": 0.375,
+      "dice_index": 0.6154,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "hardware",
+      "predicted": "..ardware",
+      "confidence": 9.7253,
+      "lev_dist": 2,
+      "lev_ratio": 0.25,
+      "cer": 0.2222,
+      "dice_index": 0.7692,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "second",
+      "predicted": "‘second",
+      "confidence": null,
+      "lev_dist": 1,
+      "lev_ratio": 0.1667,
+      "cer": 0.1429,
+      "dice_index": 0.9091,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "edition",
+      "predicted": "edition",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "processing_time": 1.1177
+    }
+  ],
+  "IMG_1290": [
+    {
+      "ground_truth": "software",
+      "predicted": "soffavare",
+      "confidence": null,
+      "lev_dist": 3,
+      "lev_ratio": 0.375,
+      "cer": 0.3333,
+      "dice_index": 0.5333,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "engineering",
+      "predicted": "",
+      "confidence": 0.0,
+      "lev_dist": 11,
+      "lev_ratio": 1.0,
+      "cer": 0,
+      "dice_index": 0.0,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "ian",
+      "predicted": "jan.",
+      "confidence": null,
+      "lev_dist": 2,
+      "lev_ratio": 0.6667,
+      "cer": 0.5,
+      "dice_index": 0.4,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "sommerville",
+      "predicted": "sommerville",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "processing_time": 0.8603
+    }
+  ],
+  "IMG_1291": [
+    {
+      "ground_truth": "vaio",
+      "predicted": "~~",
+      "confidence": 27.4488,
+      "lev_dist": 4,
+      "lev_ratio": 1.0,
+      "cer": 2.0,
+      "dice_index": 0.0,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "go",
+      "predicted": "go",
+      "confidence": 89.3714,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "create",
+      "predicted": "create",
+      "confidence": 96.1846,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "sony",
+      "predicted": "sony",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "processing_time": 0.6596
+    }
+  ],
+  "IMG_1292": [
+    {
+      "ground_truth": "conditions",
+      "predicted": "jos",
+      "confidence": null,
+      "lev_dist": 8,
+      "lev_ratio": 0.8,
+      "cer": 2.6667,
+      "dice_index": 0.0,
+      "exact_match": false
+    },
+    {
+      "processing_time": 0.3504
+    }
+  ],
+  "IMG_1293": [
+    {
+      "ground_truth": "handle",
+      "predicted": "handle",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "with",
+      "predicted": "with",
+      "confidence": 96.9149,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "care",
+      "predicted": "care",
+      "confidence": 96.1678,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "pleaes",
+      "predicted": "please",
+      "confidence": 96.4218,
+      "lev_dist": 2,
+      "lev_ratio": 0.3333,
+      "cer": 0.3333,
+      "dice_index": 0.6,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "return",
+      "predicted": "return",
+      "confidence": 96.1659,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "to",
+      "predicted": "to",
+      "confidence": 96.5685,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "future",
+      "predicted": "future",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "publishing",
+      "predicted": "publishing",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "ltd",
+      "predicted": "ltd.",
+      "confidence": null,
+      "lev_dist": 1,
+      "lev_ratio": 0.3333,
+      "cer": 0.25,
+      "dice_index": 0.8,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "somerton",
+      "predicted": "somerton.",
+      "confidence": null,
+      "lev_dist": 1,
+      "lev_ratio": 0.125,
+      "cer": 0.1111,
+      "dice_index": 0.9333,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "ta11",
+      "predicted": "ta11",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "6tb",
+      "predicted": "6tb.",
+      "confidence": null,
+      "lev_dist": 1,
+      "lev_ratio": 0.3333,
+      "cer": 0.25,
+      "dice_index": 0.8,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "united",
+      "predicted": "united",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "kingdom",
+      "predicted": "kingdom",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "processing_time": 1.7614
+    }
+  ],
+  "IMG_1294": [
+    {
+      "ground_truth": "hsbc",
+      "predicted": "hsbc",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "processing_time": 0.211
+    }
+  ],
+  "IMG_1298": [
+    {
+      "ground_truth": "edition",
+      "predicted": "n",
+      "confidence": null,
+      "lev_dist": 6,
+      "lev_ratio": 0.8571,
+      "cer": 6.0,
+      "dice_index": 0.0,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "systems",
+      "predicted": "stems",
+      "confidence": null,
+      "lev_dist": 2,
+      "lev_ratio": 0.2857,
+      "cer": 0.4,
+      "dice_index": 0.8,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "database",
+      "predicted": "database",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "an",
+      "predicted": "an",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "introduction",
+      "predicted": "introduction",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "to",
+      "predicted": "to",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "c.j.",
+      "predicted": "a",
+      "confidence": 27.6621,
+      "lev_dist": 4,
+      "lev_ratio": 1.0,
+      "cer": 4.0,
+      "dice_index": 0.0,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "date",
+      "predicted": "date",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "sixth",
+      "predicted": "$",
+      "confidence": 81.5885,
+      "lev_dist": 5,
+      "lev_ratio": 1.0,
+      "cer": 5.0,
+      "dice_index": 0.0,
+      "exact_match": false
+    },
+    {
+      "processing_time": 1.2727
+    }
+  ],
+  "IMG_1299": [
+    {
+      "ground_truth": "stuart",
+      "predicted": "stuart",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "russell",
+      "predicted": "russell",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "peter",
+      "predicted": "peter",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "norvig",
+      "predicted": "norvig",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "intelligence",
+      "predicted": "",
+      "confidence": 0.0,
+      "lev_dist": 12,
+      "lev_ratio": 1.0,
+      "cer": 0,
+      "dice_index": 0.0,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "rtificial",
+      "predicted": "fe",
+      "confidence": 43.3108,
+      "lev_dist": 8,
+      "lev_ratio": 0.8889,
+      "cer": 4.0,
+      "dice_index": 0.0,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "a",
+      "predicted": "a",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "modern",
+      "predicted": "modern",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "approach",
+      "predicted": "approach",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "processing_time": 1.206
+    }
+  ],
+  "IMG_1300": [
+    {
+      "ground_truth": "essence",
+      "predicted": "essence",
+      "confidence": 92.5991,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "of",
+      "predicted": "of",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "computing",
+      "predicted": "‘computing",
+      "confidence": 76.5462,
+      "lev_dist": 1,
+      "lev_ratio": 0.1111,
+      "cer": 0.1,
+      "dice_index": 0.9412,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "the",
+      "predicted": "the",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "essence",
+      "predicted": "essence",
+      "confidence": 92.5991,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "of",
+      "predicted": "es",
+      "confidence": 2.9901,
+      "lev_dist": 2,
+      "lev_ratio": 1.0,
+      "cer": 1.0,
+      "dice_index": 0.0,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "artificial",
+      "predicted": "artificial",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "intelligence",
+      "predicted": "intelligence",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "processing_time": 1.0465
+    }
+  ],
+  "IMG_1301": [
+    {
+      "ground_truth": "students",
+      "predicted": "studénts",
+      "confidence": null,
+      "lev_dist": 1,
+      "lev_ratio": 0.125,
+      "cer": 0.125,
+      "dice_index": 0.7143,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "engineering",
+      "predicted": "eg@ineering",
+      "confidence": null,
+      "lev_dist": 2,
+      "lev_ratio": 0.1818,
+      "cer": 0.1818,
+      "dice_index": 0.7059,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "for",
+      "predicted": "fas",
+      "confidence": 42.0372,
+      "lev_dist": 2,
+      "lev_ratio": 0.6667,
+      "cer": 0.6667,
+      "dice_index": 0.0,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "communication",
+      "predicted": "communication’",
+      "confidence": null,
+      "lev_dist": 1,
+      "lev_ratio": 0.0769,
+      "cer": 0.0714,
+      "dice_index": 0.96,
+      "exact_match": false
+    },
+    {
+      "processing_time": 0.6793
+    }
+  ],
+  "IMG_1302": [
+    {
+      "ground_truth": "o",
+      "predicted": "@",
+      "confidence": 51.2854,
+      "lev_dist": 1,
+      "lev_ratio": 1.0,
+      "cer": 1.0,
+      "dice_index": 0.0,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "c",
+      "predicted": "|",
+      "confidence": 90.7428,
+      "lev_dist": 1,
+      "lev_ratio": 1.0,
+      "cer": 1.0,
+      "dice_index": 0.0,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "i",
+      "predicted": "",
+      "confidence": 0.0,
+      "lev_dist": 1,
+      "lev_ratio": 1.0,
+      "cer": 0,
+      "dice_index": 0.0,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "international",
+      "predicted": "ic",
+      "confidence": 59.0035,
+      "lev_dist": 12,
+      "lev_ratio": 0.9231,
+      "cer": 6.0,
+      "dice_index": 0.0,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "computer",
+      "predicted": "co",
+      "confidence": null,
+      "lev_dist": 6,
+      "lev_ratio": 0.75,
+      "cer": 3.0,
+      "dice_index": 0.25,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "science",
+      "predicted": "science:",
+      "confidence": null,
+      "lev_dist": 1,
+      "lev_ratio": 0.1429,
+      "cer": 0.125,
+      "dice_index": 0.9231,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "series",
+      "predicted": "series.",
+      "confidence": null,
+      "lev_dist": 1,
+      "lev_ratio": 0.1667,
+      "cer": 0.1429,
+      "dice_index": 0.9091,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "discrete",
+      "predicted": "discrete",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "mathematics",
+      "predicted": "mathematics",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "for",
+      "predicted": "for",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "scientists",
+      "predicted": "",
+      "confidence": 0.0,
+      "lev_dist": 10,
+      "lev_ratio": 1.0,
+      "cer": 0,
+      "dice_index": 0.0,
+      "exact_match": false
+    },
+    {
+      "processing_time": 1.4153
+    }
+  ],
+  "IMG_1303": [
+    {
+      "ground_truth": "release",
+      "predicted": "",
+      "confidence": 0.0,
+      "lev_dist": 7,
+      "lev_ratio": 1.0,
+      "cer": 0,
+      "dice_index": 0.0,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "of",
+      "predicted": "of",
+      "confidence": 84.1731,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "net",
+      "predicted": "t",
+      "confidence": 58.8137,
+      "lev_dist": 2,
+      "lev_ratio": 0.6667,
+      "cer": 2.0,
+      "dice_index": 0.0,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "v10",
+      "predicted": "‘v1.0",
+      "confidence": 52.8825,
+      "lev_dist": 2,
+      "lev_ratio": 0.6667,
+      "cer": 0.4,
+      "dice_index": 0.3333,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "marco",
+      "predicted": "vats.",
+      "confidence": 32.0323,
+      "lev_dist": 4,
+      "lev_ratio": 0.8,
+      "cer": 0.8,
+      "dice_index": 0.0,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "bellinaso",
+      "predicted": "bellinaso",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "and",
+      "predicted": "and",
+      "confidence": 41.5438,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "kevin",
+      "predicted": "|",
+      "confidence": 77.9137,
+      "lev_dist": 5,
+      "lev_ratio": 1.0,
+      "cer": 5.0,
+      "dice_index": 0.0,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "hoffman",
+      "predicted": "|",
+      "confidence": 77.9137,
+      "lev_dist": 7,
+      "lev_ratio": 1.0,
+      "cer": 7.0,
+      "dice_index": 0.0,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "wrox",
+      "predicted": "“wrox",
+      "confidence": 11.3513,
+      "lev_dist": 1,
+      "lev_ratio": 0.25,
+      "cer": 0.2,
+      "dice_index": 0.8571,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "wrox",
+      "predicted": "|",
+      "confidence": 77.9137,
+      "lev_dist": 4,
+      "lev_ratio": 1.0,
+      "cer": 4.0,
+      "dice_index": 0.0,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "technical",
+      "predicted": "technical",
+      "confidence": 87.8369,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "support",
+      "predicted": ")",
+      "confidence": 68.6652,
+      "lev_dist": 7,
+      "lev_ratio": 1.0,
+      "cer": 7.0,
+      "dice_index": 0.0,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "at",
+      "predicted": "",
+      "confidence": 0.0,
+      "lev_dist": 2,
+      "lev_ratio": 1.0,
+      "cer": 0,
+      "dice_index": 0.0,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "wroxcom",
+      "predicted": ".wfox.com",
+      "confidence": null,
+      "lev_dist": 3,
+      "lev_ratio": 0.4286,
+      "cer": 0.3333,
+      "dice_index": 0.4286,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "updates",
+      "predicted": "“updates",
+      "confidence": null,
+      "lev_dist": 1,
+      "lev_ratio": 0.1429,
+      "cer": 0.125,
+      "dice_index": 0.9231,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "source",
+      "predicted": "source",
+      "confidence": 89.0995,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "code",
+      "predicted": "code",
+      "confidence": 92.7852,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "www",
+      "predicted": "www.",
+      "confidence": 24.8656,
+      "lev_dist": 1,
+      "lev_ratio": 0.3333,
+      "cer": 0.25,
+      "dice_index": 0.6667,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "peer",
+      "predicted": "“peer",
+      "confidence": null,
+      "lev_dist": 1,
+      "lev_ratio": 0.25,
+      "cer": 0.2,
+      "dice_index": 0.8571,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "discussion",
+      "predicted": "discussion",
+      "confidence": 89.202,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "p2p",
+      "predicted": "|",
+      "confidence": 77.9137,
+      "lev_dist": 3,
+      "lev_ratio": 1.0,
+      "cer": 3.0,
+      "dice_index": 0.0,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "programmer",
+      "predicted": "",
+      "confidence": 0.0,
+      "lev_dist": 10,
+      "lev_ratio": 1.0,
+      "cer": 0,
+      "dice_index": 0.0,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "to",
+      "predicted": "to",
+      "confidence": 0.6251,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "aspnet",
+      "predicted": "|",
+      "confidence": 77.9137,
+      "lev_dist": 6,
+      "lev_ratio": 1.0,
+      "cer": 6.0,
+      "dice_index": 0.0,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "website",
+      "predicted": "",
+      "confidence": 0.0,
+      "lev_dist": 7,
+      "lev_ratio": 1.0,
+      "cer": 0,
+      "dice_index": 0.0,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "programming",
+      "predicted": "programming",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "problem",
+      "predicted": "problem",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "design",
+      "predicted": "design",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "solution",
+      "predicted": "solution",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "written",
+      "predicted": "‘written",
+      "confidence": null,
+      "lev_dist": 1,
+      "lev_ratio": 0.1429,
+      "cer": 0.125,
+      "dice_index": 0.9231,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "tested",
+      "predicted": "",
+      "confidence": 0.0,
+      "lev_dist": 6,
+      "lev_ratio": 1.0,
+      "cer": 0,
+      "dice_index": 0.0,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "for",
+      "predicted": "|",
+      "confidence": 77.9137,
+      "lev_dist": 3,
+      "lev_ratio": 1.0,
+      "cer": 3.0,
+      "dice_index": 0.0,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "final",
+      "predicted": "‘final",
+      "confidence": 70.0299,
+      "lev_dist": 1,
+      "lev_ratio": 0.2,
+      "cer": 0.1667,
+      "dice_index": 0.8889,
+      "exact_match": false
+    },
+    {
+      "processing_time": 3.9153
+    }
+  ],
+  "IMG_1304": [
+    {
+      "ground_truth": "wolfgang",
+      "predicted": "et",
+      "confidence": 44.3324,
+      "lev_dist": 8,
+      "lev_ratio": 1.0,
+      "cer": 4.0,
+      "dice_index": 0.0,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "emmerich",
+      "predicted": "emmerich",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "engin",
+      "predicted": "engr",
+      "confidence": null,
+      "lev_dist": 2,
+      "lev_ratio": 0.4,
+      "cer": 0.5,
+      "dice_index": 0.5714,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "ing",
+      "predicted": "i",
+      "confidence": 15.8857,
+      "lev_dist": 2,
+      "lev_ratio": 0.6667,
+      "cer": 2.0,
+      "dice_index": 0.0,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "distributed",
+      "predicted": "distt",
+      "confidence": null,
+      "lev_dist": 6,
+      "lev_ratio": 0.5455,
+      "cer": 1.2,
+      "dice_index": 0.4286,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "objects",
+      "predicted": "objeets",
+      "confidence": null,
+      "lev_dist": 1,
+      "lev_ratio": 0.1429,
+      "cer": 0.1429,
+      "dice_index": 0.6667,
+      "exact_match": false
+    },
+    {
+      "processing_time": 0.8213
+    }
+  ],
+  "Img_1305": [
+    {
+      "ground_truth": "lights",
+      "predicted": "lights",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "marlboro",
+      "predicted": "",
+      "confidence": 0.0,
+      "lev_dist": 8,
+      "lev_ratio": 1.0,
+      "cer": 0,
+      "dice_index": 0.0,
+      "exact_match": false
+    },
+    {
+      "processing_time": 0.5282
+    }
+  ],
+  "IMG_1306": [
+    {
+      "ground_truth": "autumn",
+      "predicted": "autumn.",
+      "confidence": 85.9705,
+      "lev_dist": 1,
+      "lev_ratio": 0.1667,
+      "cer": 0.1429,
+      "dice_index": 0.9091,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "winter",
+      "predicted": "winter",
+      "confidence": 70.284,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "2001",
+      "predicted": "2001.0",
+      "confidence": 96.3611,
+      "lev_dist": 2,
+      "lev_ratio": 0.5,
+      "cer": 0.3333,
+      "dice_index": 0.75,
+      "exact_match": false
+    },
+    {
+      "processing_time": 0.4807
+    }
+  ],
+  "IMG_1307": [
+    {
+      "ground_truth": "argos",
+      "predicted": "algos",
+      "confidence": null,
+      "lev_dist": 1,
+      "lev_ratio": 0.2,
+      "cer": 0.2,
+      "dice_index": 0.5,
+      "exact_match": false
+    },
+    {
+      "processing_time": 0.298
+    }
+  ],
+  "IMG_1308": [
+    {
+      "ground_truth": "philips",
+      "predicted": "philips",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "fisio",
+      "predicted": "fisio",
+      "confidence": 92.6009,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "820e",
+      "predicted": "820e",
+      "confidence": 91.8729,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "processing_time": 0.4724
+    }
+  ],
+  "IMG_1311": [
+    {
+      "ground_truth": "inspiring",
+      "predicted": "inspiring",
+      "confidence": 39.013,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "scenes",
+      "predicted": "——",
+      "confidence": 44.1662,
+      "lev_dist": 6,
+      "lev_ratio": 1.0,
+      "cer": 3.0,
+      "dice_index": 0.0,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "the",
+      "predicted": "the",
+      "confidence": 57.7454,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "edinburg",
+      "predicted": "ebinbureh,",
+      "confidence": null,
+      "lev_dist": 4,
+      "lev_ratio": 0.5,
+      "cer": 0.4,
+      "dice_index": 0.5,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "festivals",
+      "predicted": "fgstival’s:",
+      "confidence": 45.9898,
+      "lev_dist": 3,
+      "lev_ratio": 0.3333,
+      "cer": 0.2727,
+      "dice_index": 0.5556,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "most",
+      "predicted": "most",
+      "confidence": 69.3484,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "processing_time": 0.9111
+    }
+  ],
+  "IMG_1312": [
+    {
+      "ground_truth": "espmoto",
+      "predicted": "yon",
+      "confidence": 21.5979,
+      "lev_dist": 6,
+      "lev_ratio": 0.8571,
+      "cer": 2.0,
+      "dice_index": 0.0,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "experience",
+      "predicted": "experience",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "the",
+      "predicted": "the",
+      "confidence": 95.0909,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "revolution",
+      "predicted": "revolution",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "with",
+      "predicted": "with",
+      "confidence": 96.309,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "orange",
+      "predicted": "orange",
+      "confidence": 73.8036,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "to",
+      "predicted": "to.",
+      "confidence": null,
+      "lev_dist": 1,
+      "lev_ratio": 0.5,
+      "cer": 0.3333,
+      "dice_index": 0.6667,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "order",
+      "predicted": "|",
+      "confidence": 79.3268,
+      "lev_dist": 5,
+      "lev_ratio": 1.0,
+      "cer": 5.0,
+      "dice_index": 0.0,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "your",
+      "predicted": "ryour",
+      "confidence": 35.4865,
+      "lev_dist": 1,
+      "lev_ratio": 0.25,
+      "cer": 0.2,
+      "dice_index": 0.8571,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "v70e",
+      "predicted": "",
+      "confidence": 0.0,
+      "lev_dist": 4,
+      "lev_ratio": 1.0,
+      "cer": 0,
+      "dice_index": 0.0,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "on",
+      "predicted": "|",
+      "confidence": 79.3268,
+      "lev_dist": 2,
+      "lev_ratio": 1.0,
+      "cer": 2.0,
+      "dice_index": 0.0,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "please",
+      "predicted": "please",
+      "confidence": 79.9619,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "call",
+      "predicted": "‘call",
+      "confidence": 58.4466,
+      "lev_dist": 1,
+      "lev_ratio": 0.25,
+      "cer": 0.2,
+      "dice_index": 0.8571,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "150",
+      "predicted": "‘150.",
+      "confidence": 43.8099,
+      "lev_dist": 2,
+      "lev_ratio": 0.6667,
+      "cer": 0.4,
+      "dice_index": 0.6667,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "and",
+      "predicted": "",
+      "confidence": 0.0,
+      "lev_dist": 3,
+      "lev_ratio": 1.0,
+      "cer": 0,
+      "dice_index": 0.0,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "press",
+      "predicted": ")",
+      "confidence": 80.2312,
+      "lev_dist": 5,
+      "lev_ratio": 1.0,
+      "cer": 5.0,
+      "dice_index": 0.0,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "orange",
+      "predicted": "orange,",
+      "confidence": null,
+      "lev_dist": 1,
+      "lev_ratio": 0.1667,
+      "cer": 0.1429,
+      "dice_index": 0.9091,
+      "exact_match": false
+    },
+    {
+      "processing_time": 2.1718
+    }
+  ],
+  "Img_1313": [
+    {
+      "ground_truth": "blackhorse",
+      "predicted": "",
+      "confidence": null,
+      "lev_dist": 10,
+      "lev_ratio": 1.0,
+      "cer": 0,
+      "dice_index": 0.0,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "person",
+      "predicted": "",
+      "confidence": null,
+      "lev_dist": 6,
+      "lev_ratio": 1.0,
+      "cer": 0,
+      "dice_index": 0.0,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "finan",
+      "predicted": "",
+      "confidence": null,
+      "lev_dist": 5,
+      "lev_ratio": 1.0,
+      "cer": 0,
+      "dice_index": 0.0,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "it",
+      "predicted": "",
+      "confidence": null,
+      "lev_dist": 2,
+      "lev_ratio": 1.0,
+      "cer": 0,
+      "dice_index": 0.0,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "borrow",
+      "predicted": "",
+      "confidence": null,
+      "lev_dist": 6,
+      "lev_ratio": 1.0,
+      "cer": 0,
+      "dice_index": 0.0,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "£25,000",
+      "predicted": "",
+      "confidence": null,
+      "lev_dist": 7,
+      "lev_ratio": 1.0,
+      "cer": 0,
+      "dice_index": 0.0,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "for",
+      "predicted": "",
+      "confidence": null,
+      "lev_dist": 3,
+      "lev_ratio": 1.0,
+      "cer": 0,
+      "dice_index": 0.0,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "just",
+      "predicted": "",
+      "confidence": null,
+      "lev_dist": 4,
+      "lev_ratio": 1.0,
+      "cer": 0,
+      "dice_index": 0.0,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "£198$",
+      "predicted": "",
+      "confidence": null,
+      "lev_dist": 5,
+      "lev_ratio": 1.0,
+      "cer": 0,
+      "dice_index": 0.0,
+      "exact_match": false
+    },
+    {
+      "processing_time": 0.0
+    }
+  ],
+  "IMG_1315": [
+    {
+      "ground_truth": "summer",
+      "predicted": "summer",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "2002",
+      "predicted": "2002.0",
+      "confidence": 96.8672,
+      "lev_dist": 2,
+      "lev_ratio": 0.5,
+      "cer": 0.3333,
+      "dice_index": 0.75,
+      "exact_match": false
+    },
+    {
+      "processing_time": 0.2683
+    }
+  ],
+  "IMG_1316": [
+    {
+      "ground_truth": "orange",
+      "predicted": "orange",
+      "confidence": 63.5475,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "sounds",
+      "predicted": "s@qeinds",
+      "confidence": null,
+      "lev_dist": 4,
+      "lev_ratio": 0.6667,
+      "cer": 0.5,
+      "dice_index": 0.3333,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "of",
+      "predicted": "on",
+      "confidence": 73.8367,
+      "lev_dist": 1,
+      "lev_ratio": 0.5,
+      "cer": 0.5,
+      "dice_index": 0.0,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "summer",
+      "predicted": "summer",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "events",
+      "predicted": "“best",
+      "confidence": null,
+      "lev_dist": 4,
+      "lev_ratio": 0.6667,
+      "cer": 0.8,
+      "dice_index": 0.0,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "music",
+      "predicted": "music:",
+      "confidence": null,
+      "lev_dist": 1,
+      "lev_ratio": 0.2,
+      "cer": 0.1667,
+      "dice_index": 0.8889,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "live",
+      "predicted": "lives",
+      "confidence": 33.2272,
+      "lev_dist": 1,
+      "lev_ratio": 0.25,
+      "cer": 0.2,
+      "dice_index": 0.8571,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "best",
+      "predicted": "b's:",
+      "confidence": null,
+      "lev_dist": 2,
+      "lev_ratio": 0.5,
+      "cer": 0.5,
+      "dice_index": 0.0,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "the",
+      "predicted": "\"the!",
+      "confidence": null,
+      "lev_dist": 2,
+      "lev_ratio": 0.6667,
+      "cer": 0.4,
+      "dice_index": 0.6667,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "o",
+      "predicted": "",
+      "confidence": 0.0,
+      "lev_dist": 1,
+      "lev_ratio": 1.0,
+      "cer": 0,
+      "dice_index": 0.0,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "he's",
+      "predicted": "&",
+      "confidence": 9.1766,
+      "lev_dist": 4,
+      "lev_ratio": 1.0,
+      "cer": 4.0,
+      "dice_index": 0.0,
+      "exact_match": false
+    },
+    {
+      "processing_time": 1.3463
+    }
+  ],
+  "IMG_1317": [
+    {
+      "ground_truth": "building",
+      "predicted": "building",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "web",
+      "predicted": "web",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "services",
+      "predicted": "services",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "with",
+      "predicted": "with",
+      "confidence": 96.7968,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "java",
+      "predicted": "java",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "tm",
+      "predicted": "™.",
+      "confidence": 20.9962,
+      "lev_dist": 2,
+      "lev_ratio": 1.0,
+      "cer": 1.0,
+      "dice_index": 0.0,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "making",
+      "predicted": "making",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "sence",
+      "predicted": "sense",
+      "confidence": null,
+      "lev_dist": 1,
+      "lev_ratio": 0.2,
+      "cer": 0.2,
+      "dice_index": 0.5714,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "of",
+      "predicted": "of",
+      "confidence": 93.4041,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "xml",
+      "predicted": "xml,",
+      "confidence": null,
+      "lev_dist": 1,
+      "lev_ratio": 0.3333,
+      "cer": 0.25,
+      "dice_index": 0.8,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "soap",
+      "predicted": "soap,",
+      "confidence": null,
+      "lev_dist": 1,
+      "lev_ratio": 0.25,
+      "cer": 0.2,
+      "dice_index": 0.8571,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "wsdl",
+      "predicted": "wsdl,",
+      "confidence": null,
+      "lev_dist": 1,
+      "lev_ratio": 0.25,
+      "cer": 0.2,
+      "dice_index": 0.8571,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "and",
+      "predicted": "and",
+      "confidence": 87.9039,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "uddi",
+      "predicted": "uddi",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "processing_time": 1.8164
+    }
+  ],
+  "average_metrics": {
+    "avg_cer": 0.5704,
+    "avg_levenshtein_distance": 1.9293,
+    "avg_levenshtein_ratio": 0.3469,
+    "avg_exact_match": 0.4478,
+    "avg_dice_index": 0.6562
+  }
+}

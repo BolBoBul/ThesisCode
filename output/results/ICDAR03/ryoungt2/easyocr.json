@@ -1,0 +1,1269 @@
+{
+  "052.Kungstradgarden": [
+    {
+      "ground_truth": "ersit",
+      "predicted": "",
+      "confidence": null,
+      "lev_dist": 5,
+      "lev_ratio": 1.0,
+      "cer": 0,
+      "dice_index": 0.0,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "ol",
+      "predicted": "",
+      "confidence": null,
+      "lev_dist": 2,
+      "lev_ratio": 1.0,
+      "cer": 0,
+      "dice_index": 0.0,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "sex",
+      "predicted": "sex",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "volvo",
+      "predicted": "",
+      "confidence": null,
+      "lev_dist": 5,
+      "lev_ratio": 1.0,
+      "cer": 0,
+      "dice_index": 0.0,
+      "exact_match": false
+    },
+    {
+      "processing_time": 0.1697
+    }
+  ],
+  "abPICT0005": [
+    {
+      "ground_truth": "b",
+      "predicted": "",
+      "confidence": null,
+      "lev_dist": 1,
+      "lev_ratio": 1.0,
+      "cer": 0,
+      "dice_index": 0.0,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "bjork",
+      "predicted": "",
+      "confidence": null,
+      "lev_dist": 5,
+      "lev_ratio": 1.0,
+      "cer": 0,
+      "dice_index": 0.0,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "homogenic",
+      "predicted": "homogenic",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "processing_time": 0.1302
+    }
+  ],
+  "aPICT0001": [
+    {
+      "ground_truth": "18",
+      "predicted": "",
+      "confidence": null,
+      "lev_dist": 2,
+      "lev_ratio": 1.0,
+      "cer": 0,
+      "dice_index": 0.0,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "8",
+      "predicted": "",
+      "confidence": null,
+      "lev_dist": 1,
+      "lev_ratio": 1.0,
+      "cer": 0,
+      "dice_index": 0.0,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "smirnoff",
+      "predicted": "",
+      "confidence": null,
+      "lev_dist": 8,
+      "lev_ratio": 1.0,
+      "cer": 0,
+      "dice_index": 0.0,
+      "exact_match": false
+    },
+    {
+      "processing_time": 0.1397
+    }
+  ],
+  "aPICT0002": [
+    {
+      "ground_truth": "jeanswear",
+      "predicted": "",
+      "confidence": null,
+      "lev_dist": 9,
+      "lev_ratio": 1.0,
+      "cer": 0,
+      "dice_index": 0.0,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "moto",
+      "predicted": "moto",
+      "confidence": 99.9106,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "processing_time": 0.1406
+    }
+  ],
+  "aPICT0004": [
+    {
+      "ground_truth": "1l",
+      "predicted": "",
+      "confidence": null,
+      "lev_dist": 2,
+      "lev_ratio": 1.0,
+      "cer": 0,
+      "dice_index": 0.0,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "bison",
+      "predicted": "",
+      "confidence": null,
+      "lev_dist": 5,
+      "lev_ratio": 1.0,
+      "cer": 0,
+      "dice_index": 0.0,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "ol.",
+      "predicted": "",
+      "confidence": null,
+      "lev_dist": 3,
+      "lev_ratio": 1.0,
+      "cer": 0,
+      "dice_index": 0.0,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "vodka",
+      "predicted": "",
+      "confidence": null,
+      "lev_dist": 5,
+      "lev_ratio": 1.0,
+      "cer": 0,
+      "dice_index": 0.0,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "zubrowka",
+      "predicted": "",
+      "confidence": null,
+      "lev_dist": 8,
+      "lev_ratio": 1.0,
+      "cer": 0,
+      "dice_index": 0.0,
+      "exact_match": false
+    },
+    {
+      "processing_time": 0.1262
+    }
+  ],
+  "aPICT0006": [
+    {
+      "ground_truth": "cancer",
+      "predicted": "cancer",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "for",
+      "predicted": "for",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "life",
+      "predicted": "life",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "race",
+      "predicted": "race",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "research",
+      "predicted": "research",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "tesco",
+      "predicted": "tesco",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "uk",
+      "predicted": "uk",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "processing_time": 0.1665
+    }
+  ],
+  "aPICT0007": [
+    {
+      "ground_truth": "liquid",
+      "predicted": "liquid",
+      "confidence": 99.363,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "tesco",
+      "predicted": "tesco",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "up",
+      "predicted": "",
+      "confidence": null,
+      "lev_dist": 2,
+      "lev_ratio": 1.0,
+      "cer": 0,
+      "dice_index": 0.0,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "value",
+      "predicted": "value",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "washing",
+      "predicted": "",
+      "confidence": null,
+      "lev_dist": 7,
+      "lev_ratio": 1.0,
+      "cer": 0,
+      "dice_index": 0.0,
+      "exact_match": false
+    },
+    {
+      "processing_time": 0.1763
+    }
+  ],
+  "aPICT0010": [
+    {
+      "ground_truth": "alarm",
+      "predicted": "alarm",
+      "confidence": 99.9848,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "call",
+      "predicted": "call",
+      "confidence": 98.8931,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "fire",
+      "predicted": "fire",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "point",
+      "predicted": "point",
+      "confidence": 98.8931,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "processing_time": 0.1486
+    }
+  ],
+  "aPICT0011": [
+    {
+      "ground_truth": "4b.522",
+      "predicted": "48.522",
+      "confidence": 98.1326,
+      "lev_dist": 1,
+      "lev_ratio": 0.1667,
+      "cer": 0.1667,
+      "dice_index": 0.6,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "4b.524",
+      "predicted": "48.524",
+      "confidence": 94.1377,
+      "lev_dist": 1,
+      "lev_ratio": 0.1667,
+      "cer": 0.1667,
+      "dice_index": 0.6,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "4b.526",
+      "predicted": "526",
+      "confidence": 99.9997,
+      "lev_dist": 3,
+      "lev_ratio": 0.5,
+      "cer": 1.0,
+      "dice_index": 0.5714,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "4b.528",
+      "predicted": "48.528",
+      "confidence": 99.7815,
+      "lev_dist": 1,
+      "lev_ratio": 0.1667,
+      "cer": 0.1667,
+      "dice_index": 0.6,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "are",
+      "predicted": "are",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "here",
+      "predicted": "here",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "you",
+      "predicted": "you",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "processing_time": 0.2077
+    }
+  ],
+  "aPICT0013": [
+    {
+      "ground_truth": "access",
+      "predicted": "access",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "baggage",
+      "predicted": "baggage",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "know",
+      "predicted": "know",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "to",
+      "predicted": "to",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "processing_time": 0.1301
+    }
+  ],
+  "aPICT0014": [
+    {
+      "ground_truth": "iiyama",
+      "predicted": "",
+      "confidence": null,
+      "lev_dist": 6,
+      "lev_ratio": 1.0,
+      "cer": 0,
+      "dice_index": 0.0,
+      "exact_match": false
+    },
+    {
+      "processing_time": 0.1356
+    }
+  ],
+  "aPICT0017": [
+    {
+      "ground_truth": "use",
+      "predicted": "use",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "boards",
+      "predicted": "boards",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "dri-wipe",
+      "predicted": "dri-wipe",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "markers",
+      "predicted": "markers",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "on",
+      "predicted": "on",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "only",
+      "predicted": "only",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "these",
+      "predicted": "these",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "processing_time": 0.1627
+    }
+  ],
+  "aPICT0018": [
+    {
+      "ground_truth": "2n",
+      "predicted": "",
+      "confidence": null,
+      "lev_dist": 2,
+      "lev_ratio": 1.0,
+      "cer": 0,
+      "dice_index": 0.0,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "4.513b",
+      "predicted": "4.513b",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "computing",
+      "predicted": "computing",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "desk",
+      "predicted": "desk",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "help",
+      "predicted": "help",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "service",
+      "predicted": "service",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "processing_time": 0.192
+    }
+  ],
+  "aPICT0020": [
+    {
+      "ground_truth": "c.c.t.v.",
+      "predicted": "",
+      "confidence": null,
+      "lev_dist": 8,
+      "lev_ratio": 1.0,
+      "cer": 0,
+      "dice_index": 0.0,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "in",
+      "predicted": "in",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "operation",
+      "predicted": "operation",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "processing_time": 0.1027
+    }
+  ],
+  "aPICT0021": [
+    {
+      "ground_truth": "cigarettes",
+      "predicted": "",
+      "confidence": null,
+      "lev_dist": 10,
+      "lev_ratio": 1.0,
+      "cer": 0,
+      "dice_index": 0.0,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "no",
+      "predicted": "no",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "only",
+      "predicted": "",
+      "confidence": null,
+      "lev_dist": 4,
+      "lev_ratio": 1.0,
+      "cer": 0,
+      "dice_index": 0.0,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "paper",
+      "predicted": "paper",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "please",
+      "predicted": "please",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "processing_time": 0.1669
+    }
+  ],
+  "aPICT0023": [
+    {
+      "ground_truth": "entry",
+      "predicted": "entry",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "flashing",
+      "predicted": "flashing",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "is",
+      "predicted": "is",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "light",
+      "predicted": "light",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "no",
+      "predicted": "no",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "red",
+      "predicted": "red",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "when",
+      "predicted": "when",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "processing_time": 0.1709
+    }
+  ],
+  "aPICT0024": [
+    {
+      "ground_truth": "office",
+      "predicted": "office",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "overseas",
+      "predicted": "overseas",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "relations",
+      "predicted": "relations",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "processing_time": 0.1555
+    }
+  ],
+  "aPICT0025": [
+    {
+      "ground_truth": "do",
+      "predicted": "",
+      "confidence": null,
+      "lev_dist": 2,
+      "lev_ratio": 1.0,
+      "cer": 0,
+      "dice_index": 0.0,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "help",
+      "predicted": "",
+      "confidence": null,
+      "lev_dist": 4,
+      "lev_ratio": 1.0,
+      "cer": 0,
+      "dice_index": 0.0,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "if",
+      "predicted": "",
+      "confidence": null,
+      "lev_dist": 2,
+      "lev_ratio": 1.0,
+      "cer": 0,
+      "dice_index": 0.0,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "in",
+      "predicted": "",
+      "confidence": null,
+      "lev_dist": 2,
+      "lev_ratio": 1.0,
+      "cer": 0,
+      "dice_index": 0.0,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "information",
+      "predicted": "",
+      "confidence": null,
+      "lev_dist": 11,
+      "lev_ratio": 1.0,
+      "cer": 0,
+      "dice_index": 0.0,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "intervals.",
+      "predicted": "",
+      "confidence": null,
+      "lev_dist": 10,
+      "lev_ratio": 1.0,
+      "cer": 0,
+      "dice_index": 0.0,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "lift",
+      "predicted": "",
+      "confidence": null,
+      "lev_dist": 4,
+      "lev_ratio": 1.0,
+      "cer": 0,
+      "dice_index": 0.0,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "not",
+      "predicted": "",
+      "confidence": null,
+      "lev_dist": 3,
+      "lev_ratio": 1.0,
+      "cer": 0,
+      "dice_index": 0.0,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "notice",
+      "predicted": "",
+      "confidence": null,
+      "lev_dist": 6,
+      "lev_ratio": 1.0,
+      "cer": 0,
+      "dice_index": 0.0,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "panic.",
+      "predicted": "",
+      "confidence": null,
+      "lev_dist": 6,
+      "lev_ratio": 1.0,
+      "cer": 0,
+      "dice_index": 0.0,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "please",
+      "predicted": "",
+      "confidence": null,
+      "lev_dist": 6,
+      "lev_ratio": 1.0,
+      "cer": 0,
+      "dice_index": 0.0,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "please",
+      "predicted": "",
+      "confidence": null,
+      "lev_dist": 6,
+      "lev_ratio": 1.0,
+      "cer": 0,
+      "dice_index": 0.0,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "press",
+      "predicted": "",
+      "confidence": null,
+      "lev_dist": 5,
+      "lev_ratio": 1.0,
+      "cer": 0,
+      "dice_index": 0.0,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "safety",
+      "predicted": "",
+      "confidence": null,
+      "lev_dist": 6,
+      "lev_ratio": 1.0,
+      "cer": 0,
+      "dice_index": 0.0,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "second",
+      "predicted": "",
+      "confidence": null,
+      "lev_dist": 6,
+      "lev_ratio": 1.0,
+      "cer": 0,
+      "dice_index": 0.0,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "sound",
+      "predicted": "",
+      "confidence": null,
+      "lev_dist": 5,
+      "lev_ratio": 1.0,
+      "cer": 0,
+      "dice_index": 0.0,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "the",
+      "predicted": "",
+      "confidence": null,
+      "lev_dist": 3,
+      "lev_ratio": 1.0,
+      "cer": 0,
+      "dice_index": 0.0,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "the",
+      "predicted": "",
+      "confidence": null,
+      "lev_dist": 3,
+      "lev_ratio": 1.0,
+      "cer": 0,
+      "dice_index": 0.0,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "trapped",
+      "predicted": "",
+      "confidence": null,
+      "lev_dist": 7,
+      "lev_ratio": 1.0,
+      "cer": 0,
+      "dice_index": 0.0,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "will",
+      "predicted": "",
+      "confidence": null,
+      "lev_dist": 4,
+      "lev_ratio": 1.0,
+      "cer": 0,
+      "dice_index": 0.0,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "without",
+      "predicted": "",
+      "confidence": null,
+      "lev_dist": 7,
+      "lev_ratio": 1.0,
+      "cer": 0,
+      "dice_index": 0.0,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "you",
+      "predicted": "",
+      "confidence": null,
+      "lev_dist": 3,
+      "lev_ratio": 1.0,
+      "cer": 0,
+      "dice_index": 0.0,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "alarm",
+      "predicted": "",
+      "confidence": null,
+      "lev_dist": 5,
+      "lev_ratio": 1.0,
+      "cer": 0,
+      "dice_index": 0.0,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "and",
+      "predicted": "",
+      "confidence": null,
+      "lev_dist": 3,
+      "lev_ratio": 1.0,
+      "cer": 0,
+      "dice_index": 0.0,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "arrive",
+      "predicted": "",
+      "confidence": null,
+      "lev_dist": 6,
+      "lev_ratio": 1.0,
+      "cer": 0,
+      "dice_index": 0.0,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "at",
+      "predicted": "",
+      "confidence": null,
+      "lev_dist": 2,
+      "lev_ratio": 1.0,
+      "cer": 0,
+      "dice_index": 0.0,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "become",
+      "predicted": "",
+      "confidence": null,
+      "lev_dist": 6,
+      "lev_ratio": 1.0,
+      "cer": 0,
+      "dice_index": 0.0,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "button",
+      "predicted": "",
+      "confidence": null,
+      "lev_dist": 6,
+      "lev_ratio": 1.0,
+      "cer": 0,
+      "dice_index": 0.0,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "delay.",
+      "predicted": "",
+      "confidence": null,
+      "lev_dist": 6,
+      "lev_ratio": 1.0,
+      "cer": 0,
+      "dice_index": 0.0,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "desk",
+      "predicted": "",
+      "confidence": null,
+      "lev_dist": 4,
+      "lev_ratio": 1.0,
+      "cer": 0,
+      "dice_index": 0.0,
+      "exact_match": false
+    },
+    {
+      "processing_time": 0.3425
+    }
+  ],
+  "aPICT0026": [
+    {
+      "ground_truth": "4",
+      "predicted": "4",
+      "confidence": 99.9999,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "exit",
+      "predicted": "",
+      "confidence": null,
+      "lev_dist": 4,
+      "lev_ratio": 1.0,
+      "cer": 0,
+      "dice_index": 0.0,
+      "exact_match": false
+    },
+    {
+      "ground_truth": "floor",
+      "predicted": "floor",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "night",
+      "predicted": "night",
+      "confidence": 80.13,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "on",
+      "predicted": "on",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "processing_time": 0.1735
+    }
+  ],
+  "aPICT0027": [
+    {
+      "ground_truth": "toilet",
+      "predicted": "toilet",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "of",
+      "predicted": "of",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "order",
+      "predicted": "order",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "out",
+      "predicted": "out",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "ground_truth": "sorry",
+      "predicted": "sorry",
+      "confidence": null,
+      "lev_dist": 0,
+      "lev_ratio": 0.0,
+      "cer": 0.0,
+      "dice_index": 1.0,
+      "exact_match": true
+    },
+    {
+      "processing_time": 0.1646
+    }
+  ],
+  "average_metrics": {
+    "avg_cer": 0.0129,
+    "avg_levenshtein_distance": 2.2328,
+    "avg_levenshtein_ratio": 0.4569,
+    "avg_exact_match": 0.5172,
+    "avg_dice_index": 0.5377
+  }
+}

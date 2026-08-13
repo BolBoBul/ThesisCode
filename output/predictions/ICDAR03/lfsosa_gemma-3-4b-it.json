@@ -1,0 +1,3810 @@
+{
+  "IMG_2013": {
+    "predictions": [
+      [
+        "WARNING!",
+        null
+      ],
+      [
+        "LOW",
+        null
+      ],
+      [
+        "FLYING",
+        null
+      ],
+      [
+        "AND",
+        null
+      ],
+      [
+        "DEPARTING",
+        null
+      ],
+      [
+        "AIRCRAFT",
+        null
+      ],
+      [
+        "BLAST",
+        null
+      ],
+      [
+        "CAN",
+        null
+      ],
+      [
+        "CAUSE",
+        null
+      ],
+      [
+        "PHYSICAL",
+        null
+      ],
+      [
+        "INJURY",
+        null
+      ]
+    ],
+    "time": 1.8573
+  },
+  "IMG_2460": {
+    "predictions": [
+      [
+        "BEWARE",
+        null
+      ],
+      [
+        "ALLIGATOR",
+        null
+      ],
+      [
+        "TEETH",
+        null
+      ]
+    ],
+    "time": 0.8833
+  },
+  "IMG_2461": {
+    "predictions": [
+      [
+        "Proceed",
+        null
+      ],
+      [
+        "with",
+        null
+      ],
+      [
+        "caution.",
+        null
+      ],
+      [
+        "Height",
+        null
+      ],
+      [
+        "when",
+        null
+      ],
+      [
+        "raised",
+        null
+      ],
+      [
+        "115mm",
+        null
+      ],
+      [
+        "(4½”)",
+        null
+      ]
+    ],
+    "time": 1.5909
+  },
+  "IMG_2462": {
+    "predictions": [
+      [
+        "Beardwell",
+        null
+      ],
+      [
+        "Construction",
+        null
+      ],
+      [
+        "Limited",
+        null
+      ],
+      [
+        "construction",
+        null
+      ],
+      [
+        "•",
+        null
+      ],
+      [
+        "refurbishment",
+        null
+      ],
+      [
+        "•",
+        null
+      ],
+      [
+        "maintenance",
+        null
+      ],
+      [
+        "logistics",
+        null
+      ],
+      [
+        "for",
+        null
+      ],
+      [
+        "any",
+        null
+      ],
+      [
+        "impression",
+        null
+      ]
+    ],
+    "time": 1.5294
+  },
+  "IMG_2463": {
+    "predictions": [
+      [
+        "Ouch!",
+        null
+      ]
+    ],
+    "time": 0.4618
+  },
+  "IMG_2464": {
+    "predictions": [
+      [
+        "Boundary",
+        null
+      ],
+      [
+        "Road",
+        null
+      ]
+    ],
+    "time": 0.3992
+  },
+  "IMG_2466": {
+    "predictions": [
+      [
+        "STOP",
+        null
+      ]
+    ],
+    "time": 0.3262
+  },
+  "IMG_2468": {
+    "predictions": [
+      [
+        "CLOCK",
+        null
+      ],
+      [
+        "MUSEUM",
+        null
+      ],
+      [
+        "TYMPERLEYS",
+        null
+      ]
+    ],
+    "time": 1.0276
+  },
+  "IMG_2469": {
+    "predictions": [
+      [
+        "Essex",
+        null
+      ],
+      [
+        "County",
+        null
+      ],
+      [
+        "Council",
+        null
+      ],
+      [
+        "Libraries",
+        null
+      ]
+    ],
+    "time": 0.6109
+  },
+  "IMG_2471": {
+    "predictions": [
+      [
+        "WELCOME",
+        null
+      ],
+      [
+        "TO",
+        null
+      ],
+      [
+        "MARKS",
+        null
+      ],
+      [
+        "&",
+        null
+      ],
+      [
+        "SPENCER",
+        null
+      ],
+      [
+        "_________",
+        null
+      ],
+      [
+        "COLLECT",
+        null
+      ],
+      [
+        "BY",
+        null
+      ],
+      [
+        "CAR",
+        null
+      ]
+    ],
+    "time": 1.302
+  },
+  "IMG_2472": {
+    "predictions": [
+      [
+        "WHSmith",
+        null
+      ]
+    ],
+    "time": 0.464
+  },
+  "IMG_2473": {
+    "predictions": [
+      [
+        "RED",
+        null
+      ],
+      [
+        "LION",
+        null
+      ],
+      [
+        "YARD",
+        null
+      ],
+      [
+        "SHOPS",
+        null
+      ],
+      [
+        "HIGH",
+        null
+      ],
+      [
+        "STREET",
+        null
+      ]
+    ],
+    "time": 0.9485
+  },
+  "IMG_2474": {
+    "predictions": [
+      [
+        "SUMMER",
+        null
+      ],
+      [
+        "WHATEVER",
+        null
+      ],
+      [
+        "THE",
+        null
+      ],
+      [
+        "WEATHER",
+        null
+      ]
+    ],
+    "time": 0.8852
+  },
+  "IMG_2476": {
+    "predictions": [
+      [
+        "Summer’s",
+        null
+      ],
+      [
+        "Here!",
+        null
+      ]
+    ],
+    "time": 0.6779
+  },
+  "IMG_2477": {
+    "predictions": [
+      [
+        "E",
+        null
+      ],
+      [
+        "ROUGH",
+        null
+      ],
+      [
+        "GUIDE",
+        null
+      ],
+      [
+        "Website",
+        null
+      ],
+      [
+        "Directory",
+        null
+      ],
+      [
+        "Angus",
+        null
+      ],
+      [
+        "J.",
+        null
+      ],
+      [
+        "Kennedy",
+        null
+      ],
+      [
+        "&",
+        null
+      ],
+      [
+        "Peter",
+        null
+      ],
+      [
+        "Shapiro",
+        null
+      ]
+    ],
+    "time": 1.4243
+  },
+  "IMG_2478": {
+    "predictions": [
+      [
+        "PROFESSIONAL",
+        null
+      ],
+      [
+        "Java",
+        null
+      ],
+      [
+        "SOAP",
+        null
+      ],
+      [
+        "Henry",
+        null
+      ],
+      [
+        "Bequet",
+        null
+      ],
+      [
+        "wrox",
+        null
+      ]
+    ],
+    "time": 1.1591
+  },
+  "IMG_2479": {
+    "predictions": [
+      [
+        "Dive",
+        null
+      ],
+      [
+        "Java",
+        null
+      ],
+      [
+        "Language",
+        null
+      ],
+      [
+        "Guide",
+        null
+      ],
+      [
+        "by",
+        null
+      ],
+      [
+        "Guy",
+        null
+      ],
+      [
+        "Steele",
+        null
+      ]
+    ],
+    "time": 0.8732
+  },
+  "IMG_2480": {
+    "predictions": [
+      [
+        "J2SE",
+        null
+      ],
+      [
+        "form",
+        null
+      ],
+      [
+        "Upda",
+        null
+      ]
+    ],
+    "time": 0.7338
+  },
+  "IMG_2481": {
+    "predictions": [
+      [
+        "COLCHESTER",
+        null
+      ],
+      [
+        "POST",
+        null
+      ],
+      [
+        "OFFICE",
+        null
+      ]
+    ],
+    "time": 0.7419
+  },
+  "IMG_2482": {
+    "predictions": [
+      [
+        "BEER",
+        null
+      ],
+      [
+        "GARDEN",
+        null
+      ]
+    ],
+    "time": 0.6728
+  },
+  "IMG_2483": {
+    "predictions": [
+      [
+        "Please",
+        null
+      ],
+      [
+        "lock",
+        null
+      ],
+      [
+        "the",
+        null
+      ],
+      [
+        "gate",
+        null
+      ]
+    ],
+    "time": 0.6751
+  },
+  "IMG_2484": {
+    "predictions": [
+      [
+        "HOTEL",
+        null
+      ]
+    ],
+    "time": 0.4003
+  },
+  "IMG_2485": {
+    "predictions": [
+      [
+        "DENTAL",
+        null
+      ],
+      [
+        "SURGERY",
+        null
+      ]
+    ],
+    "time": 0.6758
+  },
+  "IMG_2486": {
+    "predictions": [
+      [
+        "Seit",
+        null
+      ],
+      [
+        "1879",
+        null
+      ],
+      [
+        "HOLSTEN",
+        null
+      ],
+      [
+        "Pure",
+        null
+      ],
+      [
+        "Lager",
+        null
+      ]
+    ],
+    "time": 1.0957
+  },
+  "IMG_2487": {
+    "predictions": [
+      [
+        "MFCA",
+        null
+      ],
+      [
+        "Foster",
+        null
+      ],
+      [
+        "Care",
+        null
+      ],
+      [
+        "Associates",
+        null
+      ]
+    ],
+    "time": 0.6798
+  },
+  "IMG_2488": {
+    "predictions": [
+      [
+        "MIDDLEBOROUGH",
+        null
+      ]
+    ],
+    "time": 0.4646
+  },
+  "IMG_2489": {
+    "predictions": [
+      [
+        "Royal",
+        null
+      ],
+      [
+        "London",
+        null
+      ]
+    ],
+    "time": 0.4648
+  },
+  "IMG_2490": {
+    "predictions": [
+      [
+        "NHS",
+        null
+      ]
+    ],
+    "time": 0.327
+  },
+  "IMG_2491": {
+    "predictions": [
+      [
+        "Connel",
+        null
+      ],
+      [
+        "ls",
+        null
+      ]
+    ],
+    "time": 0.4667
+  },
+  "IMG_2493": {
+    "predictions": [
+      [
+        "HSBC",
+        null
+      ],
+      [
+        "The",
+        null
+      ],
+      [
+        "world's",
+        null
+      ],
+      [
+        "local",
+        null
+      ],
+      [
+        "bank",
+        null
+      ]
+    ],
+    "time": 0.8965
+  },
+  "IMG_2495": {
+    "predictions": [
+      [
+        "Seatrade",
+        null
+      ],
+      [
+        "House",
+        null
+      ],
+      [
+        "Seatrade",
+        null
+      ],
+      [
+        "Communications",
+        null
+      ],
+      [
+        "Ltd",
+        null
+      ],
+      [
+        "Registered",
+        null
+      ],
+      [
+        "Office",
+        null
+      ]
+    ],
+    "time": 1.1581
+  },
+  "IMG_2498": {
+    "predictions": [
+      [
+        "WARNING",
+        null
+      ],
+      [
+        "Trespassing",
+        null
+      ],
+      [
+        "or",
+        null
+      ],
+      [
+        "causing",
+        null
+      ],
+      [
+        "nuisance",
+        null
+      ],
+      [
+        "on",
+        null
+      ],
+      [
+        "a",
+        null
+      ],
+      [
+        "school",
+        null
+      ],
+      [
+        "site",
+        null
+      ],
+      [
+        "can",
+        null
+      ],
+      [
+        "lead",
+        null
+      ],
+      [
+        "to",
+        null
+      ],
+      [
+        "a",
+        null
+      ],
+      [
+        "criminal",
+        null
+      ],
+      [
+        "conviction",
+        null
+      ],
+      [
+        "Under",
+        null
+      ],
+      [
+        "Section",
+        null
+      ],
+      [
+        "547",
+        null
+      ],
+      [
+        "of",
+        null
+      ],
+      [
+        "the",
+        null
+      ],
+      [
+        "Education",
+        null
+      ],
+      [
+        "Act",
+        null
+      ],
+      [
+        "1996",
+        null
+      ],
+      [
+        "Essex",
+        null
+      ],
+      [
+        "County",
+        null
+      ],
+      [
+        "Council",
+        null
+      ],
+      [
+        "Learning",
+        null
+      ],
+      [
+        "Services",
+        null
+      ]
+    ],
+    "time": 3.2411
+  },
+  "IMG_2499": {
+    "predictions": [
+      [
+        "Gt.",
+        null
+      ],
+      [
+        "Yarmouth",
+        null
+      ],
+      [
+        "Ipswich",
+        null
+      ],
+      [
+        "(A",
+        null
+      ],
+      [
+        "12)",
+        null
+      ],
+      [
+        "Harwich",
+        null
+      ],
+      [
+        "(A",
+        null
+      ],
+      [
+        "120)",
+        null
+      ],
+      [
+        "Clacton",
+        null
+      ],
+      [
+        "A",
+        null
+      ],
+      [
+        "133",
+        null
+      ]
+    ],
+    "time": 2.6843
+  },
+  "IMG_2500": {
+    "predictions": [
+      [
+        "Ford",
+        null
+      ]
+    ],
+    "time": 0.3248
+  },
+  "IMG_2501": {
+    "predictions": [
+      [
+        "London",
+        null
+      ],
+      [
+        "Chelmsford",
+        null
+      ],
+      [
+        "(A",
+        null
+      ],
+      [
+        "12)",
+        null
+      ],
+      [
+        "K",
+        null
+      ],
+      [
+        "Castle",
+        null
+      ],
+      [
+        "Elephant",
+        null
+      ]
+    ],
+    "time": 1.4381
+  },
+  "IMG_2502": {
+    "predictions": [
+      [
+        "RENAULT",
+        null
+      ]
+    ],
+    "time": 0.4607
+  },
+  "IMG_2503": {
+    "predictions": [
+      [
+        "GOOD",
+        null
+      ],
+      [
+        "HOME",
+        null
+      ],
+      [
+        "MADE",
+        null
+      ],
+      [
+        "FOOD",
+        null
+      ],
+      [
+        "CASK",
+        null
+      ],
+      [
+        "CONDITIONED",
+        null
+      ],
+      [
+        "ALES",
+        null
+      ],
+      [
+        "GARDEN",
+        null
+      ]
+    ],
+    "time": 1.4464
+  },
+  "IMG_2504": {
+    "predictions": [
+      [
+        "NEW",
+        null
+      ],
+      [
+        "TRAFFIC",
+        null
+      ],
+      [
+        "SIGNALS",
+        null
+      ],
+      [
+        "AHEAD",
+        null
+      ]
+    ],
+    "time": 0.9504
+  },
+  "IMG_2505": {
+    "predictions": [
+      [
+        "Town",
+        null
+      ],
+      [
+        "Centre",
+        null
+      ],
+      [
+        "A",
+        null
+      ],
+      [
+        "134",
+        null
+      ]
+    ],
+    "time": 0.8238
+  },
+  "IMG_2506": {
+    "predictions": [
+      [
+        "ESSEX",
+        null
+      ]
+    ],
+    "time": 0.399
+  },
+  "IMG_2507": {
+    "predictions": [
+      [
+        "ASDA",
+        null
+      ]
+    ],
+    "time": 0.3924
+  },
+  "IMG_2508": {
+    "predictions": [
+      [
+        "PROPER",
+        null
+      ],
+      [
+        "FOOD",
+        null
+      ],
+      [
+        "PRONTO",
+        null
+      ]
+    ],
+    "time": 0.7461
+  },
+  "IMG_2509": {
+    "predictions": [
+      [
+        "Park",
+        null
+      ],
+      [
+        "&",
+        null
+      ],
+      [
+        "Ride",
+        null
+      ],
+      [
+        "Sats.",
+        null
+      ],
+      [
+        "only",
+        null
+      ]
+    ],
+    "time": 0.8143
+  },
+  "IMG_2510": {
+    "predictions": [
+      [
+        "Station",
+        null
+      ],
+      [
+        "car",
+        null
+      ],
+      [
+        "park",
+        null
+      ]
+    ],
+    "time": 0.5324
+  },
+  "IMG_2511": {
+    "predictions": [
+      [
+        "Information.",
+        null
+      ],
+      [
+        "Tickets.",
+        null
+      ],
+      [
+        "Trains.",
+        null
+      ]
+    ],
+    "time": 0.8837
+  },
+  "IMG_2512": {
+    "predictions": [
+      [
+        "Cycleway",
+        null
+      ],
+      [
+        "Closed",
+        null
+      ],
+      [
+        "Ahead",
+        null
+      ]
+    ],
+    "time": 0.6855
+  },
+  "IMG_2513": {
+    "predictions": [
+      [
+        "Rail",
+        null
+      ],
+      [
+        "Colchester",
+        null
+      ]
+    ],
+    "time": 0.5319
+  },
+  "IMG_2514": {
+    "predictions": [
+      [
+        "INVESTMENTS",
+        null
+      ],
+      [
+        "PENSIONS",
+        null
+      ],
+      [
+        "MORTGAGES",
+        null
+      ]
+    ],
+    "time": 0.9502
+  },
+  "IMG_2516": {
+    "predictions": [
+      [
+        "DANGER",
+        null
+      ],
+      [
+        "CONSTRUCTION",
+        null
+      ],
+      [
+        "SITE",
+        null
+      ],
+      [
+        "Risk",
+        null
+      ],
+      [
+        "of",
+        null
+      ],
+      [
+        "Serious",
+        null
+      ],
+      [
+        "Injury",
+        null
+      ],
+      [
+        "KEEP",
+        null
+      ],
+      [
+        "OUT",
+        null
+      ],
+      [
+        "AND",
+        null
+      ],
+      [
+        "KEEP",
+        null
+      ],
+      [
+        "YOUR",
+        null
+      ],
+      [
+        "CHILDREN",
+        null
+      ],
+      [
+        "OUT!",
+        null
+      ],
+      [
+        "[SIGNS",
+        null
+      ],
+      [
+        "1603",
+        null
+      ],
+      [
+        "6162",
+        null
+      ],
+      [
+        "1]",
+        null
+      ]
+    ],
+    "time": 2.8911
+  },
+  "IMG_2518": {
+    "predictions": [
+      [
+        "ASDA",
+        null
+      ],
+      [
+        "GEORGETOWN",
+        null
+      ]
+    ],
+    "time": 0.7433
+  },
+  "IMG_2519": {
+    "predictions": [
+      [
+        "Drivers",
+        null
+      ],
+      [
+        "stop",
+        null
+      ],
+      [
+        "here",
+        null
+      ],
+      [
+        "and",
+        null
+      ],
+      [
+        "report",
+        null
+      ],
+      [
+        "to",
+        null
+      ],
+      [
+        "Warehouse",
+        null
+      ],
+      [
+        "Office.",
+        null
+      ]
+    ],
+    "time": 1.0333
+  },
+  "IMG_2520": {
+    "predictions": [
+      [
+        "Need",
+        null
+      ],
+      [
+        "a",
+        null
+      ],
+      [
+        "Brolly?",
+        null
+      ],
+      [
+        "-",
+        null
+      ],
+      [
+        "Just",
+        null
+      ],
+      [
+        "Ask!",
+        null
+      ]
+    ],
+    "time": 0.9543
+  },
+  "IMG_2521": {
+    "predictions": [
+      [
+        "ASDA",
+        null
+      ],
+      [
+        "CAR",
+        null
+      ],
+      [
+        "PARK",
+        null
+      ],
+      [
+        "This",
+        null
+      ],
+      [
+        "sign",
+        null
+      ],
+      [
+        "is",
+        null
+      ],
+      [
+        "to",
+        null
+      ],
+      [
+        "be",
+        null
+      ],
+      [
+        "the",
+        null
+      ],
+      [
+        "information",
+        null
+      ],
+      [
+        "of",
+        null
+      ],
+      [
+        "car",
+        null
+      ],
+      [
+        "expansions",
+        null
+      ],
+      [
+        "and",
+        null
+      ],
+      [
+        "all",
+        null
+      ],
+      [
+        "parking",
+        null
+      ],
+      [
+        "regulations",
+        null
+      ]
+    ],
+    "time": 1.8669
+  },
+  "IMG_2522": {
+    "predictions": [
+      [
+        "ASDA",
+        null
+      ],
+      [
+        "Price",
+        null
+      ],
+      [
+        "PROMISE",
+        null
+      ],
+      [
+        "Permanently",
+        null
+      ],
+      [
+        "Low",
+        null
+      ],
+      [
+        "Prices",
+        null
+      ],
+      [
+        "Forever",
+        null
+      ]
+    ],
+    "time": 1.3706
+  },
+  "IMG_2523": {
+    "predictions": [
+      [
+        "ROYAL",
+        null
+      ],
+      [
+        "MAIL",
+        null
+      ],
+      [
+        "6",
+        null
+      ],
+      [
+        "drops",
+        null
+      ]
+    ],
+    "time": 0.6776
+  },
+  "IMG_2524": {
+    "predictions": [
+      [
+        "2002",
+        null
+      ],
+      [
+        "Manchester",
+        null
+      ],
+      [
+        "THE",
+        null
+      ],
+      [
+        "XVII",
+        null
+      ],
+      [
+        "COMMONWEALTH",
+        null
+      ],
+      [
+        "GAMES",
+        null
+      ]
+    ],
+    "time": 1.1622
+  },
+  "IMG_2525": {
+    "predictions": [
+      [
+        "FOSTER'S®",
+        null
+      ]
+    ],
+    "time": 0.6107
+  },
+  "IMG_2526": {
+    "predictions": [
+      [
+        "GUINNESS",
+        null
+      ],
+      [
+        "Draught",
+        null
+      ],
+      [
+        "17",
+        null
+      ],
+      [
+        "59",
+        null
+      ],
+      [
+        "™",
+        null
+      ]
+    ],
+    "time": 1.2986
+  },
+  "IMG_2528": {
+    "predictions": [
+      [
+        "Corona",
+        null
+      ],
+      [
+        "Extra",
+        null
+      ]
+    ],
+    "time": 0.4681
+  },
+  "IMG_2530": {
+    "predictions": [
+      [
+        "IMPORTED",
+        null
+      ],
+      [
+        "BEER",
+        null
+      ],
+      [
+        "FROM",
+        null
+      ],
+      [
+        "MEXICO",
+        null
+      ]
+    ],
+    "time": 0.8114
+  },
+  "IMG_2531": {
+    "predictions": [
+      [
+        "Customer",
+        null
+      ],
+      [
+        "Freephone",
+        null
+      ],
+      [
+        "Private",
+        null
+      ],
+      [
+        "Hire",
+        null
+      ],
+      [
+        "Service",
+        null
+      ]
+    ],
+    "time": 0.8761
+  },
+  "IMG_2532": {
+    "predictions": [
+      [
+        "PEDESTRIANS",
+        null
+      ]
+    ],
+    "time": 0.5489
+  },
+  "IMG_2533": {
+    "predictions": [
+      [
+        "15’",
+        null
+      ],
+      [
+        "3”",
+        null
+      ]
+    ],
+    "time": 0.684
+  },
+  "IMG_2534": {
+    "predictions": [
+      [
+        "Tetley",
+        null
+      ],
+      [
+        "♥U",
+        null
+      ],
+      [
+        "To",
+        null
+      ],
+      [
+        "find",
+        null
+      ],
+      [
+        "out",
+        null
+      ],
+      [
+        "just",
+        null
+      ],
+      [
+        "how",
+        null
+      ],
+      [
+        "much,",
+        null
+      ],
+      [
+        "visit",
+        null
+      ],
+      [
+        "tetley.co.uk",
+        null
+      ]
+    ],
+    "time": 1.6603
+  },
+  "IMG_2535": {
+    "predictions": [
+      [
+        "Town",
+        null
+      ],
+      [
+        "Centre",
+        null
+      ],
+      [
+        "Leisure",
+        null
+      ],
+      [
+        "World",
+        null
+      ],
+      [
+        "Rollerworld",
+        null
+      ],
+      [
+        "Clacton",
+        null
+      ],
+      [
+        "A",
+        null
+      ],
+      [
+        "133",
+        null
+      ],
+      [
+        "Ipswich",
+        null
+      ],
+      [
+        "Gt.",
+        null
+      ],
+      [
+        "Yarmouth",
+        null
+      ],
+      [
+        "(A",
+        null
+      ],
+      [
+        "12)",
+        null
+      ],
+      [
+        "Harwich",
+        null
+      ],
+      [
+        "(A",
+        null
+      ],
+      [
+        "120)",
+        null
+      ],
+      [
+        "London",
+        null
+      ],
+      [
+        "Chelmsford",
+        null
+      ],
+      [
+        "(A",
+        null
+      ],
+      [
+        "12)",
+        null
+      ]
+    ],
+    "time": 4.2967
+  },
+  "IMG_2536": {
+    "predictions": [
+      [
+        "Leisure",
+        null
+      ],
+      [
+        "Centre",
+        null
+      ],
+      [
+        "Ipswich",
+        null
+      ],
+      [
+        "Road",
+        null
+      ],
+      [
+        "Greenstead",
+        null
+      ]
+    ],
+    "time": 1.0243
+  },
+  "IMG_2537": {
+    "predictions": [
+      [
+        "The",
+        null
+      ],
+      [
+        "Albert",
+        null
+      ],
+      [
+        "Beefeter",
+        null
+      ]
+    ],
+    "time": 0.6752
+  },
+  "IMG_2538": {
+    "predictions": [
+      [
+        "Osborne",
+        null
+      ],
+      [
+        "Garages",
+        null
+      ]
+    ],
+    "time": 0.541
+  },
+  "IMG_2539": {
+    "predictions": [
+      [
+        "ISUZU",
+        null
+      ],
+      [
+        "ORDER",
+        null
+      ],
+      [
+        "YOUR",
+        null
+      ]
+    ],
+    "time": 0.6753
+  },
+  "IMG_2540": {
+    "predictions": [
+      [
+        "Central",
+        null
+      ],
+      [
+        "Tyre",
+        null
+      ],
+      [
+        "M.O.T.",
+        null
+      ]
+    ],
+    "time": 1.0214
+  },
+  "IMG_2541": {
+    "predictions": [
+      [
+        "School",
+        null
+      ]
+    ],
+    "time": 0.3301
+  },
+  "IMG_2542": {
+    "predictions": [
+      [
+        "GOODYEAR",
+        null
+      ]
+    ],
+    "time": 0.3956
+  },
+  "IMG_2543": {
+    "predictions": [
+      [
+        "BED",
+        null
+      ],
+      [
+        "&",
+        null
+      ],
+      [
+        "BREAKFAST",
+        null
+      ]
+    ],
+    "time": 0.5426
+  },
+  "IMG_2544": {
+    "predictions": [
+      [
+        "SALOON",
+        null
+      ]
+    ],
+    "time": 0.4662
+  },
+  "IMG_2545": {
+    "predictions": [
+      [
+        "HAIR",
+        null
+      ]
+    ],
+    "time": 0.4004
+  },
+  "IMG_2546": {
+    "predictions": [
+      [
+        "FAX",
+        null
+      ]
+    ],
+    "time": 0.3233
+  },
+  "IMG_2547": {
+    "predictions": [
+      [
+        "FREE",
+        null
+      ],
+      [
+        "DELIVERY",
+        null
+      ]
+    ],
+    "time": 0.3951
+  },
+  "IMG_2548": {
+    "predictions": [
+      [
+        "CORAL",
+        null
+      ]
+    ],
+    "time": 0.401
+  },
+  "IMG_2549": {
+    "predictions": [
+      [
+        "Refill",
+        null
+      ]
+    ],
+    "time": 0.3958
+  },
+  "IMG_2550": {
+    "predictions": [
+      [
+        "RIVERSIDE",
+        null
+      ],
+      [
+        "WALK",
+        null
+      ],
+      [
+        "↑",
+        null
+      ]
+    ],
+    "time": 0.8173
+  },
+  "IMG_2552": {
+    "predictions": [
+      [
+        "DISCOVER",
+        null
+      ],
+      [
+        "THE",
+        null
+      ],
+      [
+        "DARK",
+        null
+      ],
+      [
+        "SIDE",
+        null
+      ]
+    ],
+    "time": 0.6042
+  },
+  "IMG_2553": {
+    "predictions": [
+      [
+        "Airtours",
+        null
+      ],
+      [
+        "Holidays",
+        null
+      ],
+      [
+        "Hotel",
+        null
+      ],
+      [
+        "Sol",
+        null
+      ],
+      [
+        "Guadaloupe",
+        null
+      ],
+      [
+        "-",
+        null
+      ],
+      [
+        "Majorca.",
+        null
+      ],
+      [
+        "Adult",
+        null
+      ],
+      [
+        "price",
+        null
+      ],
+      [
+        "per",
+        null
+      ],
+      [
+        "person",
+        null
+      ],
+      [
+        "7",
+        null
+      ],
+      [
+        "nts",
+        null
+      ],
+      [
+        "3A",
+        null
+      ],
+      [
+        "HB",
+        null
+      ],
+      [
+        "-",
+        null
+      ],
+      [
+        "Dept",
+        null
+      ],
+      [
+        "Gatwick",
+        null
+      ],
+      [
+        "18/06/03",
+        null
+      ],
+      [
+        "£359",
+        null
+      ],
+      [
+        "erson",
+        null
+      ],
+      [
+        "aring",
+        null
+      ]
+    ],
+    "time": 3.5234
+  },
+  "IMG_2554": {
+    "predictions": [
+      [
+        "LLOYDS",
+        null
+      ],
+      [
+        "BANK",
+        null
+      ]
+    ],
+    "time": 0.5388
+  },
+  "IMG_2555": {
+    "predictions": [
+      [
+        "The",
+        null
+      ],
+      [
+        "Photo",
+        null
+      ],
+      [
+        "Specialists",
+        null
+      ]
+    ],
+    "time": 0.4624
+  },
+  "IMG_2556": {
+    "predictions": [
+      [
+        "British",
+        null
+      ],
+      [
+        "Red",
+        null
+      ],
+      [
+        "Cross",
+        null
+      ],
+      [
+        "Shop",
+        null
+      ]
+    ],
+    "time": 0.5394
+  },
+  "IMG_2557": {
+    "predictions": [
+      [
+        "The",
+        null
+      ],
+      [
+        "SAD",
+        null
+      ],
+      [
+        "SACK",
+        null
+      ],
+      [
+        "Cafe",
+        null
+      ]
+    ],
+    "time": 0.6066
+  },
+  "IMG_2558": {
+    "predictions": [
+      [
+        "ESTATE",
+        null
+      ],
+      [
+        "AGENTS",
+        null
+      ],
+      [
+        "SAXONS",
+        null
+      ],
+      [
+        "SAXONS",
+        null
+      ],
+      [
+        "ESTATE",
+        null
+      ],
+      [
+        "AGENTS",
+        null
+      ]
+    ],
+    "time": 1.3095
+  },
+  "IMG_2559": {
+    "predictions": [
+      [
+        "savers",
+        null
+      ]
+    ],
+    "time": 0.3964
+  },
+  "IMG_2560": {
+    "predictions": [
+      [
+        "Stationery",
+        null
+      ],
+      [
+        "Box",
+        null
+      ]
+    ],
+    "time": 0.466
+  },
+  "IMG_2561": {
+    "predictions": [
+      [
+        "DELL",
+        null
+      ]
+    ],
+    "time": 0.399
+  },
+  "IMG_2564": {
+    "predictions": [
+      [
+        "DELL",
+        null
+      ],
+      [
+        "INSPIRON",
+        null
+      ],
+      [
+        "8000",
+        null
+      ]
+    ],
+    "time": 1.0249
+  },
+  "IMG_2565": {
+    "predictions": [
+      [
+        "ntl:",
+        null
+      ]
+    ],
+    "time": 0.4641
+  },
+  "IMG_2566": {
+    "predictions": [
+      [
+        "[falling",
+        null
+      ],
+      [
+        "on",
+        null
+      ],
+      [
+        "my",
+        null
+      ],
+      [
+        "knees]",
+        null
+      ],
+      [
+        "hungry",
+        null
+      ]
+    ],
+    "time": 0.816
+  },
+  "IMG_2567": {
+    "predictions": [
+      [
+        "Canon",
+        null
+      ],
+      [
+        "COMPACT",
+        null
+      ],
+      [
+        "POWER",
+        null
+      ],
+      [
+        "ADAPTER",
+        null
+      ],
+      [
+        "CA-PS100",
+        null
+      ]
+    ],
+    "time": 1.237
+  },
+  "IMG_2569": {
+    "predictions": [
+      [
+        "Canon",
+        null
+      ],
+      [
+        "PowerShot",
+        null
+      ]
+    ],
+    "time": 0.5371
+  },
+  "IMG_2571": {
+    "predictions": [
+      [
+        "FARNBOROUGH",
+        null
+      ],
+      [
+        "AIRSHOW",
+        null
+      ],
+      [
+        "28",
+        null
+      ],
+      [
+        "JULY",
+        null
+      ],
+      [
+        "2002",
+        null
+      ],
+      [
+        "daily",
+        null
+      ],
+      [
+        "flying",
+        null
+      ],
+      [
+        "programme",
+        null
+      ]
+    ],
+    "time": 1.7356
+  },
+  "IMG_2572": {
+    "predictions": [
+      [
+        "BAE",
+        null
+      ],
+      [
+        "SYSTEMS",
+        null
+      ]
+    ],
+    "time": 0.4691
+  },
+  "IMG_2573": {
+    "predictions": [
+      [
+        "UPDAtmexico",
+        null
+      ],
+      [
+        "a",
+        null
+      ],
+      [
+        "publication",
+        null
+      ],
+      [
+        "of",
+        null
+      ],
+      [
+        "the",
+        null
+      ],
+      [
+        "Mexican",
+        null
+      ],
+      [
+        "Embassy",
+        null
+      ],
+      [
+        "to",
+        null
+      ],
+      [
+        "the",
+        null
+      ],
+      [
+        "United",
+        null
+      ],
+      [
+        "Kingdom",
+        null
+      ],
+      [
+        "President",
+        null
+      ],
+      [
+        "Fox",
+        null
+      ],
+      [
+        "visits",
+        null
+      ],
+      [
+        "European",
+        null
+      ],
+      [
+        "cities",
+        null
+      ]
+    ],
+    "time": 1.782
+  },
+  "IMG_2575": {
+    "predictions": [
+      [
+        "“The",
+        null
+      ],
+      [
+        "heart",
+        null
+      ],
+      [
+        "of",
+        null
+      ],
+      [
+        "a",
+        null
+      ],
+      [
+        "fool",
+        null
+      ],
+      [
+        "is",
+        null
+      ],
+      [
+        "in",
+        null
+      ],
+      [
+        "his",
+        null
+      ],
+      [
+        "mouth,",
+        null
+      ],
+      [
+        "but",
+        null
+      ],
+      [
+        "the",
+        null
+      ],
+      [
+        "mouth",
+        null
+      ],
+      [
+        "of",
+        null
+      ],
+      [
+        "a",
+        null
+      ],
+      [
+        "wise",
+        null
+      ],
+      [
+        "man",
+        null
+      ],
+      [
+        "is",
+        null
+      ],
+      [
+        "in",
+        null
+      ],
+      [
+        "his",
+        null
+      ],
+      [
+        "heart.”",
+        null
+      ],
+      [
+        "(Benjamin",
+        null
+      ],
+      [
+        "Franklin)",
+        null
+      ]
+    ],
+    "time": 2.2858
+  },
+  "IMG_2583": {
+    "predictions": [
+      [
+        "4B.522",
+        null
+      ],
+      [
+        "2N",
+        null
+      ],
+      [
+        "GRADUATE",
+        null
+      ],
+      [
+        "OFFICE",
+        null
+      ],
+      [
+        "Marisa",
+        null
+      ],
+      [
+        "Bostock",
+        null
+      ],
+      [
+        "Jenny",
+        null
+      ],
+      [
+        "Dixon",
+        null
+      ]
+    ],
+    "time": 1.7964
+  },
+  "IMG_2584": {
+    "predictions": [
+      [
+        "iivama",
+        null
+      ]
+    ],
+    "time": 0.408
+  },
+  "IMG_2585": {
+    "predictions": [
+      [
+        "Avery",
+        null
+      ]
+    ],
+    "time": 0.398
+  },
+  "IMG_2586": {
+    "predictions": [
+      [
+        "Guidx",
+        null
+      ],
+      [
+        "Folders",
+        null
+      ]
+    ],
+    "time": 0.5364
+  },
+  "IMG_2588": {
+    "predictions": [
+      [
+        "SANYO",
+        null
+      ],
+      [
+        "PROxtraX",
+        null
+      ],
+      [
+        "MULTIMEDIA",
+        null
+      ],
+      [
+        "PROJECTOR",
+        null
+      ]
+    ],
+    "time": 1.214
+  },
+  "IMG_2591": {
+    "predictions": [
+      [
+        "intelligent",
+        null
+      ],
+      [
+        "inhabited",
+        null
+      ],
+      [
+        "environments",
+        null
+      ],
+      [
+        "group",
+        null
+      ],
+      [
+        "University",
+        null
+      ],
+      [
+        "of",
+        null
+      ],
+      [
+        "Essex",
+        null
+      ]
+    ],
+    "time": 0.8804
+  },
+  "IMG_2593": {
+    "predictions": [
+      [
+        "Roland",
+        null
+      ],
+      [
+        "DIGITAL",
+        null
+      ],
+      [
+        "GROUP",
+        null
+      ]
+    ],
+    "time": 0.6742
+  },
+  "IMG_2594": {
+    "predictions": [
+      [
+        "hp",
+        null
+      ],
+      [
+        "invent",
+        null
+      ]
+    ],
+    "time": 0.4693
+  },
+  "IMG_2595": {
+    "predictions": [
+      [
+        "No",
+        null
+      ],
+      [
+        "mobile",
+        null
+      ],
+      [
+        "phones",
+        null
+      ]
+    ],
+    "time": 0.5347
+  },
+  "IMG_2597": {
+    "predictions": [
+      [
+        "Microsoft",
+        null
+      ]
+    ],
+    "time": 0.3294
+  },
+  "IMG_2598": {
+    "predictions": [
+      [
+        "EQPT.",
+        null
+      ],
+      [
+        "INVENTORY",
+        null
+      ],
+      [
+        "NO.",
+        null
+      ],
+      [
+        "Carbon",
+        null
+      ],
+      [
+        "Dioxide",
+        null
+      ],
+      [
+        "Fire",
+        null
+      ],
+      [
+        "Extinguisher",
+        null
+      ],
+      [
+        "Stored",
+        null
+      ],
+      [
+        "pressure",
+        null
+      ],
+      [
+        "fluid",
+        null
+      ]
+    ],
+    "time": 1.5753
+  },
+  "IMG_2599": {
+    "predictions": [
+      [
+        ":Hansol",
+        null
+      ]
+    ],
+    "time": 0.4634
+  },
+  "IMG_2600": {
+    "predictions": [
+      [
+        "Num",
+        null
+      ],
+      [
+        "Lock",
+        null
+      ],
+      [
+        "Caps",
+        null
+      ],
+      [
+        "Lock",
+        null
+      ],
+      [
+        "Scroll",
+        null
+      ],
+      [
+        "Lock",
+        null
+      ],
+      [
+        "Viglen",
+        null
+      ]
+    ],
+    "time": 1.2986
+  },
+  "IMG_2604": {
+    "predictions": [
+      [
+        "RAF",
+        null
+      ],
+      [
+        "CAREERS",
+        null
+      ]
+    ],
+    "time": 0.4652
+  },
+  "IMG_2605": {
+    "predictions": [
+      [
+        "MATSUI",
+        null
+      ],
+      [
+        "CD",
+        null
+      ],
+      [
+        "77",
+        null
+      ]
+    ],
+    "time": 0.7552
+  },
+  "IMG_2606": {
+    "predictions": [
+      [
+        "POCKET",
+        null
+      ],
+      [
+        "FLASH",
+        null
+      ]
+    ],
+    "time": 0.4752
+  },
+  "IMG_2607": {
+    "predictions": [
+      [
+        "genie",
+        null
+      ]
+    ],
+    "time": 0.3902
+  },
+  "IMG_2612": {
+    "predictions": [
+      [
+        "intel",
+        null
+      ],
+      [
+        "inside",
+        null
+      ],
+      [
+        "pentium",
+        null
+      ],
+      [
+        "4",
+        null
+      ]
+    ],
+    "time": 0.7474
+  },
+  "IMG_2613": {
+    "predictions": [
+      [
+        "WATERSTONE'S",
+        null
+      ],
+      [
+        "The",
+        null
+      ],
+      [
+        "last",
+        null
+      ],
+      [
+        "word",
+        null
+      ],
+      [
+        "in",
+        null
+      ],
+      [
+        "books",
+        null
+      ]
+    ],
+    "time": 0.9558
+  },
+  "IMG_2614": {
+    "predictions": [
+      [
+        "D",
+        null
+      ]
+    ],
+    "time": 0.3281
+  },
+  "IMG_2615": {
+    "predictions": [
+      [
+        "Electrolux",
+        null
+      ]
+    ],
+    "time": 0.4707
+  },
+  "IMG_2616": {
+    "predictions": [
+      [
+        "ZANUSSI",
+        null
+      ]
+    ],
+    "time": 0.5307
+  },
+  "IMG_2617": {
+    "predictions": [
+      [
+        "Panasonic",
+        null
+      ],
+      [
+        "NE-1027",
+        null
+      ]
+    ],
+    "time": 0.8163
+  },
+  "IMG_2618": {
+    "predictions": [
+      [
+        "fresh",
+        null
+      ],
+      [
+        "semi",
+        null
+      ],
+      [
+        "skimmed",
+        null
+      ]
+    ],
+    "time": 0.6068
+  },
+  "IMG_2619": {
+    "predictions": [
+      [
+        "PLEASE",
+        null
+      ],
+      [
+        "DO",
+        null
+      ],
+      [
+        "NOT",
+        null
+      ],
+      [
+        "DISTURB",
+        null
+      ],
+      [
+        "…I’M",
+        null
+      ],
+      [
+        "RECOVERING!!",
+        null
+      ]
+    ],
+    "time": 1.4461
+  },
+  "IMG_2620": {
+    "predictions": [
+      [
+        "Henry",
+        null
+      ]
+    ],
+    "time": 0.3265
+  },
+  "IMG_2622": {
+    "predictions": [
+      [
+        "Sainsbury’s",
+        null
+      ],
+      [
+        "ECONOMY",
+        null
+      ],
+      [
+        "LONG",
+        null
+      ],
+      [
+        "LIFE",
+        null
+      ],
+      [
+        "ORANGE",
+        null
+      ],
+      [
+        "JUICE",
+        null
+      ]
+    ],
+    "time": 1.5179
+  },
+  "IMG_2624": {
+    "predictions": [
+      [
+        "No",
+        null
+      ],
+      [
+        "unauthorised",
+        null
+      ],
+      [
+        "entry",
+        null
+      ],
+      [
+        "into",
+        null
+      ],
+      [
+        "this",
+        null
+      ],
+      [
+        "area!",
+        null
+      ],
+      [
+        "Permit",
+        null
+      ],
+      [
+        "to",
+        null
+      ],
+      [
+        "work",
+        null
+      ],
+      [
+        "system",
+        null
+      ],
+      [
+        "in",
+        null
+      ],
+      [
+        "operation",
+        null
+      ],
+      [
+        "Estates",
+        null
+      ],
+      [
+        "Management",
+        null
+      ],
+      [
+        "Section",
+        null
+      ]
+    ],
+    "time": 1.8777
+  },
+  "IMG_2626": {
+    "predictions": [
+      [
+        "Nightline",
+        null
+      ]
+    ],
+    "time": 0.3983
+  },
+  "IMG_2627": {
+    "predictions": [
+      [
+        "Accommodation",
+        null
+      ],
+      [
+        "Office",
+        null
+      ],
+      [
+        "Nightline",
+        null
+      ]
+    ],
+    "time": 0.6133
+  },
+  "IMG_2628": {
+    "predictions": [
+      [
+        "←",
+        null
+      ],
+      [
+        "Footpath.",
+        null
+      ],
+      [
+        "To.",
+        null
+      ],
+      [
+        "Colchester",
+        null
+      ],
+      [
+        "and",
+        null
+      ],
+      [
+        "Greenstead...",
+        null
+      ]
+    ],
+    "time": 1.2306
+  },
+  "IMG_2629": {
+    "predictions": [
+      [
+        "Campus",
+        null
+      ]
+    ],
+    "time": 0.3268
+  },
+  "IMG_2630": {
+    "predictions": [
+      [
+        "FIVE",
+        null
+      ],
+      [
+        "FOURS",
+        null
+      ],
+      [
+        "2a",
+        null
+      ],
+      [
+        "Arthur",
+        null
+      ],
+      [
+        "St",
+        null
+      ],
+      [
+        "Colchester",
+        null
+      ],
+      [
+        "544444",
+        null
+      ],
+      [
+        "LICENSED",
+        null
+      ],
+      [
+        "PRIVATE",
+        null
+      ],
+      [
+        "HIRE",
+        null
+      ],
+      [
+        "VEHICLE",
+        null
+      ],
+      [
+        "©",
+        null
+      ],
+      [
+        "1994",
+        null
+      ],
+      [
+        "CURTIS",
+        null
+      ],
+      [
+        "GRAPHIC",
+        null
+      ],
+      [
+        "01206",
+        null
+      ],
+      [
+        "16766",
+        null
+      ]
+    ],
+    "time": 3.6497
+  },
+  "IMG_2631": {
+    "predictions": [
+      [
+        "TAXI",
+        null
+      ]
+    ],
+    "time": 0.3952
+  },
+  "IMG_2633": {
+    "predictions": [
+      [
+        "GΦM",
+        null
+      ]
+    ],
+    "time": 0.4694
+  },
+  "IMG_2634": {
+    "predictions": [
+      [
+        "ARENA",
+        null
+      ],
+      [
+        "COLCHESTER",
+        null
+      ],
+      [
+        "AT",
+        null
+      ],
+      [
+        "THE",
+        null
+      ],
+      [
+        "HEART",
+        null
+      ],
+      [
+        "OF",
+        null
+      ],
+      [
+        "THE",
+        null
+      ],
+      [
+        "TOWN!",
+        null
+      ]
+    ],
+    "time": 1.1654
+  },
+  "IMG_2635": {
+    "predictions": [
+      [
+        "LOUNGE",
+        null
+      ]
+    ],
+    "time": 0.4662
+  },
+  "IMG_2637": {
+    "predictions": [
+      [
+        "CENTLEMEN",
+        null
+      ]
+    ],
+    "time": 0.4733
+  },
+  "IMG_2638": {
+    "predictions": [
+      [
+        "LADIES",
+        null
+      ]
+    ],
+    "time": 0.4646
+  },
+  "IMG_2639": {
+    "predictions": [
+      [
+        "St.Helena",
+        null
+      ],
+      [
+        "Room",
+        null
+      ]
+    ],
+    "time": 0.6794
+  },
+  "IMG_2640": {
+    "predictions": [
+      [
+        "Constantine",
+        null
+      ],
+      [
+        "Room",
+        null
+      ]
+    ],
+    "time": 0.5401
+  },
+  "IMG_2641": {
+    "predictions": [
+      [
+        "BAR",
+        null
+      ]
+    ],
+    "time": 0.3291
+  },
+  "IMG_2642": {
+    "predictions": [
+      [
+        "HOME",
+        null
+      ],
+      [
+        "OF",
+        null
+      ],
+      [
+        "ANTELOPE",
+        null
+      ],
+      [
+        "WHITTIER,",
+        null
+      ],
+      [
+        "N.Y.",
+        null
+      ],
+      [
+        "\"Home",
+        null
+      ],
+      [
+        "of",
+        null
+      ],
+      [
+        "Blue",
+        null
+      ],
+      [
+        "in",
+        null
+      ],
+      [
+        "the",
+        null
+      ],
+      [
+        "West\"",
+        null
+      ],
+      [
+        "MALDON",
+        null
+      ],
+      [
+        "ESSEX",
+        null
+      ],
+      [
+        "[Image]",
+        null
+      ],
+      [
+        "SIGNO",
+        null
+      ]
+    ],
+    "time": 2.76
+  },
+  "IMG_2643": {
+    "predictions": [
+      [
+        "VINCES",
+        null
+      ]
+    ],
+    "time": 0.3959
+  },
+  "IMG_2644": {
+    "predictions": [
+      [
+        "baby’s",
+        null
+      ],
+      [
+        "animal",
+        null
+      ],
+      [
+        "word",
+        null
+      ],
+      [
+        "book",
+        null
+      ]
+    ],
+    "time": 0.9203
+  },
+  "IMG_2645": {
+    "predictions": [
+      [
+        "PUSH",
+        null
+      ]
+    ],
+    "time": 0.3301
+  },
+  "IMG_2646": {
+    "predictions": [
+      [
+        "PULL",
+        null
+      ]
+    ],
+    "time": 0.4018
+  },
+  "IMG_2647": {
+    "predictions": [
+      [
+        "Break",
+        null
+      ],
+      [
+        "glass",
+        null
+      ],
+      [
+        "in",
+        null
+      ],
+      [
+        "case",
+        null
+      ],
+      [
+        "of",
+        null
+      ],
+      [
+        "fire",
+        null
+      ]
+    ],
+    "time": 0.8799
+  },
+  "IMG_2648": {
+    "predictions": [
+      [
+        "CONSTANTINE",
+        null
+      ]
+    ],
+    "time": 0.3939
+  },
+  "IMG_2653": {
+    "predictions": [
+      [
+        "TOYOTA",
+        null
+      ]
+    ],
+    "time": 0.4664
+  },
+  "IMG_2654": {
+    "predictions": [
+      [
+        "ARENA",
+        null
+      ],
+      [
+        "LEISURE",
+        null
+      ],
+      [
+        "SERVICES",
+        null
+      ],
+      [
+        "LIMITED",
+        null
+      ],
+      [
+        "Registered",
+        null
+      ],
+      [
+        "Office",
+        null
+      ]
+    ],
+    "time": 1.0216
+  },
+  "IMG_2655": {
+    "predictions": [
+      [
+        "CARLING",
+        null
+      ]
+    ],
+    "time": 0.4003
+  },
+  "IMG_2657": {
+    "predictions": [
+      [
+        "B&H",
+        null
+      ]
+    ],
+    "time": 0.4691
+  },
+  "IMG_2658": {
+    "predictions": [
+      [
+        "STUDIO",
+        null
+      ]
+    ],
+    "time": 0.3976
+  },
+  "IMG_2659": {
+    "predictions": [
+      [
+        "No",
+        null
+      ],
+      [
+        "admittance",
+        null
+      ],
+      [
+        "Authorised",
+        null
+      ],
+      [
+        "personnel",
+        null
+      ],
+      [
+        "only",
+        null
+      ]
+    ],
+    "time": 0.8962
+  },
+  "IMG_2660": {
+    "predictions": [
+      [
+        "COLCHESTER",
+        null
+      ]
+    ],
+    "time": 0.3928
+  },
+  "IMG_2661": {
+    "predictions": [
+      [
+        "Diet",
+        null
+      ],
+      [
+        "Coke",
+        null
+      ],
+      [
+        "REGISTERED",
+        null
+      ],
+      [
+        "TRADE",
+        null
+      ],
+      [
+        "MARK",
+        null
+      ]
+    ],
+    "time": 0.8834
+  },
+  "IMG_2662": {
+    "predictions": [
+      [
+        "Way",
+        null
+      ],
+      [
+        "out",
+        null
+      ]
+    ],
+    "time": 0.4759
+  },
+  "IMG_2663": {
+    "predictions": [
+      [
+        "EXIT",
+        null
+      ]
+    ],
+    "time": 0.3272
+  },
+  "IMG_2664": {
+    "predictions": [
+      [
+        "TAN",
+        null
+      ]
+    ],
+    "time": 0.3283
+  },
+  "IMG_2666": {
+    "predictions": [
+      [
+        "Telephone",
+        null
+      ],
+      [
+        "FOCAL",
+        null
+      ],
+      [
+        "DISPLAYS",
+        null
+      ],
+      [
+        "01",
+        null
+      ],
+      [
+        "640",
+        null
+      ],
+      [
+        "6821",
+        null
+      ],
+      [
+        "2",
+        null
+      ],
+      [
+        "REF",
+        null
+      ],
+      [
+        "A11",
+        null
+      ]
+    ],
+    "time": 1.9339
+  },
+  "IMG_2667": {
+    "predictions": [
+      [
+        "HEALTH",
+        null
+      ]
+    ],
+    "time": 0.3313
+  },
+  "IMG_2668": {
+    "predictions": [
+      [
+        "BEAVER",
+        null
+      ],
+      [
+        "84",
+        null
+      ],
+      [
+        "TEL:",
+        null
+      ],
+      [
+        "01268",
+        null
+      ],
+      [
+        "530888",
+        null
+      ]
+    ],
+    "time": 1.721
+  },
+  "IMG_2669": {
+    "predictions": [
+      [
+        "Portakabin",
+        null
+      ]
+    ],
+    "time": 0.4694
+  },
+  "IMG_2670": {
+    "predictions": [
+      [
+        "Rayleigh",
+        null
+      ]
+    ],
+    "time": 0.3988
+  },
+  "IMG_2671": {
+    "predictions": [
+      [
+        "Health",
+        null
+      ],
+      [
+        "Centre",
+        null
+      ],
+      [
+        "Greenwood",
+        null
+      ],
+      [
+        "House",
+        null
+      ]
+    ],
+    "time": 0.7495
+  },
+  "IMG_2672": {
+    "predictions": [
+      [
+        "BARCLAYS",
+        null
+      ]
+    ],
+    "time": 0.465
+  },
+  "IMG_2673": {
+    "predictions": [
+      [
+        "Campus",
+        null
+      ],
+      [
+        "Shop",
+        null
+      ]
+    ],
+    "time": 0.4666
+  },
+  "IMG_2674": {
+    "predictions": [
+      [
+        "Colgate",
+        null
+      ],
+      [
+        "Fluoride",
+        null
+      ],
+      [
+        "Toothpaste",
+        null
+      ]
+    ],
+    "time": 0.7447
+  },
+  "IMG_2675": {
+    "predictions": [
+      [
+        "LABORATOIRES",
+        null
+      ],
+      [
+        "GARNIER",
+        null
+      ]
+    ],
+    "time": 0.8742
+  },
+  "IMG_2676": {
+    "predictions": [
+      [
+        "PANETONE",
+        null
+      ],
+      [
+        "PRO-V",
+        null
+      ]
+    ],
+    "time": 0.7402
+  },
+  "IMG_2678": {
+    "predictions": [
+      [
+        "COOLMINT",
+        null
+      ],
+      [
+        "LISTERINE",
+        null
+      ]
+    ],
+    "time": 0.7498
+  },
+  "IMG_2679": {
+    "predictions": [
+      [
+        "PROFESSIONAL",
+        null
+      ],
+      [
+        "XML",
+        null
+      ],
+      [
+        "2nd",
+        null
+      ],
+      [
+        "Edition",
+        null
+      ]
+    ],
+    "time": 0.8887
+  },
+  "IMG_2682": {
+    "predictions": [
+      [
+        "professional",
+        null
+      ],
+      [
+        "Java",
+        null
+      ],
+      [
+        "Web",
+        null
+      ],
+      [
+        "Services",
+        null
+      ]
+    ],
+    "time": 0.6748
+  },
+  "IMG_2683": {
+    "predictions": [
+      [
+        "ESPAÑOL-INGLÉS",
+        null
+      ],
+      [
+        "INGLÉS-ESPAÑOL",
+        null
+      ]
+    ],
+    "time": 1.4407
+  },
+  "batch_info": {
+    "Batch #1": {
+      "time": "0min_47s_193ms",
+      "size": 50
+    },
+    "Batch #2": {
+      "time": "0min_48s_56ms",
+      "size": 50
+    },
+    "Batch #3": {
+      "time": "0min_39s_619ms",
+      "size": 50
+    },
+    "Batch #4": {
+      "time": "0min_17s_379ms",
+      "size": 24
+    }
+  }
+}

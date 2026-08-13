@@ -1,0 +1,3908 @@
+{
+  "00_00": {
+    "predictions": [
+      ["Doll", null],
+      ["Hut", null],
+      ["TAP", null],
+      ["BEER", null]
+    ],
+    "time": 0.4996
+  },
+  "00_01": {
+    "predictions": [
+      ["Americas", null],
+      ["Best", null],
+      ["Value", null],
+      ["Astoria", null],
+      ["Inn", null],
+      ["&", null],
+      ["Suites", null],
+      ["-", null],
+      ["Spacious", null],
+      ["Family", null],
+      ["Room", null],
+      ["-", null],
+      ["Breathtaking", null],
+      ["Pool", null],
+      ["&", null],
+      ["Rye", null],
+      ["-", null],
+      ["FREE", null],
+      ["Continental", null],
+      ["Breakfast", null],
+      ["-", null],
+      ["FREE", null],
+      ["WiFi", null],
+      ["-", null],
+      ["FREE", null],
+      ["Wireless", null],
+      ["Internet", null],
+      ["-", null],
+      ["ART", null],
+      ["Suite", null],
+      ["Accommodation", null],
+      ["Discounted", null],
+      ["Attraction", null],
+      ["Tickets", null],
+      ["Available", null],
+      ["714-774-3882", null],
+      ["VACANCY", null]
+    ],
+    "time": 2.2841
+  },
+  "00_02": {
+    "predictions": [
+      ["HERITAGE", null],
+      ["FORUM", null],
+      ["HERITAGE", null],
+      ["FORUM", null],
+      ["I.", null],
+      ["s.", null],
+      ["Art", null],
+      ["and", null],
+      ["J:", null],
+      ["Ann", null],
+      ["Aragon", null]
+    ],
+    "time": 0.8597
+  },
+  "00_03": {
+    "predictions": [
+      ["THE", null],
+      ["JUKE", null],
+      ["JOINT", null],
+      ["BAR", null],
+      ["&", null],
+      ["GRILL", null],
+      ["•", null],
+      ["COCKTAILS", null],
+      ["•", null],
+      ["POOL", null],
+      ["•", null],
+      ["FOOD", null],
+      ["735", null]
+    ],
+    "time": 1.1376
+  },
+  "00_04": {
+    "predictions": [
+      ["Avante", null],
+      ["Gardens", null],
+      ["FLORIST", null],
+      ["Phil", null],
+      ["Ralloda's", null],
+      ["SCHOOL", null],
+      ["OF", null],
+      ["FLORAL", null],
+      ["DESIGN", null]
+    ],
+    "time": 0.882
+  },
+  "00_05": {
+    "predictions": [
+      ["ANATEIM", null],
+      ["PUBLIC", null],
+      ["LIBRARY", null],
+      ["MUZEQ", null],
+      ["241", null]
+    ],
+    "time": 0.6861
+  },
+  "00_06": {
+    "predictions": [
+      ["HAHM", null],
+      ["MOTORSPORTS", null],
+      ["HAHM", null],
+      ["MOTORSPORTS", null],
+      ["WAVE", null],
+      ["RUNNER", null],
+      ["RATOR", null],
+      ["•", null],
+      ["ATVs", null]
+    ],
+    "time": 0.972
+  },
+  "00_07": {
+    "predictions": [
+      ["ANAHEIM", null],
+      ["BAND", null],
+      ["INSTRUMENTS", null]
+    ],
+    "time": 0.477
+  },
+  "00_08": {
+    "predictions": [
+      ["MARBLE", null],
+      ["YARD", null],
+      ["ORION", null],
+      ["TILE", null],
+      ["900", null]
+    ],
+    "time": 0.6305
+  },
+  "00_09": {
+    "predictions": [
+      ["GOODWILL", null],
+      ["STORE", null],
+      ["Over", null],
+      ["3,000", null],
+      ["NEW", null],
+      ["Items", null],
+      ["Stocked", null],
+      ["Daily", null]
+    ],
+    "time": 0.7811
+  },
+  "00_10": {
+    "predictions": [
+      ["Angelo's", null],
+      ["CAR-HOP", null],
+      ["SERVICE", null],
+      ["HAMBURGERS", null],
+      ["BEER", null],
+      ["TO", null],
+      ["VIDEO", null],
+      ["APLICATE", null],
+      ["WATCHING", null],
+      ["LAUNDROMAT", null],
+      ["WELCOME", null],
+      ["TO", null]
+    ],
+    "time": 1.3232
+  },
+  "00_11": {
+    "predictions": [
+      ["Welcome", null],
+      ["To", null],
+      ["MILLS", null],
+      ["Ford", null]
+    ],
+    "time": 0.4858
+  },
+  "00_12": {
+    "predictions": [["SUBWAY", null]],
+    "time": 0.3044
+  },
+  "00_13": {
+    "predictions": [
+      ["KFC", null],
+      ["131", null]
+    ],
+    "time": 0.4098
+  },
+  "00_14": {
+    "predictions": [
+      ["Original", null],
+      ["PANCAKE", null],
+      ["HOUSE", null],
+      ["PARKING", null]
+    ],
+    "time": 0.5634
+  },
+  "00_15": {
+    "predictions": [
+      ["CAN", null],
+      ["EAT", null],
+      ["SUSHI", null],
+      ["SHOGUN", null],
+      ["JAPANESE", null],
+      ["CUISINE", null],
+      ["SUSHI", null],
+      ["SHOGUN", null],
+      ["JAPANESE", null],
+      ["CUISINE", null],
+      ["ALL", null],
+      ["YOU", null],
+      ["CAN", null],
+      ["EAT", null]
+    ],
+    "time": 1.324
+  },
+  "00_16": {
+    "predictions": [
+      ["DJ", null],
+      ["SUBS", null],
+      ["NOW", null],
+      ["SERVING", null],
+      ["Breakfast", null]
+    ],
+    "time": 0.5121
+  },
+  "00_17": {
+    "predictions": [
+      ["EconoLodge", null],
+      ["SPA", null],
+      ["SUITES", null],
+      ["ALL", null],
+      ["ROOMS", null],
+      ["X", null],
+      ["LARGE", null],
+      ["JACUZZI", null],
+      ["SPA", null],
+      ["ROOMS", null],
+      ["SRUTTLE", null],
+      ["SERVICE", null],
+      ["TO", null],
+      ["I", null],
+      ["SHEY", null],
+      ["CONV", null],
+      ["CENTER", null]
+    ],
+    "time": 1.4988
+  },
+  "00_18": {
+    "predictions": [
+      ["1111", null],
+      ["Days", null],
+      ["Inn", null],
+      ["&", null],
+      ["Suites", null]
+    ],
+    "time": 0.5302
+  },
+  "00_19": {
+    "predictions": [
+      ["Comfort", null],
+      ["INN", null]
+    ],
+    "time": 0.3827
+  },
+  "01_01": {
+    "predictions": [["Budget", null]],
+    "time": 0.413
+  },
+  "01_02": {
+    "predictions": [["SOL'S", null]],
+    "time": 0.4413
+  },
+  "01_03": {
+    "predictions": [
+      ["Public", null],
+      ["Storage", null]
+    ],
+    "time": 0.4115
+  },
+  "01_04": {
+    "predictions": [["Shell", null]],
+    "time": 0.3854
+  },
+  "01_05": {
+    "predictions": [
+      ["Enterprise", null],
+      ["Enterprise", null],
+      ["1-800", null],
+      ["rent-a-car", null]
+    ],
+    "time": 0.7169
+  },
+  "01_06": {
+    "predictions": [["AVIS", null]],
+    "time": 0.4161
+  },
+  "01_07": {
+    "predictions": [["CHANTERELLE'S", null]],
+    "time": 0.5129
+  },
+  "01_09": {
+    "predictions": [
+      ["Nick's", null],
+      ["GREEK", null],
+      ["CORNER", null]
+    ],
+    "time": 0.5887
+  },
+  "01_10": {
+    "predictions": [
+      ["Payless", null],
+      ["ShoeSource", null]
+    ],
+    "time": 0.5053
+  },
+  "01_11": {
+    "predictions": [["GOODWILL", null]],
+    "time": 0.465
+  },
+  "01_13": {
+    "predictions": [
+      ["700", null],
+      ["LAKE", null],
+      ["RDIVE", null],
+      ["THE", null],
+      ["ICEBOX", null],
+      ["Cool", null],
+      ["Stuff", null],
+      ["Branded", null],
+      ["Apparel", null],
+      ["•", null],
+      ["Promotional", null],
+      ["Products", null]
+    ],
+    "time": 1.0667
+  },
+  "01_14": {
+    "predictions": [
+      ["SIX", null],
+      ["FEET", null],
+      ["UNDER", null]
+    ],
+    "time": 0.5103
+  },
+  "01_15": {
+    "predictions": [
+      ["SUPER", null],
+      ["8", null],
+      ["HOTEL", null]
+    ],
+    "time": 0.5593
+  },
+  "01_16": {
+    "predictions": [["EMBASSY", null]],
+    "time": 0.456
+  },
+  "01_17": {
+    "predictions": [
+      ["CARROLL", null],
+      ["STREET", null],
+      ["BAKERY", null]
+    ],
+    "time": 0.6086
+  },
+  "01_18": {
+    "predictions": [
+      ["QUALITY", null],
+      ["HOTEL", null],
+      ["FDC", null]
+    ],
+    "time": 0.5599
+  },
+  "01_19": {
+    "predictions": [
+      ["PARKING", null],
+      ["Hertz", null],
+      ["202", null]
+    ],
+    "time": 0.6306
+  },
+  "02_01": {
+    "predictions": [
+      ["GRAND", null],
+      ["CENTRAL", null]
+    ],
+    "time": 0.5354
+  },
+  "02_02": {
+    "predictions": [
+      ["THE", null],
+      ["REDWOOD", null],
+      ["LUXURY", null],
+      ["APARTMENTS", null],
+      ["11", null],
+      ["S.", null],
+      ["Eutaw", null],
+      ["Now", null],
+      ["Leasing", null]
+    ],
+    "time": 1.1181
+  },
+  "02_03": {
+    "predictions": [
+      ["PAUL", null],
+      ["LAURENCE", null],
+      ["DUNBAR", null],
+      ["COMMUNITY", null],
+      ["HIGH", null],
+      ["SCHOOL", null],
+      ["1400", null],
+      ["ORLEANS", null],
+      ["STREET", null]
+    ],
+    "time": 1.2552
+  },
+  "02_04": {
+    "predictions": [
+      ["N", null],
+      ["PUB", null],
+      ["&", null],
+      ["CATERING", null],
+      ["4-4455", null],
+      ["CAMDEN", null],
+      ["PUB", null],
+      ["CAMDEN", null],
+      ["CATERING", null],
+      ["The", null],
+      ["Baltimore", null],
+      ["Award", null],
+      ["Win", null],
+      ["June,", null],
+      ["2006", null],
+      ["FAVORI", null],
+      ["BUFFALO", null],
+      ["W", null],
+      ["www.camdenp", null]
+    ],
+    "time": 2.0733
+  },
+  "02_05": {
+    "predictions": [
+      ["Chase·Brexton", null],
+      ["Health", null],
+      ["Services,", null],
+      ["Inc.", null]
+    ],
+    "time": 0.8157
+  },
+  "02_06": {
+    "predictions": [["MARLBORO", null]],
+    "time": 0.6346
+  },
+  "02_07": {
+    "predictions": [
+      ["(GiGi)", null],
+      ["just", null],
+      ["delicious", null],
+      ["PIZZA", null],
+      ["SAPPHI", null]
+    ],
+    "time": 0.711
+  },
+  "02_08": {
+    "predictions": [
+      ["RED", null],
+      ["SQUARE", null],
+      ["SOPS", null],
+      ["BELVEDERE", null],
+      ["1023", null]
+    ],
+    "time": 0.9098
+  },
+  "02_09": {
+    "predictions": [
+      ["Mount", null],
+      ["Vernon", null],
+      ["Hotel", null],
+      ["&", null],
+      ["Cafeteria", null],
+      ["NEW", null],
+      ["GUESTS", null],
+      ["MUST", null],
+      ["FIRST", null],
+      ["REGISTER", null],
+      ["FOR", null],
+      ["GARAGE", null],
+      ["ACCESS", null],
+      ["NEW", null],
+      ["GUESTS", null],
+      ["MUST", null],
+      ["FIRST", null],
+      ["REGISTER", null],
+      ["FOR", null],
+      ["GARAGE", null],
+      ["ACCESS", null]
+    ],
+    "time": 1.8302
+  },
+  "02_10": {
+    "predictions": [
+      ["END", null],
+      ["ROAD", null],
+      ["WRK", null],
+      ["KYRO", null],
+      ["PIZZA", null],
+      ["&", null],
+      ["GRILL", null],
+      ["NO", null],
+      ["PARKING", null],
+      ["NO", null],
+      ["PARKING", null],
+      ["TRUCK", null],
+      ["LOADING", null],
+      ["ON", null],
+      ["8", null],
+      ["AM", null],
+      ["-", null],
+      ["6", null],
+      ["PM", null],
+      ["FREE", null],
+      ["Wireless", null],
+      ["Internet", null],
+      ["Available", null],
+      ["Now", null],
+      ["MIDDLE", null],
+      ["EASTERN", null],
+      ["ENTREES", null]
+    ],
+    "time": 1.9723
+  },
+  "02_11": {
+    "predictions": [
+      ["THAIRISH", null],
+      ["THAI", null],
+      ["CUISINE", null]
+    ],
+    "time": 0.6039
+  },
+  "02_12": {
+    "predictions": [
+      ["SCORES", null],
+      ["SCORES", null],
+      ["Baltimore", null]
+    ],
+    "time": 0.6381
+  },
+  "02_13": {
+    "predictions": [
+      ["NO", null],
+      ["PARKING", null],
+      ["TRUCK", null],
+      ["LOADING", null],
+      ["ZONE", null],
+      ["8AM-2PM", null],
+      ["MON", null],
+      ["THUR", null],
+      ["FRI", null],
+      ["METERED", null],
+      ["PARKING", null],
+      ["2PM-6PM", null],
+      ["MON", null],
+      ["THUR", null],
+      ["FRI", null],
+      ["8AM-6PM", null],
+      ["SAT", null],
+      ["ONLY", null],
+      ["PARKING", null],
+      ["10", null],
+      ["MINUTE", null],
+      ["LIMIT", null],
+      ["6PM-11PM", null],
+      ["MON", null],
+      ["THUR", null],
+      ["SAT", null],
+      ["PASSENGER", null],
+      ["WAITING", null],
+      ["ZONE", null],
+      ["Sotto", null],
+      ["Sopra", null],
+      ["405", null],
+      ["40", null],
+      ["Best", null],
+      ["of", null],
+      ["Bulls", null]
+    ],
+    "time": 3.164
+  },
+  "02_14": {
+    "predictions": [["CHIAPPARELLIS", null]],
+    "time": 0.6648
+  },
+  "02_15": {
+    "predictions": [
+      ["FOR", null],
+      ["EYES", null],
+      ["CONTACTS", null],
+      ["EYEGLASSES", null],
+      ["EYE", null],
+      ["EXAMS", null],
+      ["50%", null],
+      ["OFF", null],
+      ["SALE", null],
+      ["2", null],
+      ["FOR", null],
+      ["$99", null]
+    ],
+    "time": 1.1841
+  },
+  "02_16": {
+    "predictions": [
+      ["Hampton", null],
+      ["Inn", null],
+      ["PICKLES", null],
+      ["PUB", null],
+      ["PICKLES", null],
+      ["PUB", null],
+      ["WISE", null],
+      ["LATINA", null],
+      ["BRANK", null],
+      ["HERE", null],
+      ["2", null],
+      ["FOR$4", null],
+      ["BEER", null],
+      ["BIRD", null],
+      ["FLU", null],
+      ["GAME", null],
+      ["DAY", null],
+      ["SPECIALS", null]
+    ],
+    "time": 1.6116
+  },
+  "02_17": {
+    "predictions": [
+      ["111", null],
+      ["W.", null],
+      ["CENTRE", null],
+      ["STREET", null],
+      ["GALLERY", null],
+      ["TOWER", null],
+      ["APARTMENT", null],
+      ["HOMES", null]
+    ],
+    "time": 0.9513
+  },
+  "02_19": {
+    "predictions": [
+      ["BROWN'S", null],
+      ["ARCADE", null],
+      ["HAIR", null],
+      ["SALON", null],
+      ["LOCATED", null],
+      ["INSIDE", null]
+    ],
+    "time": 0.8437
+  },
+  "03_00": {
+    "predictions": [
+      ["MOUNTAIN", null],
+      ["SUN", null],
+      ["PUB", null],
+      ["&", null],
+      ["BREWERY", null]
+    ],
+    "time": 1.0257
+  },
+  "03_01": {
+    "predictions": [
+      ["Larry's", null],
+      ["Boot", null],
+      ["Fitting", null],
+      ["2709", null],
+      ["Spruce", null],
+      ["Street", null]
+    ],
+    "time": 1.0499
+  },
+  "03_02": {
+    "predictions": [
+      ["BEADS", null],
+      ["BEADS", null],
+      ["BEADS", null],
+      ["2539", null],
+      ["OW", null],
+      ["PEN", null]
+    ],
+    "time": 1.1531
+  },
+  "03_03": {
+    "predictions": [
+      ["Colorado", null],
+      ["Daily", null]
+    ],
+    "time": 0.7355
+  },
+  "03_05": {
+    "predictions": [["ANTHROPOLOGIE", null]],
+    "time": 0.7852
+  },
+  "03_06": {
+    "predictions": [["POLISH", null]],
+    "time": 0.734
+  },
+  "03_07": {
+    "predictions": [
+      ["WALNUT", null],
+      ["BREWERY", null]
+    ],
+    "time": 0.879
+  },
+  "03_08": {
+    "predictions": [["timberline", null]],
+    "time": 0.7453
+  },
+  "03_09": {
+    "predictions": [
+      ["COMMON", null],
+      ["THREADS", null],
+      ["old", null],
+      ["&", null],
+      ["new", null]
+    ],
+    "time": 0.9069
+  },
+  "03_10": {
+    "predictions": [["macys", null]],
+    "time": 0.7247
+  },
+  "03_11": {
+    "predictions": [
+      ["ITEN", null],
+      ["BRASSERIE", null],
+      ["TENTEN", null]
+    ],
+    "time": 0.9163
+  },
+  "03_12": {
+    "predictions": [["TRIDENT", null]],
+    "time": 0.7511
+  },
+  "03_13": {
+    "predictions": [
+      ["DQLAN'S", null],
+      ["STEAKS", null],
+      ["SEAFOOD", null],
+      ["DQLAN'S", null],
+      ["WINE", null],
+      ["SPIRITS", null]
+    ],
+    "time": 1.2705
+  },
+  "03_14": {
+    "predictions": [
+      ["HIMALAYAS", null],
+      ["RESTAURANT", null],
+      ["BEST", null],
+      ["Indian", null],
+      ["Lunch", null],
+      ["2010", null],
+      ["14th", null],
+      ["STREET", null]
+    ],
+    "time": 1.3939
+  },
+  "03_15": {
+    "predictions": [
+      ["7007", null],
+      ["Google", null],
+      ["7007", null],
+      ["Google", null],
+      ["THEIR", null],
+      ["HUMAN", null],
+      ["COOKIN", null],
+      ["REVEREND", null],
+      ["HURTON", null],
+      ["HEAT", null],
+      ["SAT", null],
+      ["FLOETY", null],
+      ["FOR", null],
+      ["THE", null],
+      ["PROCESSOR", null]
+    ],
+    "time": 1.7156
+  },
+  "03_16": {
+    "predictions": [
+      ["Sportique", null],
+      ["GENUINE", null],
+      ["SCOOTER", null],
+      ["COMPANY", null],
+      ["scooters", null],
+      ["KYMCO", null],
+      ["2506", null],
+      ["SPRUCE", null]
+    ],
+    "time": 1.4974
+  },
+  "03_18": {
+    "predictions": [
+      ["BARNSLEY", null],
+      ["TIRE", null],
+      ["CO.", null]
+    ],
+    "time": 0.8725
+  },
+  "03_19": {
+    "predictions": [["ROCKYMOUNTS", null]],
+    "time": 0.8151
+  },
+  "04_00": {
+    "predictions": [
+      ["RadioShack", null],
+      ["San", null],
+      ["Fernando", null]
+    ],
+    "time": 0.6103
+  },
+  "04_01": {
+    "predictions": [
+      ["GARNY", null],
+      ["MEAT", null],
+      ["&", null],
+      ["DELI", null],
+      ["DI", null],
+      ["GIULIO", null],
+      ["CHIROPRACTIC", null],
+      ["FRESH", null],
+      ["MEAT", null],
+      ["&", null],
+      ["DELI", null],
+      ["FOR", null],
+      ["LEASE", null],
+      ["PIKEN.", null],
+      ["816-755-2700", null],
+      ["COYT", null],
+      ["CHARLELLA", null],
+      ["SCOTT", null],
+      ["ROBERTS", null]
+    ],
+    "time": 2.1774
+  },
+  "04_02": {
+    "predictions": [
+      ["KOTAYK", null],
+      ["KABOB", null],
+      ["GREEK", null],
+      ["&", null],
+      ["MEDITERRANEAN", null],
+      ["CUISINE", null],
+      ["SHISH", null],
+      ["KABOB", null],
+      ["GROCERY", null],
+      ["MEAT", null],
+      ["&", null],
+      ["DELI", null],
+      ["BEER", null],
+      ["&", null],
+      ["WINE", null],
+      ["FRESH", null],
+      ["MEAT", null],
+      ["&", null],
+      ["DELI", null]
+    ],
+    "time": 1.8323
+  },
+  "04_03": {
+    "predictions": [
+      ["MODERN", null],
+      ["BARBER", null],
+      ["446", null],
+      ["CUT", null],
+      ["COLOR", null],
+      ["ERM", null]
+    ],
+    "time": 0.9867
+  },
+  "04_04": {
+    "predictions": [
+      ["MASTER", null],
+      ["NAILS", null],
+      ["564410", null],
+      ["MASTER", null],
+      ["NAILS", null],
+      ["563-44", null],
+      ["GLENOAKS", null]
+    ],
+    "time": 1.3533
+  },
+  "04_05": {
+    "predictions": [
+      ["FIRST", null],
+      ["UNITED", null],
+      ["METHODIST", null],
+      ["CHURCH", null]
+    ],
+    "time": 0.8453
+  },
+  "04_06": {
+    "predictions": [
+      ["BURBANK", null],
+      ["FLORIST", null],
+      ["&", null],
+      ["GIFTS", null],
+      ["LEON'S", null],
+      ["CHECK", null],
+      ["CA$HI", null],
+      ["BURBANK", null],
+      ["FLORIST", null]
+    ],
+    "time": 1.2742
+  },
+  "04_07": {
+    "predictions": [["T...Mobile", null]],
+    "time": 0.565
+  },
+  "04_11": {
+    "predictions": [
+      ["J.A.", null],
+      ["LOCKSMITH", null],
+      ["SUPPLY", null],
+      ["845-6383", null],
+      ["SPEEDZONE", null],
+      ["AUTO", null],
+      ["CENTER", null],
+      ["549", null],
+      ["CHARGE", null],
+      ["DOOR", null],
+      ["OPENERS", null],
+      ["26", null]
+    ],
+    "time": 1.6192
+  },
+  "04_12": {
+    "predictions": [
+      ["Phil's", null],
+      ["Imports,", null],
+      ["Inc.", null],
+      ["HONDA", null],
+      ["AND", null],
+      ["ACURA", null],
+      ["EXPERTS", null]
+    ],
+    "time": 0.9217
+  },
+  "04_13": {
+    "predictions": [
+      ["EAGLE", null],
+      ["MEDICAL", null],
+      ["SUPPLY", null],
+      ["922", null],
+      ["EAGLE", null],
+      ["MEDICAL", null],
+      ["SUPPLY", null],
+      ["924", null],
+      ["BUSINESS", null],
+      ["HOURS", null],
+      ["MON", null],
+      ["-", null],
+      ["FRI", null],
+      ["9:00", null],
+      ["-", null],
+      ["5:00", null],
+      ["SAT", null],
+      ["9:00", null],
+      ["-", null],
+      ["2:00", null]
+    ],
+    "time": 2.1677
+  },
+  "04_14": {
+    "predictions": [
+      ["920", null],
+      ["M", null],
+      ["&", null],
+      ["M", null],
+      ["ACCOUNTANCY", null],
+      ["920", null],
+      ["MERS", null],
+      ["21-6626", null],
+      ["CLOSED", null]
+    ],
+    "time": 1.2328
+  },
+  "04_15": {
+    "predictions": [
+      ["FLOWERS", null],
+      ["BY", null],
+      ["DOCER", null],
+      ["MEN'S", null],
+      ["ERS", null],
+      ["OPTOMETRIST", null],
+      ["Dr.", null],
+      ["Melanya", null],
+      ["Garlbyan", null],
+      ["149", null],
+      ["CLEANING", null],
+      ["PLACE", null],
+      ["OPTOMETRIST", null],
+      ["818-848-3000", null],
+      ["OPEN", null],
+      ["SINCE", null],
+      ["1983", null],
+      ["•", null],
+      ["\"Quality", null],
+      ["Dry", null],
+      ["Cleaning", null],
+      ["For", null],
+      ["Less\"", null],
+      ["1.80", null]
+    ],
+    "time": 2.5117
+  },
+  "04_16": {
+    "predictions": [
+      ["BLOCKBUSTER", null],
+      ["VIDEO", null]
+    ],
+    "time": 0.688
+  },
+  "04_17": {
+    "predictions": [
+      ["Pizza", null],
+      ["Man", null],
+      ["The", null],
+      ["Delivers", null],
+      ["JAS", null],
+      ["GIFTS", null],
+      ["6", null],
+      ["5", null],
+      ["BUY", null],
+      ["1", null],
+      ["GET", null],
+      ["1", null],
+      ["FF", null],
+      ["38", null],
+      ["OPEN", null]
+    ],
+    "time": 1.3322
+  },
+  "04_18": {
+    "predictions": [
+      ["Mobil", null],
+      ["Buff", null],
+      ["Rap", null],
+      ["1.75", null],
+      ["$/l", null],
+      ["Spent", null],
+      ["1.85", null],
+      ["$/l", null],
+      ["Spent", null],
+      ["1.95", null],
+      ["$/l", null],
+      ["Gasoline", null],
+      ["Mobil", null],
+      ["Mart", null]
+    ],
+    "time": 1.6234
+  },
+  "04_19": {
+    "predictions": [
+      ["Rubina's", null],
+      ["UTY", null],
+      ["SALON", null],
+      ["SUPPLY", null],
+      ["GLENOAKS", null],
+      ["CLEANERS", null],
+      ["&", null],
+      ["LAUNDRY", null],
+      ["OPEN", null],
+      ["Hair", null],
+      ["Cut", null],
+      ["Men", null],
+      ["Women", null],
+      ["Children", null],
+      ["CLEANERS", null],
+      ["OPEN", null]
+    ],
+    "time": 1.7221
+  },
+  "05_00": {
+    "predictions": [
+      ["Bank", null],
+      ["of", null],
+      ["America", null],
+      ["WHITE", null],
+      ["PALACE", null],
+      ["GRILL", null],
+      ["BEAKFAST", null],
+      ["UNCH", null],
+      ["DINNERS", null],
+      ["DRINK", null],
+      ["Coca-Cola", null],
+      ["WHITE", null],
+      ["GR", null],
+      ["OPEN", null]
+    ],
+    "time": 1.4041
+  },
+  "05_01": {
+    "predictions": [
+      ["上香", null],
+      ["Moon", null],
+      ["Palace", null],
+      ["酒家", null]
+    ],
+    "time": 0.59
+  },
+  "05_02": {
+    "predictions": [
+      ["White", null],
+      ["Castle", null]
+    ],
+    "time": 0.4369
+  },
+  "05_03": {
+    "predictions": [
+      ["WHOLE", null],
+      ["FOODS", null],
+      ["MARKET", null]
+    ],
+    "time": 0.6645
+  },
+  "05_04": {
+    "predictions": [
+      ["LAFITNESS", null],
+      ["Michaels", null],
+      ["THE", null],
+      ["ARTS", null],
+      ["&", null],
+      ["CRAFTS", null],
+      ["STORE", null],
+      ["WORLD", null],
+      ["MARKET", null]
+    ],
+    "time": 1.0292
+  },
+  "05_05": {
+    "predictions": [
+      ["G.", null],
+      ["Fishman's", null],
+      ["Sons", null],
+      ["Inc", null],
+      ["FINE", null],
+      ["FABRICS", null],
+      ["Inc.", null],
+      ["DRAPERIES", null]
+    ],
+    "time": 0.933
+  },
+  "05_06": {
+    "predictions": [
+      ["ST.", null],
+      ["JEROME", null],
+      ["SCHOOL", null]
+    ],
+    "time": 0.613
+  },
+  "05_07": {
+    "predictions": [
+      ["at&t", null],
+      ["GameStop", null]
+    ],
+    "time": 0.5407
+  },
+  "05_08": {
+    "predictions": [
+      ["CHINATOWN", null],
+      ["HOTEL", null],
+      ["華華賓館", null],
+      ["(019)225-8888", null]
+    ],
+    "time": 1.1635
+  },
+  "05_09": {
+    "predictions": [
+      ["LA", null],
+      ["FITNESS", null],
+      ["Michaels", null],
+      ["THE", null],
+      ["ARTS", null],
+      ["&", null],
+      ["CRAFTS", null],
+      ["STORE", null],
+      ["WORLD", null],
+      ["MARKET", null]
+    ],
+    "time": 1.0059
+  },
+  "05_10": {
+    "predictions": [
+      ["GRANDSTAND", null],
+      ["AWS", null],
+      ["GRANDSTAND", null],
+      ["CHICAGO", null],
+      ["POLICE", null]
+    ],
+    "time": 0.8669
+  },
+  "05_11": {
+    "predictions": [
+      ["CERTIFIED", null],
+      ["GROCERS", null],
+      ["Martin's", null],
+      ["Corner", null],
+      ["Bar", null],
+      ["&", null],
+      ["Grill", null]
+    ],
+    "time": 0.8781
+  },
+  "05_12": {
+    "predictions": [
+      ["MAX'S", null],
+      ["TOWING", null],
+      ["AUTO", null],
+      ["SERVICE", null],
+      ["Phone", null],
+      ["Agent", null],
+      ["312", null],
+      ["829-5744", null],
+      ["678-0019", null],
+      ["AUTO", null],
+      ["REPAIR", null],
+      ["DATEY", null],
+      ["SOLIS", null]
+    ],
+    "time": 1.4572
+  },
+  "05_13": {
+    "predictions": [
+      ["at&t", null],
+      ["GameStop", null]
+    ],
+    "time": 0.5423
+  },
+  "05_14": {
+    "predictions": [
+      ["DE", null],
+      ["LA", null],
+      ["SALLE", null]
+    ],
+    "time": 0.522
+  },
+  "05_15": {
+    "predictions": [
+      ["DE", null],
+      ["PASADA", null],
+      ["www.dspasada.com", null],
+      ["DE", null],
+      ["BEST", null],
+      ["TACOS", null],
+      ["IN", null],
+      ["TOWN", null],
+      ["1517", null],
+      ["W.", null],
+      ["TAYLOR", null],
+      ["312-243-6441", null]
+    ],
+    "time": 1.5118
+  },
+  "05_16": {
+    "predictions": [["TARGET", null]],
+    "time": 0.4187
+  },
+  "05_17": {
+    "predictions": [["POMPEI", null]],
+    "time": 0.499
+  },
+  "05_18": {
+    "predictions": [
+      ["Jewel", null],
+      ["Osco", null]
+    ],
+    "time": 0.5167
+  },
+  "05_19": {
+    "predictions": [
+      ["臨一程", null],
+      ["紐約人", null],
+      ["NEW", null],
+      ["YORK", null],
+      ["LIFE", null],
+      ["大東饭店", null],
+      ["NEW", null],
+      ["CHINATOWN", null],
+      ["RESTAURANT", null],
+      ["臨一程", null],
+      ["保險", null],
+      ["THREE", null],
+      ["HAPPINESS", null],
+      ["CASTONBROOK", null],
+      ["CUSINES", null],
+      ["TOWN", null],
+      ["JUST", null],
+      ["JUST", null],
+      ["CUSINES", null]
+    ],
+    "time": 2.0909
+  },
+  "06_00": {
+    "predictions": [
+      ["FINE", null],
+      ["ITALIAN", null],
+      ["IMPORTS", null],
+      ["&", null],
+      ["DELI", null],
+      ["JIMMY'S", null],
+      ["FOOD", null],
+      ["STORE", null],
+      ["FRESH", null],
+      ["MEATS", null],
+      ["&", null],
+      ["SAUSAGES", null],
+      ["ITALIAN", null],
+      ["ESPRESSO", null],
+      ["$1", null],
+      ["Shot", null],
+      ["plus", null],
+      ["tax", null]
+    ],
+    "time": 1.9736
+  },
+  "06_01": {
+    "predictions": [
+      ["GARDEN", null],
+      ["CAFE", null],
+      ["5310", null],
+      ["GARDEN", null],
+      ["CAFE", null]
+    ],
+    "time": 1.1493
+  },
+  "06_02": {
+    "predictions": [
+      ["1924", null],
+      ["the", null],
+      ["BlueCollar", null],
+      ["Bar", null]
+    ],
+    "time": 0.9379
+  },
+  "06_03": {
+    "predictions": [
+      ["FUJI", null],
+      ["SAUNA", null],
+      ["THERAPEUTIC", null],
+      ["MASSAGE", null]
+    ],
+    "time": 1.1048
+  },
+  "06_04": {
+    "predictions": [
+      ["SAVE-WAY", null],
+      ["BEER•WINE•LOTTO•PHONE", null],
+      ["CARDS", null],
+      ["FOR", null],
+      ["SALE", null],
+      ["OR", null],
+      ["LEASE", null],
+      ["2", null],
+      ["for", null],
+      ["$2.00", null],
+      ["2", null],
+      ["for", null],
+      ["$3.00", null],
+      ["Coca-Cola", null]
+    ],
+    "time": 1.9315
+  },
+  "06_05": {
+    "predictions": [
+      ["MAI'S", null],
+      ["Restaurant", null],
+      ["Authentic", null],
+      ["Vietnamese", null],
+      ["Cuisine", null]
+    ],
+    "time": 1.0625
+  },
+  "06_06": {
+    "predictions": [
+      ["Cityplace", null],
+      ["Center", null],
+      ["East", null],
+      ["2711", null],
+      ["North", null],
+      ["Haskell", null],
+      ["Avenue", null]
+    ],
+    "time": 0.6115
+  },
+  "06_08": {
+    "predictions": [
+      ["LULA", null],
+      ["B's", null],
+      ["ANTIQUE", null],
+      ["MALL", null],
+      ["LULA", null],
+      ["B's", null],
+      ["OPEN", null],
+      ["Lula", null],
+      ["B's", null],
+      ["157", null],
+      ["200", null]
+    ],
+    "time": 1.4862
+  },
+  "06_10": {
+    "predictions": [
+      ["PUFF", null],
+      ["n", null],
+      ["STUFF", null]
+    ],
+    "time": 0.8424
+  },
+  "06_11": {
+    "predictions": [
+      ["BANGKOK", null],
+      ["INN", null]
+    ],
+    "time": 0.8452
+  },
+  "06_12": {
+    "predictions": [
+      ["STARBUCKS", null],
+      ["COFFEE", null]
+    ],
+    "time": 0.9273
+  },
+  "06_13": {
+    "predictions": [
+      ["STARBUCKS", null],
+      ["COFFEE", null],
+      ["STARBUCKS", null],
+      ["COFFEE", null]
+    ],
+    "time": 1.128
+  },
+  "06_14": {
+    "predictions": [
+      ["THE", null],
+      ["LABYRINTH", null],
+      ["Metaphysical", null],
+      ["Healing", null],
+      ["Herbal", null],
+      ["Apothecary", null],
+      ["THE", null],
+      ["LABYR", null]
+    ],
+    "time": 1.4213
+  },
+  "06_15": {
+    "predictions": [
+      ["PHYSICIANS", null],
+      ["DAYSURGERY", null]
+    ],
+    "time": 0.9687
+  },
+  "06_16": {
+    "predictions": [
+      ["LA", null],
+      ["MICHOACANA", null],
+      ["MEAT", null],
+      ["MARKET", null],
+      ["TAQUERIA", null],
+      ["TAQUERIA", null],
+      ["Acuatic", null],
+      ["Mexican", null],
+      ["Food", null],
+      ["MENÚNIDOS", null],
+      ["CELULARES", null],
+      ["SEGUROS", null],
+      ["PARA", null],
+      ["AUTO", null],
+      ["TAQUERIA", null],
+      ["214", null],
+      ["489", null],
+      ["TITULOS", null],
+      ["STICKER", null]
+    ],
+    "time": 2.5191
+  },
+  "06_17": {
+    "predictions": [
+      ["times", null],
+      ["ten", null],
+      ["cellars", null],
+      ["6324", null]
+    ],
+    "time": 0.4841
+  },
+  "06_18": {
+    "predictions": [
+      ["DALLAS", null],
+      ["THEOLOGICAL", null],
+      ["SEMINARY", null]
+    ],
+    "time": 0.5334
+  },
+  "07_00": {
+    "predictions": [
+      ["Capitol", null],
+      ["Hill", null],
+      ["BOOKS", null]
+    ],
+    "time": 0.6593
+  },
+  "07_01": {
+    "predictions": [
+      ["WILLIAMS", null],
+      ["TAVERN", null]
+    ],
+    "time": 0.6875
+  },
+  "07_02": {
+    "predictions": [
+      ["WINBRO", null],
+      ["1620", null],
+      ["GRANT", null],
+      ["ST", null]
+    ],
+    "time": 0.762
+  },
+  "07_03": {
+    "predictions": [
+      ["1490", null],
+      ["Logan", null],
+      ["the", null],
+      ["OLIN", null]
+    ],
+    "time": 0.7857
+  },
+  "07_04": {
+    "predictions": [
+      ["LUCKY", null],
+      ["FORTUNE", null],
+      ["RESTAURANT", null],
+      ["TAKE", null],
+      ["OUT", null],
+      ["&", null],
+      ["DELIVERY", null],
+      ["303", null],
+      ["860-8484", null],
+      ["NO", null],
+      ["PARKING", null],
+      ["ANY", null],
+      ["TIME", null],
+      ["2", null],
+      ["HOUR", null],
+      ["PARKING", null],
+      ["BAM-6PM", null]
+    ],
+    "time": 1.8764
+  },
+  "07_05": {
+    "predictions": [
+      ["BENDER'S", null],
+      ["13th", null],
+      ["Ave", null],
+      ["TA", null],
+      ["Domino's", null],
+      ["The", null],
+      ["Pizza", null],
+      ["Delivery", null],
+      ["Experts", null]
+    ],
+    "time": 1.0527
+  },
+  "07_06": {
+    "predictions": [
+      ["ANDORA", null],
+      ["JEWELRY", null],
+      ["CAPITOL", null],
+      ["CUSTOM", null],
+      ["TAILORS", null],
+      ["FOR", null],
+      ["LADIES", null],
+      ["&", null],
+      ["GENTLEMEN", null],
+      ["8612057", null],
+      ["WATERCOURSE", null],
+      ["FOODS", null],
+      ["BAKERY", null],
+      ["Baked", null],
+      ["Goods", null],
+      ["Milk", null],
+      ["Door", null]
+    ],
+    "time": 2.0535
+  },
+  "07_07": {
+    "predictions": [
+      ["QUALITY", null],
+      ["CUSTOM", null],
+      ["FRAMING", null],
+      ["IN", null],
+      ["ONLY", null],
+      ["6", null],
+      ["TO", null],
+      ["8", null],
+      ["DAYS!", null],
+      ["HOLLYWOOD", null],
+      ["POSTERS", null],
+      ["\"WE", null],
+      ["HAVE", null],
+      ["MORE", null],
+      ["MOVIE", null],
+      ["&", null],
+      ["ROCK", null],
+      ["POSTERS", null],
+      ["THAN", null],
+      ["THERE", null],
+      ["ARE", null],
+      ["IN", null],
+      ["THE", null],
+      ["WORLD!\"", null]
+    ],
+    "time": 1.8728
+  },
+  "07_08": {
+    "predictions": [
+      ["AVENUE", null],
+      ["theater", null]
+    ],
+    "time": 0.5901
+  },
+  "07_09": {
+    "predictions": [
+      ["UPTOWN", null],
+      ["VILLAGE", null],
+      ["APARTMENTS", null],
+      ["300", null],
+      ["E.", null],
+      ["17th", null],
+      ["AVE.", null]
+    ],
+    "time": 1.075
+  },
+  "07_10": {
+    "predictions": [
+      ["McDonald's", null],
+      ["McDonald's", null],
+      ["FREE", null],
+      ["Mail", null],
+      ["Ride", null],
+      ["EVERY", null],
+      ["DAY", null],
+      ["V", null]
+    ],
+    "time": 0.9845
+  },
+  "07_11": {
+    "predictions": [
+      ["Nob", null],
+      ["Hill", null],
+      ["Inn", null]
+    ],
+    "time": 0.5836
+  },
+  "07_12": {
+    "predictions": [
+      ["JIMMY", null],
+      ["JOHN'S", null],
+      ["JIMMY", null],
+      ["JOHN'S", null]
+    ],
+    "time": 0.8572
+  },
+  "07_13": {
+    "predictions": [
+      ["Quizno's", null],
+      ["subs", null],
+      ["Quiznos", null],
+      ["subs", null],
+      ["OPEN", null],
+      ["1275", null],
+      ["ENTER", null]
+    ],
+    "time": 0.9265
+  },
+  "07_14": {
+    "predictions": [
+      ["BROWN", null],
+      ["PALACE", null],
+      ["HOTEL", null],
+      ["AND", null],
+      ["SPA", null],
+      ["Comfort", null],
+      ["INN", null],
+      ["Comfort", null],
+      ["INN", null]
+    ],
+    "time": 1.0296
+  },
+  "07_15": {
+    "predictions": [
+      ["Five", null],
+      ["Star", null],
+      ["CLEANERS", null],
+      ["THIS", null],
+      ["SIDE", null],
+      ["NO", null],
+      ["PARKING", null],
+      ["ANY", null],
+      ["TIME", null],
+      ["LOADING", null],
+      ["ONLY", null],
+      ["TAM-5PM", null],
+      ["FREE", null],
+      ["PARKING", null],
+      ["No", null],
+      ["Parking", null],
+      ["Customers", null]
+    ],
+    "time": 1.5141
+  },
+  "07_16": {
+    "predictions": [
+      ["WAX", null],
+      ["TRAX", null],
+      ["II", null],
+      ["620", null],
+      ["E.", null],
+      ["13th", null],
+      ["WAX", null],
+      ["TRAX", null],
+      ["II", null],
+      ["NEW", null],
+      ["USED", null],
+      ["RECORDS", null]
+    ],
+    "time": 1.2984
+  },
+  "07_17": {
+    "predictions": [
+      ["GREAT", null],
+      ["WALL", null],
+      ["CHINESE", null],
+      ["FOOD", null],
+      ["TEL:", null],
+      ["303-832-6611", null],
+      ["FAX:", null],
+      ["303-832-6612", null]
+    ],
+    "time": 1.6366
+  },
+  "07_19": {
+    "predictions": [
+      ["WARWICK", null],
+      ["HOTEL", null],
+      ["(303)", null],
+      ["777-7777", null],
+      ["Yellow", null],
+      ["Cab", null],
+      ["7228", null]
+    ],
+    "time": 1.2981
+  },
+  "08_00": {
+    "predictions": [
+      ["MASSAS", null],
+      ["SEAFOOD", null]
+    ],
+    "time": 0.5818
+  },
+  "08_01": {
+    "predictions": [
+      ["HOUSTON", null],
+      ["POLICE", null],
+      ["DEPARTMENT", null]
+    ],
+    "time": 0.6346
+  },
+  "08_02": {
+    "predictions": [
+      ["STARBUCKS", null],
+      ["COFFEE", null]
+    ],
+    "time": 0.5917
+  },
+  "08_04": {
+    "predictions": [
+      ["HESS", null],
+      ["O.N.E", null],
+      ["Allen", null],
+      ["Center", null]
+    ],
+    "time": 0.6488
+  },
+  "08_05": {
+    "predictions": [
+      ["TWO", null],
+      ["SHELL", null],
+      ["PLAZA", null]
+    ],
+    "time": 0.591
+  },
+  "08_06": {
+    "predictions": [
+      ["SIGNS", null],
+      ["THE", null],
+      ["1923", null],
+      ["ORIGINAL", null],
+      ["JAMES", null],
+      ["CONEY", null],
+      ["ISLAND", null],
+      ["For", null],
+      ["Lease", null],
+      ["713", null],
+      ["960", null],
+      ["4792", null]
+    ],
+    "time": 1.3918
+  },
+  "08_07": {
+    "predictions": [
+      ["THE", null],
+      ["MAGNOLIA", null]
+    ],
+    "time": 0.5386
+  },
+  "08_08": {
+    "predictions": [
+      ["MAGING", null],
+      ["ZERO'S", null],
+      ["SANDWICH", null],
+      ["SHOP", null]
+    ],
+    "time": 0.6985
+  },
+  "08_09": {
+    "predictions": [
+      ["Quiznos", null],
+      ["Sub", null]
+    ],
+    "time": 0.5001
+  },
+  "08_10": {
+    "predictions": [
+      ["1001", null],
+      ["McKINNEY", null]
+    ],
+    "time": 0.6013
+  },
+  "08_12": {
+    "predictions": [
+      ["Domino's", null],
+      ["The", null],
+      ["Pizza", null],
+      ["Delivery", null],
+      ["Experts", null]
+    ],
+    "time": 0.6401
+  },
+  "08_14": {
+    "predictions": [["at&t", null]],
+    "time": 0.4839
+  },
+  "08_15": {
+    "predictions": [
+      ["FOUR", null],
+      ["SEASONS", null],
+      ["HOTEL", null]
+    ],
+    "time": 0.6571
+  },
+  "08_16": {
+    "predictions": [["ALDEN", null]],
+    "time": 0.4743
+  },
+  "08_17": {
+    "predictions": [
+      ["SPAGHETTI", null],
+      ["WAREHOUSE", null],
+      ["SPAGHETTI", null],
+      ["WAREHOUSE", null]
+    ],
+    "time": 0.8738
+  },
+  "08_18": {
+    "predictions": [
+      ["Zula", null],
+      ["Lounge", null],
+      ["Zula", null],
+      ["700", null],
+      ["Park", null],
+      ["877-777-7777", null]
+    ],
+    "time": 1.0563
+  },
+  "08_19": {
+    "predictions": [["majors", null]],
+    "time": 0.4707
+  },
+  "09_00": {
+    "predictions": [
+      ["CIRCLE", null],
+      ["CENTRE", null]
+    ],
+    "time": 0.5224
+  },
+  "09_01": {
+    "predictions": [["MURPHY", null]],
+    "time": 0.4544
+  },
+  "09_02": {
+    "predictions": [
+      ["New", null],
+      ["Jersey", null],
+      ["St", null],
+      ["DAYS", null],
+      ["INN", null],
+      ["ROAD", null],
+      ["CONSTRUCTION", null],
+      ["AHEAD", null],
+      ["25", null]
+    ],
+    "time": 0.8571
+  },
+  "09_03": {
+    "predictions": [
+      ["HOULIHAN'S", null],
+      ["HOULIHAN'S", null]
+    ],
+    "time": 0.6751
+  },
+  "09_04": {
+    "predictions": [
+      ["Steak", null],
+      ["n", null],
+      ["Shake", null]
+    ],
+    "time": 0.4802
+  },
+  "09_05": {
+    "predictions": [["complexions", null]],
+    "time": 0.4219
+  },
+  "09_06": {
+    "predictions": [
+      ["LIVING", null],
+      ["ROOM", null],
+      ["LOUNGE", null]
+    ],
+    "time": 0.5582
+  },
+  "09_07": {
+    "predictions": [
+      ["Indiana", null],
+      ["Repertory", null],
+      ["Theatre", null],
+      ["Indiana", null],
+      ["Roof", null],
+      ["R", null]
+    ],
+    "time": 0.6554
+  },
+  "09_08": {
+    "predictions": [
+      ["WASHINGTON", null],
+      ["IRYING", null],
+      ["SCHOOL", null],
+      ["14", null]
+    ],
+    "time": 0.7084
+  },
+  "09_09": {
+    "predictions": [
+      ["THERAPY", null],
+      ["NIGHTCLUB", null],
+      ["&", null],
+      ["LOUNGE", null]
+    ],
+    "time": 0.6596
+  },
+  "09_10": {
+    "predictions": [["LEON'S", null]],
+    "time": 0.4332
+  },
+  "09_11": {
+    "predictions": [
+      ["CHASE", null],
+      ["TOWER", null],
+      ["CHASE", null]
+    ],
+    "time": 0.5316
+  },
+  "09_12": {
+    "predictions": [
+      ["WHEELER", null],
+      ["MISSION", null],
+      ["MINISTRIES", null]
+    ],
+    "time": 0.6343
+  },
+  "09_13": {
+    "predictions": [
+      ["JOBSITE", null],
+      ["SUPPLY", null],
+      ["CONSTRUCTION", null],
+      ["IDEAS", null],
+      ["AT", null],
+      ["WORK", null],
+      ["684-7474", null]
+    ],
+    "time": 1.0391
+  },
+  "09_14": {
+    "predictions": [
+      ["ZOLL", null],
+      ["Brothers", null],
+      ["ZESCO", null],
+      ["PRODUCTS", null]
+    ],
+    "time": 0.634
+  },
+  "09_15": {
+    "predictions": [["Sheraton", null]],
+    "time": 0.4285
+  },
+  "09_16": {
+    "predictions": [
+      ["INDUSTRIAL", null],
+      ["ANODIZING", null],
+      ["1610", null]
+    ],
+    "time": 0.6811
+  },
+  "09_17": {
+    "predictions": [
+      ["CROWNE", null],
+      ["PLAZA", null],
+      ["HOTELS", null],
+      ["·", null],
+      ["RESORTS", null],
+      ["THE", null],
+      ["GRAND", null],
+      ["HALL", null],
+      ["AND", null],
+      ["CONFERENCE", null],
+      ["CENTER", null]
+    ],
+    "time": 1.0642
+  },
+  "09_18": {
+    "predictions": [
+      ["HOMEWOOD", null],
+      ["SUITES", null],
+      ["211", null]
+    ],
+    "time": 0.61
+  },
+  "09_19": {
+    "predictions": [["SIMON", null]],
+    "time": 0.4338
+  },
+  "10_02": {
+    "predictions": [
+      ["DUNKIN'", null],
+      ["DONUTS", null]
+    ],
+    "time": 0.4789
+  },
+  "10_03": {
+    "predictions": [
+      ["PAYA", null],
+      ["PAKISTAN", null],
+      ["TEA", null],
+      ["HOUSE", null],
+      ["A", null],
+      ["Touch", null],
+      ["of", null],
+      ["Traditional", null],
+      ["Cuisine", null],
+      ["212-240-9800", null],
+      ["176", null],
+      ["CHURCH", null],
+      ["ST.", null],
+      ["TEX-MEXICAN", null],
+      ["EXPRESS", null],
+      ["Phone", null],
+      ["NYC-TAXI", null],
+      ["1K35", null]
+    ],
+    "time": 1.8503
+  },
+  "10_04": {
+    "predictions": [
+      ["NO", null],
+      ["STANDING", null],
+      ["ANY", null],
+      ["TIME", null],
+      ["Fifth", null],
+      ["Ave", null],
+      ["LENS", null],
+      ["CRAFTERS", null],
+      ["10AM-6PM", null],
+      ["MON-FRI", null]
+    ],
+    "time": 1.0145
+  },
+  "10_05": {
+    "predictions": [
+      ["FOSSIL", null],
+      ["FOSSIL", null],
+      ["FOSSIL", null]
+    ],
+    "time": 0.4794
+  },
+  "10_17": {
+    "predictions": [
+      ["Jean", null],
+      ["Louis", null],
+      ["David", null]
+    ],
+    "time": 0.3567
+  },
+  "10_18": {
+    "predictions": [
+      ["FranklyWines", null],
+      ["NO", null],
+      ["STANDING", null],
+      ["EXCEPT", null],
+      ["TRUCKS", null],
+      ["LOADING", null],
+      ["+", null],
+      ["UNLOADING", null],
+      ["8AM-7PM", null],
+      ["EXCEPT", null],
+      ["SUNDAY", null]
+    ],
+    "time": 1.164
+  },
+  "11_00": {
+    "predictions": [
+      ["GRAND", null],
+      ["BOHEMIAN", null],
+      ["HOTEL", null],
+      ["ENTRANCE", null]
+    ],
+    "time": 0.6818
+  },
+  "11_01": {
+    "predictions": [["NAPASORN", null]],
+    "time": 0.4788
+  },
+  "11_02": {
+    "predictions": [
+      ["SUSHI", null],
+      ["HATSU", null]
+    ],
+    "time": 0.5126
+  },
+  "11_03": {
+    "predictions": [
+      ["AL'S", null],
+      ["ARMY", null],
+      ["STORE", null],
+      ["EST.", null],
+      ["1957", null]
+    ],
+    "time": 0.6939
+  },
+  "11_04": {
+    "predictions": [
+      ["Orlando", null],
+      ["Sentinel", null],
+      ["communications", null]
+    ],
+    "time": 0.5561
+  },
+  "11_05": {
+    "predictions": [
+      ["KYLE'S", null],
+      ["BIKE", null],
+      ["SHOP", null],
+      ["CHECK", null],
+      ["UP", null],
+      ["&", null],
+      ["DELIVERY", null],
+      ["(07)", null],
+      ["228-7088", null]
+    ],
+    "time": 1.1356
+  },
+  "11_06": {
+    "predictions": [
+      ["STARBUCKS", null],
+      ["COFFEE", null]
+    ],
+    "time": 0.5583
+  },
+  "11_07": {
+    "predictions": [
+      ["Parliament", null],
+      ["House", null],
+      ["RESORT", null],
+      ["LATIN", null],
+      ["NIGHT", null],
+      ["LISA", null],
+      ["LAME", null],
+      ["DJ", null],
+      ["DIDO", null]
+    ],
+    "time": 0.9383
+  },
+  "11_08": {
+    "predictions": [
+      ["COLONIAL", null],
+      ["RESTAURANT", null],
+      ["&", null],
+      ["LOUNGE", null],
+      ["400", null]
+    ],
+    "time": 0.8147
+  },
+  "11_09": {
+    "predictions": [
+      ["CENTRAL", null],
+      ["STATION", null],
+      ["BAR", null],
+      ["CENTRAL", null],
+      ["STATION", null],
+      ["BAR", null],
+      ["100", null],
+      ["EAST", null],
+      ["Phone", null]
+    ],
+    "time": 1.0394
+  },
+  "11_10": {
+    "predictions": [
+      ["CHURCH", null],
+      ["OF", null],
+      ["SCIENTOLOGY", null],
+      ["HUBBARD", null],
+      ["DIANETICS", null],
+      ["FOUNDATION", null]
+    ],
+    "time": 0.9447
+  },
+  "11_11": {
+    "predictions": [
+      ["MAYOR", null],
+      ["BOB", null],
+      ["CARR", null],
+      ["PERFORMING", null],
+      ["ARTS", null],
+      ["CENTRE", null],
+      ["ORLANDO", null],
+      ["PHI", null],
+      ["HARMONIC", null],
+      ["PRESENTS", null],
+      ["HOME", null],
+      ["FOR", null],
+      ["THE", null],
+      ["HOLIDAYS", null],
+      ["SAT,", null],
+      ["NOV", null],
+      ["13", null],
+      ["-", null],
+      ["2", null],
+      ["PM", null],
+      ["&", null],
+      ["8", null],
+      ["PM", null]
+    ],
+    "time": 1.8198
+  },
+  "11_12": {
+    "predictions": [
+      ["ZOU", null],
+      ["ZOU", null],
+      ["ZOU", null],
+      ["ZOU", null],
+      ["TIJUANA", null],
+      ["FLATS", null],
+      ["burrito", null],
+      ["co.", null],
+      ["2", null],
+      ["4", null],
+      ["TIJUANA", null],
+      ["FLATS", null]
+    ],
+    "time": 1.1328
+  },
+  "11_13": {
+    "predictions": [
+      ["DONG", null],
+      ["-", null],
+      ["A-SUPERMARKET", null]
+    ],
+    "time": 0.6097
+  },
+  "11_14": {
+    "predictions": [
+      ["DETROIT", null],
+      ["JOE'S", null],
+      ["ORIGINAL", null],
+      ["CONEY", null],
+      ["ISLAND", null],
+      ["RESTAURANT", null],
+      ["Security", null],
+      ["101", null],
+      ["•", null],
+      ["SYSTEMS", null],
+      ["INTEGRATION", null],
+      ["•", null],
+      ["ACCESS", null],
+      ["CONTROL", null],
+      ["•", null],
+      ["CITY", null],
+      ["•", null],
+      ["INTRUSION", null],
+      ["•", null],
+      ["VISITOR", null],
+      ["MANAGEMENT", null]
+    ],
+    "time": 1.9002
+  },
+  "11_15": {
+    "predictions": [
+      ["Colonial", null],
+      ["PHOTO", null],
+      ["&", null],
+      ["HOBBY", null],
+      ["INC.", null]
+    ],
+    "time": 0.6584
+  },
+  "11_16": {
+    "predictions": [
+      ["Little", null],
+      ["SAIGON", null]
+    ],
+    "time": 0.4915
+  },
+  "11_17": {
+    "predictions": [["Taquu", null]],
+    "time": 0.4561
+  },
+  "11_18": {
+    "predictions": [
+      ["cityartsfactory", null],
+      ["OPEN", null],
+      ["DO", null],
+      ["NOT", null],
+      ["ENTER", null]
+    ],
+    "time": 0.6159
+  },
+  "11_19": {
+    "predictions": [
+      ["Travelodge", null],
+      ["ALL", null],
+      ["NEW", null],
+      ["ROOMS", null],
+      ["ALL", null],
+      ["ROOMS", null],
+      ["$47.95", null],
+      ["10/19/08", null],
+      ["thru", null],
+      ["12:30/08", null]
+    ],
+    "time": 1.3999
+  },
+  "12_02": {
+    "predictions": [
+      ["TD", null],
+      ["Bank", null],
+      ["WE", null],
+      ["DON'T", null],
+      ["NICKEL", null],
+      ["&", null],
+      ["DIME", null],
+      ["YOU.", null],
+      ["WE", null],
+      ["COUNT", null],
+      ["FOR", null],
+      ["FREE!", null],
+      ["PIC", null],
+      ["DAY.", null],
+      ["NY", null],
+      ["DAY.", null],
+      ["WE'RE", null],
+      ["OPEN!", null]
+    ],
+    "time": 1.1963
+  },
+  "12_03": {
+    "predictions": [
+      ["HRC", null],
+      ["Hard", null],
+      ["Rock", null],
+      ["CAFE", null],
+      ["Hard", null],
+      ["Rock", null],
+      ["CAFE", null]
+    ],
+    "time": 0.6103
+  },
+  "12_04": {
+    "predictions": [
+      ["EMBASSY", null],
+      ["SUITES", null],
+      ["Center", null],
+      ["City", null],
+      ["PARKING", null],
+      ["DO", null],
+      ["NOT", null],
+      ["ENTER", null],
+      ["ENTER", null]
+    ],
+    "time": 0.7692
+  },
+  "12_05": {
+    "predictions": [
+      ["ES", null],
+      ["JONES", null]
+    ],
+    "time": 0.3572
+  },
+  "12_06": {
+    "predictions": [
+      ["CAPGIRO", null],
+      ["GELATO", null],
+      ["ARTISANS", null]
+    ],
+    "time": 0.5334
+  },
+  "12_07": {
+    "predictions": [
+      ["THE", null],
+      ["WINDSOR", null],
+      ["HOTEL", null],
+      ["&", null],
+      ["RESIDENTIAL", null],
+      ["APARTMENTS", null]
+    ],
+    "time": 0.6832
+  },
+  "12_08": {
+    "predictions": [
+      ["Sheraton", null],
+      ["Phillips®", null],
+      ["SEAFOOD", null],
+      ["TERRACE", null],
+      ["RESTAURANT", null],
+      ["LOBBY", null],
+      ["BAR", null]
+    ],
+    "time": 0.9343
+  },
+  "12_09": {
+    "predictions": [
+      ["TRADER", null],
+      ["JOE'S", null]
+    ],
+    "time": 0.3935
+  },
+  "12_10": {
+    "predictions": [
+      ["BIÈRES", null],
+      ["PRESSION", null],
+      ["P·A·R·C", null],
+      ["VINS", null],
+      ["TIN", null],
+      ["HUIT", null]
+    ],
+    "time": 0.8649
+  },
+  "12_11": {
+    "predictions": [
+      ["BELLA", null],
+      ["VISTA", null],
+      ["INC.", null]
+    ],
+    "time": 0.4889
+  },
+  "12_13": {
+    "predictions": [
+      ["CHERRY", null],
+      ["STREET", null],
+      ["CHINESE", null],
+      ["KOSH", null],
+      ["VEGETARIAN", null],
+      ["RESTAURANT", null],
+      ["1010", null],
+      ["CHERRY", null],
+      ["STREET", null],
+      ["Tel:215-923-", null]
+    ],
+    "time": 1.3684
+  },
+  "12_15": {
+    "predictions": [
+      ["Ortliebs", null],
+      ["0", null],
+      ["Jug", null],
+      ["z", null],
+      ["H", null],
+      ["215", null],
+      ["Blvd", null]
+    ],
+    "time": 0.6896
+  },
+  "12_16": {
+    "predictions": [
+      ["UNITED", null],
+      ["STATES", null],
+      ["MINT", null],
+      ["BUS", null],
+      ["PARKING", null],
+      ["FACILITY", null],
+      ["USE", null],
+      ["TUNNEL", null],
+      ["ONE", null],
+      ["WAY", null]
+    ],
+    "time": 1.0149
+  },
+  "12_18": {
+    "predictions": [
+      ["CHINATOWN", null],
+      ["DOLLAR", null],
+      ["INC.", null],
+      ["華", null],
+      ["$1", null],
+      ["&", null],
+      ["UP", null],
+      ["公司", null],
+      ["Houseware", null],
+      ["家具用品", null],
+      ["Hardware", null],
+      ["五金", null],
+      ["Stationery", null],
+      ["大具", null],
+      ["玩具", null],
+      ["&", null],
+      ["Party", null],
+      ["Supplies", null],
+      ["玩具配食用品", null],
+      ["DING", null],
+      ["HO", null]
+    ],
+    "time": 1.5206
+  },
+  "12_19": {
+    "predictions": [
+      ["PLAYS", null],
+      ["AND", null],
+      ["PLAYERS", null]
+    ],
+    "time": 0.4049
+  },
+  "13_01": {
+    "predictions": [
+      ["UNIVERSITY", null],
+      ["CENTER", null]
+    ],
+    "time": 0.4303
+  },
+  "13_02": {
+    "predictions": [
+      ["STARBUCKS", null],
+      ["COFFEE", null]
+    ],
+    "time": 0.4582
+  },
+  "13_03": {
+    "predictions": [
+      ["Quiznos", null],
+      ["Sub", null],
+      ["Cafe'", null],
+      ["Roma", null],
+      ["Pizza", null],
+      ["Pasta", null],
+      ["Salads", null],
+      ["&", null],
+      ["Subs", null]
+    ],
+    "time": 0.7045
+  },
+  "13_04": {
+    "predictions": [
+      ["PHELFS", null],
+      ["DODGE", null],
+      ["TOWER", null]
+    ],
+    "time": 0.4921
+  },
+  "13_05": {
+    "predictions": [
+      ["EL", null],
+      ["PORTAL", null]
+    ],
+    "time": 0.3341
+  },
+  "13_07": {
+    "predictions": [
+      ["eye", null],
+      ["lounge", null],
+      ["a", null],
+      ["contemporary", null],
+      ["art", null],
+      ["space", null]
+    ],
+    "time": 0.4741
+  },
+  "13_08": {
+    "predictions": [["Enterprise", null]],
+    "time": 0.3029
+  },
+  "13_09": {
+    "predictions": [
+      ["安", null],
+      ["Yasda", null],
+      ["Bento", null]
+    ],
+    "time": 0.4052
+  },
+  "13_10": {
+    "predictions": [
+      ["Pizza", null],
+      ["Hut", null]
+    ],
+    "time": 0.3539
+  },
+  "13_11": {
+    "predictions": [
+      ["MAGIC", null],
+      ["AUTO", null],
+      ["902-212-8698", null],
+      ["WWW.MAGICAUTO.US", null]
+    ],
+    "time": 0.8915
+  },
+  "13_12": {
+    "predictions": [["YMCA", null]],
+    "time": 0.3267
+  },
+  "13_13": {
+    "predictions": [
+      ["space", null],
+      ["55", null]
+    ],
+    "time": 0.3585
+  },
+  "13_14": {
+    "predictions": [
+      ["circles:", null],
+      ["discs", null],
+      ["&", null],
+      ["tapes", null]
+    ],
+    "time": 0.4513
+  },
+  "13_15": {
+    "predictions": [
+      ["WYNDHAM", null],
+      ["HOTEL", null]
+    ],
+    "time": 0.4582
+  },
+  "13_16": {
+    "predictions": [
+      ["modified", null],
+      ["arts", null]
+    ],
+    "time": 0.3259
+  },
+  "13_17": {
+    "predictions": [
+      ["US", null],
+      ["AIRWAYS", null],
+      ["CENTER", null]
+    ],
+    "time": 0.4304
+  },
+  "13_18": {
+    "predictions": [
+      ["PORTLAND'S", null],
+      ["restaurant", null],
+      ["•", null],
+      ["bar", null]
+    ],
+    "time": 0.4334
+  },
+  "13_19": {
+    "predictions": [
+      ["CHEUVRONT", null],
+      ["CHEUVRONT", null],
+      ["•", null],
+      ["RESTAURANT", null]
+    ],
+    "time": 0.6547
+  },
+  "14_00": {
+    "predictions": [
+      ["PGE", null],
+      ["PARK", null],
+      ["BEAVERS", null],
+      ["PGE", null],
+      ["PARK", null]
+    ],
+    "time": 0.7441
+  },
+  "14_01": {
+    "predictions": [["HIGGINS", null]],
+    "time": 0.5117
+  },
+  "14_02": {
+    "predictions": [["Marriott", null]],
+    "time": 0.4597
+  },
+  "14_03": {
+    "predictions": [
+      ["LIVING", null],
+      ["ROOM", null],
+      ["THEATERS", null]
+    ],
+    "time": 0.5962
+  },
+  "14_04": {
+    "predictions": [
+      ["STANDARD", null],
+      ["INSURANCE", null],
+      ["CENTER", null],
+      ["900", null],
+      ["S.W.", null],
+      ["FIFTH", null],
+      ["AVENUE", null]
+    ],
+    "time": 0.902
+  },
+  "14_05": {
+    "predictions": [["Roots", null]],
+    "time": 0.4593
+  },
+  "14_06": {
+    "predictions": [
+      ["Convention", null],
+      ["Center", null]
+    ],
+    "time": 0.4668
+  },
+  "14_07": {
+    "predictions": [
+      ["EVEREST", null],
+      ["COLLEGE", null]
+    ],
+    "time": 0.5537
+  },
+  "14_08": {
+    "predictions": [
+      ["PIONEER", null],
+      ["PLACE", null],
+      ["SAKS", null],
+      ["FIFTH", null],
+      ["AVENUE", null]
+    ],
+    "time": 0.7404
+  },
+  "14_09": {
+    "predictions": [
+      ["Cinema", null],
+      ["21", null],
+      ["STEVE", null],
+      ["BUSCEMI'S", null],
+      ["\"INTERVIEW\"", null],
+      ["NEXT:", null],
+      ["\"NO", null],
+      ["END", null],
+      ["IN", null],
+      ["SIGHT\"", null]
+    ],
+    "time": 1.1857
+  },
+  "14_10": {
+    "predictions": [
+      ["Park", null],
+      ["Kitchen", null]
+    ],
+    "time": 0.4878
+  },
+  "14_11": {
+    "predictions": [
+      ["U.S.", null],
+      ["OUTDOOR", null],
+      ["STORE", null],
+      ["U.S.", null],
+      ["OUTDOOR", null],
+      ["STORE", null]
+    ],
+    "time": 0.7914
+  },
+  "14_12": {
+    "predictions": [
+      ["DAN", null],
+      ["&", null],
+      ["LOUIS", null],
+      ["Since", null],
+      ["1907", null],
+      ["OYSTER", null],
+      ["BAR", null]
+    ],
+    "time": 0.8134
+  },
+  "14_13": {
+    "predictions": [
+      ["Mission", null],
+      ["Theater", null],
+      ["&", null],
+      ["Pub", null]
+    ],
+    "time": 0.509
+  },
+  "14_14": {
+    "predictions": [
+      ["SATYRICONPDX.COM", null],
+      ["THE", null],
+      ["LIFE", null],
+      ["AND", null],
+      ["TIMES", null],
+      ["SYSTEM", null],
+      ["AND", null],
+      ["STATION", null],
+      ["MICROTIA", null]
+    ],
+    "time": 1.1082
+  },
+  "14_15": {
+    "predictions": [["Genies", null]],
+    "time": 0.432
+  },
+  "14_16": {
+    "predictions": [
+      ["EM", null],
+      ["[", null],
+      ["EVERYDAY", null],
+      ["MUSIC", null],
+      ["]", null]
+    ],
+    "time": 0.7105
+  },
+  "14_17": {
+    "predictions": [
+      ["LINCOLN", null],
+      ["HIGH", null],
+      ["SCHOOL", null]
+    ],
+    "time": 0.6228
+  },
+  "14_18": {
+    "predictions": [["Marriott", null]],
+    "time": 0.4588
+  },
+  "14_19": {
+    "predictions": [
+      ["THE", null],
+      ["LUCKY", null],
+      ["LABRADOR", null],
+      ["BREW", null],
+      ["PUB", null]
+    ],
+    "time": 0.7626
+  },
+  "15_01": {
+    "predictions": [
+      ["EMBASSY", null],
+      ["SUITES", null],
+      ["PARKING", null]
+    ],
+    "time": 0.739
+  },
+  "15_02": {
+    "predictions": [
+      ["GREAT", null],
+      ["FOOD", null],
+      ["•", null],
+      ["CLASSIC", null],
+      ["ROCK", null],
+      ["Yard", null],
+      ["House", null],
+      ["WORLD'S", null],
+      ["LARGEST", null],
+      ["SELECTION", null],
+      ["OF", null],
+      ["DRAFT", null],
+      ["BEER", null]
+    ],
+    "time": 1.0363
+  },
+  "15_03": {
+    "predictions": [
+      ["SAN", null],
+      ["DIEGO", null],
+      ["HARBOR", null],
+      ["EXCURSION", null],
+      ["www.sdhe.com", null],
+      ["(619)", null],
+      ["234", null],
+      ["4111", null]
+    ],
+    "time": 1.3041
+  },
+  "15_04": {
+    "predictions": [
+      ["Timken", null],
+      ["Museum", null],
+      ["of", null],
+      ["Art", null],
+      ["European", null],
+      ["Works", null],
+      ["Of", null],
+      ["Art", null],
+      ["American", null],
+      ["Paintings", null],
+      ["And", null],
+      ["Russian", null],
+      ["Icons", null],
+      ["FREE", null],
+      ["ADMISSION", null]
+    ],
+    "time": 1.2479
+  },
+  "15_05": {
+    "predictions": [
+      ["San", null],
+      ["Diego", null],
+      ["Automotive", null],
+      ["Museum", null],
+      ["AUTHORIZED", null],
+      ["VENDORS", null],
+      ["ONLY", null]
+    ],
+    "time": 0.7294
+  },
+  "15_06": {
+    "predictions": [
+      ["EL", null],
+      ["CORTEZ", null]
+    ],
+    "time": 0.6024
+  },
+  "15_07": {
+    "predictions": [
+      ["CROCE'S", null],
+      ["RESTAURANT", null]
+    ],
+    "time": 0.4529
+  },
+  "15_08": {
+    "predictions": [
+      ["THE", null],
+      ["Casbah", null]
+    ],
+    "time": 0.5872
+  },
+  "15_09": {
+    "predictions": [
+      ["Best", null],
+      ["Western", null],
+      ["BAYSIDE", null],
+      ["INN", null]
+    ],
+    "time": 0.6867
+  },
+  "15_10": {
+    "predictions": [
+      ["AIR", null],
+      ["&", null],
+      ["SPACE", null],
+      ["MUSEUM", null]
+    ],
+    "time": 0.6922
+  },
+  "15_11": {
+    "predictions": [
+      ["AMERICA", null],
+      ["PLAZA", null],
+      ["Parking", null],
+      ["Entrance", null],
+      ["8'-0\"", null],
+      ["Clearance", null],
+      ["Exit", null],
+      ["Only", null],
+      ["Do", null],
+      ["Not", null],
+      ["En", null]
+    ],
+    "time": 1.1599
+  },
+  "15_12": {
+    "predictions": [
+      ["HORTON", null],
+      ["GRAND", null],
+      ["HOTEL", null]
+    ],
+    "time": 0.7355
+  },
+  "15_13": {
+    "predictions": [
+      ["1350", null],
+      ["SAIN", null],
+      ["CHRISE", null],
+      ["MUSEUM", null],
+      ["OF", null],
+      ["MAN", null]
+    ],
+    "time": 0.899
+  },
+  "15_14": {
+    "predictions": [
+      ["Comfort", null],
+      ["INN", null],
+      ["Comfort", null],
+      ["INN", null],
+      ["Gaslamp", null],
+      ["660", null],
+      ["G", null],
+      ["Street", null],
+      ["1-800-598-1810", null]
+    ],
+    "time": 1.369
+  },
+  "15_15": {
+    "predictions": [
+      ["GHIRARDELLI", null],
+      ["ICE", null],
+      ["CREAM", null],
+      ["AND", null],
+      ["CHOCOLATE", null],
+      ["SH", null]
+    ],
+    "time": 0.6648
+  },
+  "15_16": {
+    "predictions": [
+      ["SAN", null],
+      ["DIEGO", null],
+      ["CONVENTION", null],
+      ["CENTER", null]
+    ],
+    "time": 0.7415
+  },
+  "15_17": {
+    "predictions": [
+      ["COURTYARD", null],
+      ["Marriott", null]
+    ],
+    "time": 0.6923
+  },
+  "15_18": {
+    "predictions": [
+      ["COPLEY", null],
+      ["SYMPHONY", null],
+      ["HALL", null],
+      ["750", null]
+    ],
+    "time": 0.844
+  },
+  "15_19": {
+    "predictions": [
+      ["Holiday", null],
+      ["Inn", null],
+      ["BOUTIQUE", null],
+      ["DESIGNED", null],
+      ["HOTEL", null],
+      ["AT", null],
+      ["A", null],
+      ["HOLIDAY", null],
+      ["INN", null],
+      ["PRICE", null],
+      ["YOU", null],
+      ["HAVE", null],
+      ["2", null],
+      ["SEE", null],
+      ["2", null],
+      ["BELIEVE", null],
+      ["LEFT", null],
+      ["TURN", null],
+      ["YIELD", null]
+    ],
+    "time": 1.762
+  },
+  "16_00": {
+    "predictions": [
+      ["GRAND", null],
+      ["HYATT", null],
+      ["SAN", null],
+      ["FRANCISCO", null]
+    ],
+    "time": 0.6593
+  },
+  "16_01": {
+    "predictions": [
+      ["HOTEL", null],
+      ["WHITCOMB", null],
+      ["1231", null]
+    ],
+    "time": 0.6668
+  },
+  "16_02": {
+    "predictions": [
+      ["The", null],
+      ["MOSSER", null],
+      ["54", null]
+    ],
+    "time": 0.5286
+  },
+  "16_03": {
+    "predictions": [
+      ["FOX", null],
+      ["WARFIELD", null],
+      ["ENTRANCE", null],
+      ["=", null],
+      ["MARKET", null],
+      ["ST.", null],
+      ["FOX", null],
+      ["WARFIELD", null],
+      ["ENTRANCE", null],
+      ["=", null],
+      ["MARKET", null],
+      ["ST.", null],
+      ["Z6", null],
+      ["26", null]
+    ],
+    "time": 1.2252
+  },
+  "16_04": {
+    "predictions": [
+      ["HOTEL", null],
+      ["CARLTON", null]
+    ],
+    "time": 0.5047
+  },
+  "16_05": {
+    "predictions": [
+      ["Best", null],
+      ["Western", null],
+      ["AMERICANIA", null],
+      ["HOTEL", null]
+    ],
+    "time": 0.605
+  },
+  "16_06": {
+    "predictions": [
+      ["CITY", null],
+      ["LIGHTS", null],
+      ["BOOKS", null],
+      ["CITY", null],
+      ["LIGHTS", null],
+      ["BOOKSTORE", null]
+    ],
+    "time": 0.8139
+  },
+  "16_07": {
+    "predictions": [
+      ["309", null],
+      ["BURMA★SUPERSTAR", null]
+    ],
+    "time": 0.6528
+  },
+  "16_08": {
+    "predictions": [["bacar", null]],
+    "time": 0.427
+  },
+  "16_09": {
+    "predictions": [
+      ["YANK", null],
+      ["SING", null]
+    ],
+    "time": 0.4788
+  },
+  "16_10": {
+    "predictions": [
+      ["Gordon", null],
+      ["Biersch", null],
+      ["BREWERY", null],
+      ["RESTAURANT", null]
+    ],
+    "time": 0.7792
+  },
+  "16_12": {
+    "predictions": [
+      ["はなぜん", null],
+      ["FIRST", null],
+      ["CRUSH", null]
+    ],
+    "time": 0.6066
+  },
+  "16_13": {
+    "predictions": [
+      ["TARA", null],
+      ["RESTAURANT", null]
+    ],
+    "time": 0.5786
+  },
+  "16_14": {
+    "predictions": [
+      ["1660", null],
+      ["WASHINGTON", null],
+      ["SQUARE", null],
+      ["INN", null]
+    ],
+    "time": 0.7119
+  },
+  "16_15": {
+    "predictions": [
+      ["Canto", null],
+      ["Do", null],
+      ["Brasil", null],
+      ["RESTAURANT", null],
+      ["626-8727", null],
+      ["41", null],
+      ["Frankn", null]
+    ],
+    "time": 0.9631
+  },
+  "16_16": {
+    "predictions": [
+      ["ORPHEUM", null],
+      ["THEATRE", null],
+      ["WICKED", null],
+      ["ORPHEUM", null],
+      ["THEATRE", null]
+    ],
+    "time": 0.8318
+  },
+  "16_17": {
+    "predictions": [
+      ["PINECREST", null],
+      ["\"The", null],
+      ["Food", null],
+      ["Makers\"", null],
+      ["Since", null],
+      ["1969", null],
+      ["•", null],
+      ["RESTAURANT", null],
+      ["•", null],
+      ["Open", null],
+      ["24hrs.", null]
+    ],
+    "time": 1.1168
+  },
+  "16_18": {
+    "predictions": [
+      ["SAINT", null],
+      ["FRANCIS", null],
+      ["MEMORIAL", null],
+      ["HOSPTAL", null],
+      ["+", null],
+      ["CHW", null],
+      ["900", null]
+    ],
+    "time": 0.8534
+  },
+  "16_19": {
+    "predictions": [
+      ["Amoeba", null],
+      ["Music", null],
+      ["RECORD", null],
+      ["POSTER", null],
+      ["VIDEO", null],
+      ["FREE", null],
+      ["PARKING", null],
+      ["AT", null],
+      ["THE", null],
+      ["KEZAR", null],
+      ["EOI", null],
+      ["ON", null],
+      ["STANYAN", null],
+      ["BUY", null],
+      ["HERE!", null]
+    ],
+    "time": 1.3466
+  },
+  "17_00": {
+    "predictions": [
+      ["SAN", null],
+      ["JOSE", null],
+      ["MUSEUM", null],
+      ["OF", null],
+      ["ART", null]
+    ],
+    "time": 0.5594
+  },
+  "17_01": {
+    "predictions": [
+      ["DAKAO", null],
+      ["RESTAURANT", null],
+      ["VIETNAMESE", null],
+      ["CHINESE", null],
+      ["ONE", null],
+      ["WAY", null]
+    ],
+    "time": 0.7989
+  },
+  "17_02": {
+    "predictions": [
+      ["MOTIF", null],
+      ["RESTAURANT", null],
+      ["AND", null],
+      ["CLUB", null],
+      ["389", null],
+      ["South", null],
+      ["First", null],
+      ["Street", null],
+      ["Tel.", null],
+      ["408-621-8889", null],
+      ["www.motiflounge.com", null]
+    ],
+    "time": 1.3312
+  },
+  "17_03": {
+    "predictions": [
+      ["131", null],
+      ["BICYCLE", null],
+      ["EXPRESS", null],
+      ["OPEN", null]
+    ],
+    "time": 0.5367
+  },
+  "17_04": {
+    "predictions": [["Gombei", null]],
+    "time": 0.4685
+  },
+  "17_05": {
+    "predictions": [["McDonald's", null]],
+    "time": 0.3237
+  },
+  "17_06": {
+    "predictions": [
+      ["Foreign", null],
+      ["and", null],
+      ["Domestic", null],
+      ["Repairs", null],
+      ["B-Line", null],
+      ["BODY", null],
+      ["SHOP", null],
+      ["408-279-4500", null]
+    ],
+    "time": 0.9535
+  },
+  "17_07": {
+    "predictions": [
+      ["ERNST", null],
+      ["&", null],
+      ["YOUNG", null]
+    ],
+    "time": 0.428
+  },
+  "17_08": {
+    "predictions": [
+      ["波城", null],
+      ["BO", null],
+      ["TOWN", null],
+      ["CHINESE", null],
+      ["VIETNAMESI", null]
+    ],
+    "time": 0.6554
+  },
+  "17_09": {
+    "predictions": [
+      ["THE", null],
+      ["SAINTE", null],
+      ["CLAIRE", null]
+    ],
+    "time": 0.4392
+  },
+  "17_10": {
+    "predictions": [
+      ["liquid", null],
+      ["LIQUID", null],
+      ["AGENCY", null]
+    ],
+    "time": 0.5008
+  },
+  "17_11": {
+    "predictions": [
+      ["MIRAIDO", null],
+      ["VILLAGE", null],
+      ["LEASING", null],
+      ["OFFICE", null]
+    ],
+    "time": 0.7374
+  },
+  "17_12": {
+    "predictions": [
+      ["SUSHI", null],
+      ["MARU", null],
+      ["262", null]
+    ],
+    "time": 0.6366
+  },
+  "17_13": {
+    "predictions": [
+      ["ABRAHAM", null],
+      ["LINCOLN", null],
+      ["HIGH", null],
+      ["SCHOOL", null],
+      ["A", null],
+      ["NATIONAL", null],
+      ["BLUE", null],
+      ["RIBBON", null],
+      ["SCHOOL", null],
+      ["CALIFORNIA", null],
+      ["DISTINGUISHED", null],
+      ["SCHOOL", null]
+    ],
+    "time": 1.4997
+  },
+  "17_14": {
+    "predictions": [
+      ["San", null],
+      ["Jose", null],
+      ["Museum", null],
+      ["of", null],
+      ["Quilts", null],
+      ["&", null],
+      ["Textiles", null]
+    ],
+    "time": 0.5222
+  },
+  "17_15": {
+    "predictions": [
+      ["GOODWILL", null],
+      ["GOODSOURCE", null],
+      ["DIVISION", null]
+    ],
+    "time": 0.6985
+  },
+  "17_16": {
+    "predictions": [["RAMADA", null]],
+    "time": 0.3096
+  },
+  "17_17": {
+    "predictions": [
+      ["FAHRENHEIT", null],
+      ["ULTRA", null],
+      ["LOUNGE", null]
+    ],
+    "time": 0.6731
+  },
+  "17_18": {
+    "predictions": [
+      ["SOUTH", null],
+      ["FIRST", null],
+      ["BILLIARDS", null]
+    ],
+    "time": 0.4817
+  },
+  "17_19": {
+    "predictions": [
+      ["ANNO", null],
+      ["DOMINI", null],
+      ["SANER", null],
+      ["MAR6", null],
+      ["THRU", null],
+      ["APR18", null]
+    ],
+    "time": 0.7639
+  },
+  "18_00": {
+    "predictions": [
+      ["ANTICA", null],
+      ["VIA", null],
+      ["TRIBUNALI", null],
+      ["PIZZERIA", null]
+    ],
+    "time": 0.7099
+  },
+  "18_01": {
+    "predictions": [
+      ["THE", null],
+      ["triple", null],
+      ["door", null],
+      ["THU", null],
+      ["12", null],
+      ["PATRICIA", null],
+      ["BARBER", null],
+      ["FRU13", null],
+      ["THE", null],
+      ["ALBUM", null],
+      ["LEAF", null],
+      ["SAT", null],
+      ["14", null],
+      ["TOO", null],
+      ["SLIM", null],
+      ["&", null],
+      ["THE", null],
+      ["TAILDRAGGERS", null],
+      ["musicquarium", null],
+      ["lounge", null]
+    ],
+    "time": 1.7014
+  },
+  "18_02": {
+    "predictions": [
+      ["BLACK", null],
+      ["BOTTLE", null],
+      ["2600", null],
+      ["Vine", null],
+      ["ST", null],
+      ["ONE", null],
+      ["WAY", null]
+    ],
+    "time": 0.8348
+  },
+  "18_03": {
+    "predictions": [
+      ["M", null],
+      ["HOTEL", null],
+      ["MAX", null]
+    ],
+    "time": 0.4843
+  },
+  "18_04": {
+    "predictions": [
+      ["RED", null],
+      ["LION", null],
+      ["HOTEL", null]
+    ],
+    "time": 0.5022
+  },
+  "18_05": {
+    "predictions": [
+      ["QUINN'S", null],
+      ["Lunch", null],
+      ["&", null],
+      ["Dinner", null]
+    ],
+    "time": 0.6038
+  },
+  "18_06": {
+    "predictions": [
+      ["PARAMOUNT", null],
+      ["Avenue", null],
+      ["Q", null],
+      ["PARENTAL", null],
+      ["ADVISORY:", null],
+      ["60%", null],
+      ["ADULT", null],
+      ["SITUATIONS", null],
+      ["40%", null],
+      ["FOAM", null],
+      ["RUBBER", null],
+      ["JUNE", null],
+      ["10-22", null],
+      ["avenueq.com", null]
+    ],
+    "time": 1.613
+  },
+  "18_07": {
+    "predictions": [
+      ["THE", null],
+      ["MOORE", null],
+      ["HOTEL", null],
+      ["THE", null],
+      ["MOORE", null],
+      ["HOTEL", null],
+      ["ALTERATIONS", null],
+      ["CITY", null],
+      ["CUSTOM", null],
+      ["TAILORS", null]
+    ],
+    "time": 0.9897
+  },
+  "18_08": {
+    "predictions": [["GARAGE", null]],
+    "time": 0.4353
+  },
+  "18_09": {
+    "predictions": [
+      ["PIKE", null],
+      ["AND", null],
+      ["WESTERN", null],
+      ["WINE", null],
+      ["SHOP", null]
+    ],
+    "time": 0.6188
+  },
+  "18_10": {
+    "predictions": [
+      ["Best", null],
+      ["Western", null],
+      ["EXECUTIVE", null],
+      ["INN", null]
+    ],
+    "time": 0.6164
+  },
+  "18_11": {
+    "predictions": [
+      ["The", null],
+      ["EXECUTIVE", null],
+      ["HOTEL", null],
+      ["PACIFIC", null]
+    ],
+    "time": 0.7018
+  },
+  "18_12": {
+    "predictions": [["REI", null]],
+    "time": 0.4109
+  },
+  "18_13": {
+    "predictions": [
+      ["Best", null],
+      ["Western", null],
+      ["LOYAL", null],
+      ["INN", null]
+    ],
+    "time": 0.5442
+  },
+  "18_14": {
+    "predictions": [
+      ["2030", null],
+      ["Virginia", null],
+      ["St", null],
+      ["Lola", null],
+      ["ONE", null],
+      ["WAY", null]
+    ],
+    "time": 0.6816
+  },
+  "18_15": {
+    "predictions": [
+      ["SIXTH", null],
+      ["AVENUE", null],
+      ["BAR", null],
+      ["&", null],
+      ["GRILL", null],
+      ["SIXTH", null],
+      ["AVENUE", null],
+      ["BAR", null],
+      ["&", null],
+      ["GRILL", null]
+    ],
+    "time": 0.9621
+  },
+  "18_16": {
+    "predictions": [
+      ["94", null],
+      ["Stewart", null],
+      ["RESTAURANT", null]
+    ],
+    "time": 0.5316
+  },
+  "18_17": {
+    "predictions": [
+      ["CINERAMA", null],
+      ["www.cinerama.com", null]
+    ],
+    "time": 0.6082
+  },
+  "18_18": {
+    "predictions": [
+      ["GARFIELD", null],
+      ["HIGH", null],
+      ["SCHOOL", null],
+      ["AT", null],
+      ["LINCOLN", null]
+    ],
+    "time": 0.7891
+  },
+  "18_19": {
+    "predictions": [["NEUMOS", null]],
+    "time": 0.4374
+  },
+  "19_00": {
+    "predictions": [
+      ["Restaurant", null],
+      ["Cafe", null],
+      ["Soleil", null],
+      ["Bar", null]
+    ],
+    "time": 0.7224
+  },
+  "19_01": {
+    "predictions": [
+      ["TINY", null],
+      ["JEWEL", null],
+      ["BOX", null],
+      ["NO", null],
+      ["STANDING", null],
+      ["OR", null],
+      ["PARKING", null],
+      ["METRO", null],
+      ["BUS", null],
+      ["ZONE", null],
+      ["NO", null],
+      ["STANDING", null],
+      ["OR", null],
+      ["PARKING", null],
+      ["TAM", null],
+      ["9:30AM", null],
+      ["4PM", null],
+      ["&", null],
+      ["6:30PM", null]
+    ],
+    "time": 1.8785
+  },
+  "19_03": {
+    "predictions": [
+      ["CVS/pharmacy", null],
+      ["24", null],
+      ["HOURS", null],
+      ["CVS/pharmacy", null],
+      ["CVS/pharmacy", null],
+      ["CVS/pharmacy", null]
+    ],
+    "time": 1.3293
+  },
+  "19_04": {
+    "predictions": [
+      ["ART", null],
+      ["&", null],
+      ["FRAMING", null],
+      ["SAME", null],
+      ["DAY", null],
+      ["FRAMING", null],
+      ["CUSTOM", null],
+      ["FRAMING", null],
+      ["GROCERY-BEER", null],
+      ["&", null],
+      ["DELICATESSE", null],
+      ["SAKANA", null],
+      ["JAPANESE", null],
+      ["RESTAURANT", null]
+    ],
+    "time": 1.6719
+  },
+  "19_06": {
+    "predictions": [
+      ["THE", null],
+      ["FIREPLACE", null],
+      ["LIQUOR", null],
+      ["BE", null],
+      ["ATM", null],
+      ["SAMUEL", null],
+      ["ADAMS", null],
+      ["PACIFICO", null],
+      ["STATE", null],
+      ["LIQUOR", null],
+      ["EVERYDAY", null],
+      ["WINE", null],
+      ["SPECIAL", null]
+    ],
+    "time": 1.6324
+  },
+  "19_07": {
+    "predictions": [
+      ["ERS", null],
+      ["AND", null],
+      ["CLEANERS", null],
+      ["1425", null],
+      ["SHOE", null],
+      ["REPAIR", null],
+      ["&", null],
+      ["TAILORING", null],
+      ["ON", null],
+      ["PREMISES", null],
+      ["OPEN", null],
+      ["ORGANIC", null],
+      ["CLEANING", null],
+      ["DRY", null],
+      ["CLEANING", null],
+      ["EXPERT", null],
+      ["International", null],
+      ["And", null],
+      ["Repairs", null],
+      ["WM.", null],
+      ["FOX", null],
+      ["&", null],
+      ["CO.", null],
+      ["1427", null],
+      ["OPEN", null]
+    ],
+    "time": 2.233
+  },
+  "19_09": {
+    "predictions": [
+      ["Books", null],
+      ["for", null],
+      ["America", null],
+      ["BOOKS", null],
+      ["FOR", null],
+      ["AMERICA", null],
+      ["1417", null],
+      ["A", null],
+      ["non-profit", null],
+      ["bookstore", null],
+      ["New", null],
+      ["&", null],
+      ["Used", null],
+      ["Books", null],
+      ["Help", null],
+      ["support", null],
+      ["our", null],
+      ["library", null],
+      ["building", null],
+      ["&", null],
+      ["literacy", null],
+      ["efforts", null],
+      ["donate", null],
+      ["books,", null],
+      ["movies", null],
+      ["&", null],
+      ["CDs", null],
+      ["here!", null],
+      ["booksforamerica.org", null],
+      ["BOOK", null],
+      ["SALE", null]
+    ],
+    "time": 2.0547
+  },
+  "19_11": {
+    "predictions": [
+      ["THE", null],
+      ["GUITAR", null],
+      ["SHOP", null],
+      ["FUDDRUCKERS", null],
+      ["Fresh", null],
+      ["Ground", null],
+      ["Beef", null],
+      ["Garden", null],
+      ["Fresh", null],
+      ["Produce", null],
+      ["Fresh", null],
+      ["Baked", null],
+      ["Bread", null],
+      ["FUDDS", null],
+      ["PRIME", null],
+      ["100%", null],
+      ["\"ALL", null],
+      ["AMERICAN\"", null],
+      ["PREMIUM", null],
+      ["BEEF", null],
+      ["ONE", null],
+      ["WAY", null]
+    ],
+    "time": 2.0204
+  },
+  "19_12": {
+    "predictions": [
+      ["met", null],
+      ["café", null],
+      ["TOW", null],
+      ["AWAY", null],
+      ["NO", null],
+      ["STANDING", null],
+      ["OR", null],
+      ["PARKING", null],
+      ["ANYTIME", null],
+      ["2", null],
+      ["HOUR", null],
+      ["PARKING", null],
+      ["7AM-6:30PM", null],
+      ["MONDAY-FRIENDLY", null]
+    ],
+    "time": 1.6712
+  },
+  "19_13": {
+    "predictions": [
+      ["ING", null],
+      ["LOUNGE", null],
+      ["CHOCOLATE", null],
+      ["MOOSE", null],
+      ["PARK", null],
+      ["PMI", null]
+    ],
+    "time": 0.9433
+  },
+  "batch_info": {
+    "Batch #1": {
+      "size": 50,
+      "time": "0min_42s_803ms"
+    },
+    "Batch #2": {
+      "size": 50,
+      "time": "0min_55s_820ms"
+    },
+    "Batch #3": {
+      "size": 50,
+      "time": "0min_53s_916ms"
+    },
+    "Batch #4": {
+      "size": 50,
+      "time": "0min_35s_816ms"
+    },
+    "Batch #5": {
+      "size": 50,
+      "time": "0min_34s_506ms"
+    },
+    "Batch #6": {
+      "size": 50,
+      "time": "0min_40s_565ms"
+    },
+    "Batch #7": {
+      "size": 50,
+      "time": "0min_44s_950ms"
+    }
+  }
+}

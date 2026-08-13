@@ -1,0 +1,576 @@
+{
+  "052.Kungstradgarden": {
+    "predictions": [
+      [
+        "VOLVO",
+        null
+      ]
+    ],
+    "time": 0.3997
+  },
+  "abPICT0005": {
+    "predictions": [
+      [
+        "jörzk",
+        null
+      ],
+      [
+        "Homogenic",
+        null
+      ]
+    ],
+    "time": 0.6721
+  },
+  "aPICT0001": {
+    "predictions": [
+      [
+        "SMIRNOFF",
+        null
+      ]
+    ],
+    "time": 0.5418
+  },
+  "aPICT0002": {
+    "predictions": [
+      [
+        "moto",
+        null
+      ],
+      [
+        "jeanswear",
+        null
+      ]
+    ],
+    "time": 0.614
+  },
+  "aPICT0004": {
+    "predictions": [
+      [
+        "ZUBROWKA",
+        null
+      ],
+      [
+        "0.5",
+        null
+      ],
+      [
+        "vol.",
+        null
+      ],
+      [
+        "BISON",
+        null
+      ],
+      [
+        "VODKA",
+        null
+      ],
+      [
+        "1L",
+        null
+      ]
+    ],
+    "time": 1.5782
+  },
+  "aPICT0006": {
+    "predictions": [
+      [
+        "TESCO",
+        null
+      ],
+      [
+        "RACE",
+        null
+      ],
+      [
+        "FOR",
+        null
+      ],
+      [
+        "LIFE",
+        null
+      ],
+      [
+        "CANCER",
+        null
+      ],
+      [
+        "RESEARCH",
+        null
+      ],
+      [
+        "UK",
+        null
+      ]
+    ],
+    "time": 1.1682
+  },
+  "aPICT0007": {
+    "predictions": [
+      [
+        "TESCO",
+        null
+      ],
+      [
+        "VALUE",
+        null
+      ],
+      [
+        "Washing",
+        null
+      ],
+      [
+        "up",
+        null
+      ],
+      [
+        "liquid",
+        null
+      ]
+    ],
+    "time": 0.9633
+  },
+  "aPICT0010": {
+    "predictions": [
+      [
+        "Fire",
+        null
+      ],
+      [
+        "alarm",
+        null
+      ],
+      [
+        "call",
+        null
+      ],
+      [
+        "point",
+        null
+      ]
+    ],
+    "time": 0.613
+  },
+  "aPICT0011": {
+    "predictions": [
+      [
+        "4B.528",
+        null
+      ],
+      [
+        "4B.526",
+        null
+      ],
+      [
+        "4B.524",
+        null
+      ],
+      [
+        "4B.522",
+        null
+      ],
+      [
+        "YOU",
+        null
+      ],
+      [
+        "ARE",
+        null
+      ],
+      [
+        "HERE",
+        null
+      ]
+    ],
+    "time": 2.3904
+  },
+  "aPICT0013": {
+    "predictions": [
+      [
+        "ACCESS",
+        null
+      ],
+      [
+        "TO",
+        null
+      ],
+      [
+        "KNOW",
+        null
+      ],
+      [
+        "BAGGAGE",
+        null
+      ]
+    ],
+    "time": 0.7692
+  },
+  "aPICT0014": {
+    "predictions": [
+      [
+        "∞iiyama",
+        null
+      ]
+    ],
+    "time": 0.4642
+  },
+  "aPICT0017": {
+    "predictions": [
+      [
+        "USE",
+        null
+      ],
+      [
+        "ONLY",
+        null
+      ],
+      [
+        "DRI-WIPE",
+        null
+      ],
+      [
+        "MARKERS",
+        null
+      ],
+      [
+        "ON",
+        null
+      ],
+      [
+        "THESE",
+        null
+      ],
+      [
+        "BOARDS",
+        null
+      ]
+    ],
+    "time": 1.1725
+  },
+  "aPICT0018": {
+    "predictions": [
+      [
+        "4.513B",
+        null
+      ],
+      [
+        "2N",
+        null
+      ],
+      [
+        "Computing",
+        null
+      ],
+      [
+        "Service",
+        null
+      ],
+      [
+        "HELP",
+        null
+      ],
+      [
+        "DESK",
+        null
+      ]
+    ],
+    "time": 1.5094
+  },
+  "aPICT0020": {
+    "predictions": [
+      [
+        "C.C.T.V.",
+        null
+      ],
+      [
+        "IN",
+        null
+      ],
+      [
+        "OPERATION",
+        null
+      ]
+    ],
+    "time": 1.0259
+  },
+  "aPICT0021": {
+    "predictions": [
+      [
+        "CIGARETTES",
+        null
+      ],
+      [
+        "ONLY",
+        null
+      ],
+      [
+        "PLEASE",
+        null
+      ],
+      [
+        "NO",
+        null
+      ],
+      [
+        "PAPER",
+        null
+      ]
+    ],
+    "time": 1.1704
+  },
+  "aPICT0023": {
+    "predictions": [
+      [
+        "NO",
+        null
+      ],
+      [
+        "ENTRY",
+        null
+      ],
+      [
+        "WHEN",
+        null
+      ],
+      [
+        "RED",
+        null
+      ],
+      [
+        "LIGHT",
+        null
+      ],
+      [
+        "IS",
+        null
+      ],
+      [
+        "FLASHING",
+        null
+      ]
+    ],
+    "time": 1.0116
+  },
+  "aPICT0024": {
+    "predictions": [
+      [
+        "Overseas",
+        null
+      ],
+      [
+        "Relations",
+        null
+      ],
+      [
+        "Office",
+        null
+      ]
+    ],
+    "time": 0.6233
+  },
+  "aPICT0025": {
+    "predictions": [
+      [
+        "SAFETY",
+        null
+      ],
+      [
+        "NOTICE",
+        null
+      ],
+      [
+        "If",
+        null
+      ],
+      [
+        "you",
+        null
+      ],
+      [
+        "become",
+        null
+      ],
+      [
+        "trapped",
+        null
+      ],
+      [
+        "in",
+        null
+      ],
+      [
+        "the",
+        null
+      ],
+      [
+        "lift",
+        null
+      ],
+      [
+        "please",
+        null
+      ],
+      [
+        "press",
+        null
+      ],
+      [
+        "the",
+        null
+      ],
+      [
+        "alarm",
+        null
+      ],
+      [
+        "button",
+        null
+      ],
+      [
+        "at",
+        null
+      ],
+      [
+        "regular",
+        null
+      ],
+      [
+        "30-second",
+        null
+      ],
+      [
+        "intervals.",
+        null
+      ],
+      [
+        "The",
+        null
+      ],
+      [
+        "alarm",
+        null
+      ],
+      [
+        "will",
+        null
+      ],
+      [
+        "sound",
+        null
+      ],
+      [
+        "at",
+        null
+      ],
+      [
+        "the",
+        null
+      ],
+      [
+        "Information",
+        null
+      ],
+      [
+        "desk",
+        null
+      ],
+      [
+        "and",
+        null
+      ],
+      [
+        "help",
+        null
+      ],
+      [
+        "will",
+        null
+      ],
+      [
+        "arrive",
+        null
+      ],
+      [
+        "without",
+        null
+      ],
+      [
+        "delay.",
+        null
+      ],
+      [
+        "PLEASE",
+        null
+      ],
+      [
+        "DO",
+        null
+      ],
+      [
+        "NOT",
+        null
+      ],
+      [
+        "PANIC",
+        null
+      ]
+    ],
+    "time": 3.6953
+  },
+  "aPICT0026": {
+    "predictions": [
+      [
+        "NIGHT",
+        null
+      ],
+      [
+        "EXIT",
+        null
+      ],
+      [
+        "ON",
+        null
+      ],
+      [
+        "FLOOR",
+        null
+      ],
+      [
+        "4",
+        null
+      ]
+    ],
+    "time": 0.9816
+  },
+  "aPICT0027": {
+    "predictions": [
+      [
+        "SORRY",
+        null
+      ],
+      [
+        "TOILET",
+        null
+      ],
+      [
+        "OUT",
+        null
+      ],
+      [
+        "OF",
+        null
+      ],
+      [
+        "ORDER",
+        null
+      ]
+    ],
+    "time": 0.9589
+  },
+  "batch_info": {
+    "Batch #1": {
+      "time": "0min_47s_820ms",
+      "size": 20
+    }
+  }
+}

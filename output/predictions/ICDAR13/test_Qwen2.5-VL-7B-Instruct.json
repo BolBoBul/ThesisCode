@@ -1,0 +1,5429 @@
+{
+  "img_1": {
+    "predictions": [
+      [
+        "Tiredness",
+        null
+      ],
+      [
+        "kills",
+        null
+      ],
+      [
+        "A",
+        null
+      ],
+      [
+        "short",
+        null
+      ],
+      [
+        "break",
+        null
+      ],
+      [
+        "could",
+        null
+      ],
+      [
+        "save",
+        null
+      ],
+      [
+        "your",
+        null
+      ],
+      [
+        "life",
+        null
+      ]
+    ],
+    "time": 1.7443
+  },
+  "img_2": {
+    "predictions": [
+      [
+        "319",
+        null
+      ],
+      [
+        "8",
+        null
+      ],
+      [
+        "10",
+        null
+      ]
+    ],
+    "time": 0.7977
+  },
+  "img_3": {
+    "predictions": [
+      [
+        "Royal",
+        null
+      ],
+      [
+        "London",
+        null
+      ]
+    ],
+    "time": 0.4379
+  },
+  "img_4": {
+    "predictions": [
+      [
+        "Produkt",
+        null
+      ],
+      [
+        "wählen",
+        null
+      ],
+      [
+        "Betriebsbereit",
+        null
+      ],
+      [
+        "ESC",
+        null
+      ],
+      [
+        "ENT",
+        null
+      ],
+      [
+        "Saeco",
+        null
+      ]
+    ],
+    "time": 11.1912
+  },
+  "img_5": {
+    "predictions": [
+      [
+        "(falling",
+        null
+      ],
+      [
+        "on",
+        null
+      ],
+      [
+        "my",
+        null
+      ],
+      [
+        "knees)",
+        null
+      ],
+      [
+        "hungry",
+        null
+      ]
+    ],
+    "time": 0.789
+  },
+  "img_6": {
+    "predictions": [
+      [
+        "Campus",
+        null
+      ],
+      [
+        "Shop",
+        null
+      ]
+    ],
+    "time": 0.5562
+  },
+  "img_7": {
+    "predictions": [
+      [
+        "Gt.",
+        null
+      ],
+      [
+        "Yarmouth",
+        null
+      ],
+      [
+        "Ipswich",
+        null
+      ],
+      [
+        "(A",
+        null
+      ],
+      [
+        "12)",
+        null
+      ],
+      [
+        "Harwich",
+        null
+      ],
+      [
+        "(A",
+        null
+      ],
+      [
+        "120)",
+        null
+      ],
+      [
+        "Clacton",
+        null
+      ],
+      [
+        "A133",
+        null
+      ]
+    ],
+    "time": 2.2342
+  },
+  "img_8": {
+    "predictions": [
+      [
+        "GREEK",
+        null
+      ],
+      [
+        "COOKERY",
+        null
+      ],
+      [
+        "&WINES",
+        null
+      ],
+      [
+        "TOUBIS",
+        null
+      ],
+      [
+        "LOCAL",
+        null
+      ],
+      [
+        "SPECIALTIES",
+        null
+      ],
+      [
+        "FESTIVE",
+        null
+      ],
+      [
+        "RECIPES",
+        null
+      ],
+      [
+        "ILLUSTRATED",
+        null
+      ]
+    ],
+    "time": 3.6621
+  },
+  "img_9": {
+    "predictions": [
+      [
+        "i",
+        null
+      ],
+      [
+        "eg",
+        null
+      ],
+      [
+        "intelligent",
+        null
+      ],
+      [
+        "inhabited",
+        null
+      ],
+      [
+        "environments",
+        null
+      ],
+      [
+        "group",
+        null
+      ],
+      [
+        "University",
+        null
+      ],
+      [
+        "of",
+        null
+      ],
+      [
+        "Essex",
+        null
+      ]
+    ],
+    "time": 1.1393
+  },
+  "img_10": {
+    "predictions": [
+      [
+        "Bernd",
+        null
+      ],
+      [
+        "Reuse",
+        null
+      ],
+      [
+        "Roland",
+        null
+      ],
+      [
+        "Vollmar",
+        null
+      ],
+      [
+        "(Hrsg.)",
+        null
+      ],
+      [
+        "Informatikforschung",
+        null
+      ],
+      [
+        "in",
+        null
+      ],
+      [
+        "Deutschland",
+        null
+      ],
+      [
+        "Springer",
+        null
+      ]
+    ],
+    "time": 12.0774
+  },
+  "img_11": {
+    "predictions": [
+      [
+        "Summer's",
+        null
+      ],
+      [
+        "Here!",
+        null
+      ]
+    ],
+    "time": 0.5607
+  },
+  "img_12": {
+    "predictions": [
+      [
+        "CHECK",
+        null
+      ],
+      [
+        "SIGNAL",
+        null
+      ],
+      [
+        "CABLE",
+        null
+      ]
+    ],
+    "time": 10.3529
+  },
+  "img_13": {
+    "predictions": [
+      [
+        "P",
+        null
+      ],
+      [
+        "P",
+        null
+      ],
+      [
+        "←",
+        null
+      ],
+      [
+        "→",
+        null
+      ]
+    ],
+    "time": 0.7341
+  },
+  "img_14": {
+    "predictions": [
+      [
+        "WARNING",
+        null
+      ],
+      [
+        "Trespassing",
+        null
+      ],
+      [
+        "or",
+        null
+      ],
+      [
+        "causing",
+        null
+      ],
+      [
+        "nuisance",
+        null
+      ],
+      [
+        "on",
+        null
+      ],
+      [
+        "a",
+        null
+      ],
+      [
+        "school",
+        null
+      ],
+      [
+        "site",
+        null
+      ],
+      [
+        "can",
+        null
+      ],
+      [
+        "lead",
+        null
+      ],
+      [
+        "to",
+        null
+      ],
+      [
+        "a",
+        null
+      ],
+      [
+        "criminal",
+        null
+      ],
+      [
+        "conviction",
+        null
+      ],
+      [
+        "Under",
+        null
+      ],
+      [
+        "Section",
+        null
+      ],
+      [
+        "547",
+        null
+      ],
+      [
+        "of",
+        null
+      ],
+      [
+        "the",
+        null
+      ],
+      [
+        "Education",
+        null
+      ],
+      [
+        "Act",
+        null
+      ],
+      [
+        "1996",
+        null
+      ],
+      [
+        "Essex",
+        null
+      ],
+      [
+        "County",
+        null
+      ],
+      [
+        "Council",
+        null
+      ],
+      [
+        "Learning",
+        null
+      ],
+      [
+        "Services",
+        null
+      ]
+    ],
+    "time": 3.1591
+  },
+  "img_15": {
+    "predictions": [
+      [
+        "Roland",
+        null
+      ],
+      [
+        "DIGITAL",
+        null
+      ],
+      [
+        "GROUP",
+        null
+      ]
+    ],
+    "time": 0.6758
+  },
+  "img_16": {
+    "predictions": [
+      [
+        "Lord",
+        null
+      ],
+      [
+        "Nelson",
+        null
+      ]
+    ],
+    "time": 10.3449
+  },
+  "img_17": {
+    "predictions": [
+      [
+        "Servicemenü",
+        null
+      ],
+      [
+        "Wahlwiederh.",
+        null
+      ],
+      [
+        "Briefkasten",
+        null
+      ],
+      [
+        "Lautsprecher",
+        null
+      ],
+      [
+        "Übernahme",
+        null
+      ],
+      [
+        "Anrufliste",
+        null
+      ],
+      [
+        "NA",
+        null
+      ],
+      [
+        "NA",
+        null
+      ],
+      [
+        "NA",
+        null
+      ]
+    ],
+    "time": 12.4546
+  },
+  "img_18": {
+    "predictions": [
+      [
+        "IMPORTED",
+        null
+      ],
+      [
+        "BEER",
+        null
+      ],
+      [
+        "FROM",
+        null
+      ],
+      [
+        "MEXICO",
+        null
+      ]
+    ],
+    "time": 0.917
+  },
+  "img_19": {
+    "predictions": [
+      [
+        "WOLFGANG",
+        null
+      ],
+      [
+        "EMMERICH",
+        null
+      ],
+      [
+        "Engineering",
+        null
+      ],
+      [
+        "Distributed",
+        null
+      ],
+      [
+        "Objects",
+        null
+      ]
+    ],
+    "time": 2.5848
+  },
+  "img_20": {
+    "predictions": [
+      [
+        "Gates",
+        null
+      ],
+      [
+        "30",
+        null
+      ],
+      [
+        "&",
+        null
+      ],
+      [
+        "88",
+        null
+      ],
+      [
+        "Emergency",
+        null
+      ],
+      [
+        "exit",
+        null
+      ]
+    ],
+    "time": 1.8151
+  },
+  "img_21": {
+    "predictions": [
+      [
+        "No",
+        null
+      ],
+      [
+        "unauthorised",
+        null
+      ],
+      [
+        "entry",
+        null
+      ],
+      [
+        "into",
+        null
+      ],
+      [
+        "this",
+        null
+      ],
+      [
+        "area!",
+        null
+      ],
+      [
+        "Permit",
+        null
+      ],
+      [
+        "to",
+        null
+      ],
+      [
+        "work",
+        null
+      ],
+      [
+        "system",
+        null
+      ],
+      [
+        "in",
+        null
+      ],
+      [
+        "operation",
+        null
+      ],
+      [
+        "Estates",
+        null
+      ],
+      [
+        "Management",
+        null
+      ],
+      [
+        "Section",
+        null
+      ]
+    ],
+    "time": 1.5855
+  },
+  "img_22": {
+    "predictions": [
+      [
+        "Tetley",
+        null
+      ],
+      [
+        "To",
+        null
+      ],
+      [
+        "find",
+        null
+      ],
+      [
+        "out",
+        null
+      ],
+      [
+        "just",
+        null
+      ],
+      [
+        "how",
+        null
+      ],
+      [
+        "much,",
+        null
+      ],
+      [
+        "visit",
+        null
+      ],
+      [
+        "tetley.co.uk",
+        null
+      ]
+    ],
+    "time": 1.2724
+  },
+  "img_23": {
+    "predictions": [
+      [
+        "Competence",
+        null
+      ],
+      [
+        "Center",
+        null
+      ],
+      [
+        "\"Virtual",
+        null
+      ],
+      [
+        "Office",
+        null
+      ],
+      [
+        "of",
+        null
+      ],
+      [
+        "the",
+        null
+      ],
+      [
+        "Future\"",
+        null
+      ],
+      [
+        "DFKI",
+        null
+      ],
+      [
+        "Deutsches",
+        null
+      ],
+      [
+        "Forschungszentrum",
+        null
+      ],
+      [
+        "für",
+        null
+      ],
+      [
+        "Künstliche",
+        null
+      ],
+      [
+        "Intelligenz",
+        null
+      ],
+      [
+        "GmbH",
+        null
+      ],
+      [
+        "1st",
+        null
+      ],
+      [
+        "floor",
+        null
+      ],
+      [
+        "1.21",
+        null
+      ]
+    ],
+    "time": 13.2716
+  },
+  "img_24": {
+    "predictions": [
+      [
+        "FINAL",
+        null
+      ],
+      [
+        "clearance",
+        null
+      ],
+      [
+        "BURTON",
+        null
+      ]
+    ],
+    "time": 0.7374
+  },
+  "img_25": {
+    "predictions": [
+      [
+        "LABORATOIRES",
+        null
+      ],
+      [
+        "GARNIER",
+        null
+      ]
+    ],
+    "time": 0.748
+  },
+  "img_26": {
+    "predictions": [
+      [
+        "2.17",
+        null
+      ],
+      [
+        "Knowledge",
+        null
+      ],
+      [
+        "Management",
+        null
+      ],
+      [
+        "(KM)",
+        null
+      ],
+      [
+        "Dr.",
+        null
+      ],
+      [
+        "Faisal",
+        null
+      ],
+      [
+        "Shafait",
+        null
+      ],
+      [
+        "2.05",
+        null
+      ],
+      [
+        "Multimedia",
+        null
+      ],
+      [
+        "Analysis",
+        null
+      ],
+      [
+        "and",
+        null
+      ],
+      [
+        "Data",
+        null
+      ],
+      [
+        "Mining",
+        null
+      ]
+    ],
+    "time": 11.8973
+  },
+  "img_27": {
+    "predictions": [
+      [
+        "Chocomel",
+        null
+      ],
+      [
+        "hot",
+        null
+      ],
+      [
+        "DE",
+        null
+      ],
+      [
+        "ENIGE",
+        null
+      ],
+      [
+        "ÉCHTE",
+        null
+      ],
+      [
+        "Senseo®",
+        null
+      ],
+      [
+        "padmachines",
+        null
+      ],
+      [
+        "(ZIE",
+        null
+      ],
+      [
+        "ACHTERZIJDE)",
+        null
+      ],
+      [
+        "45",
+        null
+      ]
+    ],
+    "time": 12.2514
+  },
+  "img_28": {
+    "predictions": [
+      [
+        "baby's",
+        null
+      ],
+      [
+        "animal",
+        null
+      ],
+      [
+        "word",
+        null
+      ],
+      [
+        "book",
+        null
+      ]
+    ],
+    "time": 0.7999
+  },
+  "img_29": {
+    "predictions": [
+      [
+        "Senseo®",
+        null
+      ],
+      [
+        "NEW",
+        null
+      ],
+      [
+        "GENERATION",
+        null
+      ]
+    ],
+    "time": 10.5702
+  },
+  "img_30": {
+    "predictions": [
+      [
+        "DIESEL",
+        null
+      ],
+      [
+        "DENIM",
+        null
+      ],
+      [
+        "DIVISION",
+        null
+      ]
+    ],
+    "time": 1.5041
+  },
+  "img_31": {
+    "predictions": [
+      [
+        "2002",
+        null
+      ],
+      [
+        "Manchester.",
+        null
+      ],
+      [
+        "THE",
+        null
+      ],
+      [
+        "XVII",
+        null
+      ],
+      [
+        "COMMONWEALTH",
+        null
+      ],
+      [
+        "GAMES",
+        null
+      ]
+    ],
+    "time": 1.2159
+  },
+  "img_32": {
+    "predictions": [
+      [
+        "FARNBOROUGH",
+        null
+      ],
+      [
+        "AIRSHOW",
+        null
+      ],
+      [
+        "28",
+        null
+      ],
+      [
+        "JULY",
+        null
+      ],
+      [
+        "2002",
+        null
+      ],
+      [
+        "daily",
+        null
+      ],
+      [
+        "flying",
+        null
+      ],
+      [
+        "programme",
+        null
+      ]
+    ],
+    "time": 1.706
+  },
+  "img_33": {
+    "predictions": [
+      [
+        "17",
+        null
+      ],
+      [
+        "59",
+        null
+      ],
+      [
+        "GUINNESS",
+        null
+      ],
+      [
+        "DRAUGHT",
+        null
+      ],
+      [
+        "Lager",
+        null
+      ]
+    ],
+    "time": 1.2761
+  },
+  "img_34": {
+    "predictions": [
+      [
+        "Kaffee",
+        null
+      ],
+      [
+        "Pads",
+        null
+      ],
+      [
+        "Extra",
+        null
+      ]
+    ],
+    "time": 10.5928
+  },
+  "img_35": {
+    "predictions": [
+      [
+        "30'-6\"",
+        null
+      ]
+    ],
+    "time": 0.6129
+  },
+  "img_36": {
+    "predictions": [
+      [
+        "THE",
+        null
+      ],
+      [
+        "WALLACE",
+        null
+      ],
+      [
+        "SWORD",
+        null
+      ]
+    ],
+    "time": 0.6125
+  },
+  "img_37": {
+    "predictions": [
+      [
+        "Software",
+        null
+      ],
+      [
+        "Engineering",
+        null
+      ],
+      [
+        "Ian",
+        null
+      ],
+      [
+        "Sommerville",
+        null
+      ]
+    ],
+    "time": 2.1703
+  },
+  "img_38": {
+    "predictions": [
+      [
+        "HEPP",
+        null
+      ],
+      [
+        "Verbandstoffe",
+        null
+      ]
+    ],
+    "time": 10.7099
+  },
+  "img_39": {
+    "predictions": [
+      [
+        "Teer:",
+        null
+      ],
+      [
+        "7",
+        null
+      ],
+      [
+        "mg",
+        null
+      ],
+      [
+        "Nikotin:",
+        null
+      ],
+      [
+        "0,6",
+        null
+      ],
+      [
+        "mg",
+        null
+      ],
+      [
+        "Kohlen-",
+        null
+      ],
+      [
+        "monoxid:",
+        null
+      ],
+      [
+        "9",
+        null
+      ],
+      [
+        "mg",
+        null
+      ]
+    ],
+    "time": 11.9187
+  },
+  "img_40": {
+    "predictions": [
+      [
+        "AN",
+        null
+      ],
+      [
+        "INTRODUCTION",
+        null
+      ],
+      [
+        "TO",
+        null
+      ],
+      [
+        "DATABASE",
+        null
+      ],
+      [
+        "SYSTEMS",
+        null
+      ],
+      [
+        "C.",
+        null
+      ],
+      [
+        "J.",
+        null
+      ],
+      [
+        "DATE",
+        null
+      ],
+      [
+        "SIXTH",
+        null
+      ],
+      [
+        "EDITION",
+        null
+      ]
+    ],
+    "time": 2.9723
+  },
+  "img_41": {
+    "predictions": [
+      [
+        "RIVERSIDE",
+        null
+      ],
+      [
+        "WALK",
+        null
+      ]
+    ],
+    "time": 0.6717
+  },
+  "img_42": {
+    "predictions": [
+      [
+        "Diet",
+        null
+      ],
+      [
+        "Coke",
+        null
+      ],
+      [
+        "REGISTERED",
+        null
+      ],
+      [
+        "TRADE",
+        null
+      ],
+      [
+        "MARK",
+        null
+      ]
+    ],
+    "time": 0.9192
+  },
+  "img_43": {
+    "predictions": [
+      [
+        "intel",
+        null
+      ],
+      [
+        "inside",
+        null
+      ],
+      [
+        "pentium",
+        null
+      ],
+      [
+        "4",
+        null
+      ]
+    ],
+    "time": 0.7373
+  },
+  "img_44": {
+    "predictions": [
+      [
+        "hoss",
+        null
+      ],
+      [
+        "Standort",
+        null
+      ],
+      [
+        "Feuerlöscher",
+        null
+      ],
+      [
+        "Rettungsweg/",
+        null
+      ],
+      [
+        "Notausgang",
+        null
+      ],
+      [
+        "Richtungsangabe",
+        null
+      ],
+      [
+        "Brandmelder",
+        null
+      ],
+      [
+        "Treppenraum",
+        null
+      ],
+      [
+        "Rettungsweg",
+        null
+      ]
+    ],
+    "time": 12.867
+  },
+  "img_45": {
+    "predictions": [
+      [
+        "EINWURF",
+        null
+      ],
+      [
+        "EURO",
+        null
+      ],
+      [
+        "0.05-2.00",
+        null
+      ],
+      [
+        "1)",
+        null
+      ],
+      [
+        "GELD",
+        null
+      ],
+      [
+        "EINWERFEN",
+        null
+      ],
+      [
+        "2)",
+        null
+      ],
+      [
+        "NUMMER",
+        null
+      ],
+      [
+        "DES",
+        null
+      ],
+      [
+        "FACHES",
+        null
+      ],
+      [
+        "WÄHLEN",
+        null
+      ],
+      [
+        "3)",
+        null
+      ],
+      [
+        "GELDRÜCKGABE",
+        null
+      ],
+      [
+        ":",
+        null
+      ],
+      [
+        "TASTE",
+        null
+      ],
+      [
+        "R",
+        null
+      ],
+      [
+        "DRÜCKEN",
+        null
+      ]
+    ],
+    "time": 14.0924
+  },
+  "img_46": {
+    "predictions": [
+      [
+        "HEALTHY",
+        null
+      ],
+      [
+        "COLCHESTER",
+        null
+      ],
+      [
+        "2000",
+        null
+      ]
+    ],
+    "time": 0.9761
+  },
+  "img_47": {
+    "predictions": [
+      [
+        "Communication",
+        null
+      ],
+      [
+        "for",
+        null
+      ],
+      [
+        "Engineering",
+        null
+      ],
+      [
+        "Students",
+        null
+      ]
+    ],
+    "time": 0.6618
+  },
+  "img_48": {
+    "predictions": [
+      [
+        "TESCO",
+        null
+      ],
+      [
+        "VALUE",
+        null
+      ],
+      [
+        "Washing",
+        null
+      ],
+      [
+        "up",
+        null
+      ],
+      [
+        "liquid",
+        null
+      ]
+    ],
+    "time": 1.6215
+  },
+  "img_49": {
+    "predictions": [
+      [
+        "SOUNDS",
+        null
+      ],
+      [
+        "OF",
+        null
+      ],
+      [
+        "SUMMER",
+        null
+      ],
+      [
+        "The",
+        null
+      ],
+      [
+        "one's",
+        null
+      ],
+      [
+        "best",
+        null
+      ],
+      [
+        "live",
+        null
+      ],
+      [
+        "music",
+        null
+      ],
+      [
+        "events",
+        null
+      ],
+      [
+        "orange",
+        null
+      ]
+    ],
+    "time": 2.6852
+  },
+  "img_50": {
+    "predictions": [
+      [
+        "Telephone",
+        null
+      ],
+      [
+        "FOCAL",
+        null
+      ],
+      [
+        "DISPLAYS",
+        null
+      ],
+      [
+        "01-640",
+        null
+      ],
+      [
+        "6821",
+        null
+      ],
+      [
+        "REF",
+        null
+      ],
+      [
+        "A11",
+        null
+      ]
+    ],
+    "time": 1.6419
+  },
+  "img_51": {
+    "predictions": [
+      [
+        "ESSEX",
+        null
+      ],
+      [
+        "SUMMER",
+        null
+      ],
+      [
+        "SCHOOL",
+        null
+      ],
+      [
+        "IN",
+        null
+      ],
+      [
+        "DATA",
+        null
+      ],
+      [
+        "ANALYSIS",
+        null
+      ],
+      [
+        "4.311",
+        null
+      ],
+      [
+        "→",
+        null
+      ]
+    ],
+    "time": 2.1769
+  },
+  "img_52": {
+    "predictions": [
+      [
+        "YOU",
+        null
+      ],
+      [
+        "ARE",
+        null
+      ],
+      [
+        "HERE",
+        null
+      ]
+    ],
+    "time": 0.7133
+  },
+  "img_53": {
+    "predictions": [
+      [
+        "DEPARTMENT",
+        null
+      ],
+      [
+        "OF",
+        null
+      ],
+      [
+        "GOVERNMENT",
+        null
+      ],
+      [
+        "COURSES",
+        null
+      ],
+      [
+        "FOR",
+        null
+      ],
+      [
+        "STAFF",
+        null
+      ]
+    ],
+    "time": 1.1913
+  },
+  "img_54": {
+    "predictions": [
+      [
+        "iiyama",
+        null
+      ],
+      [
+        "POCKET",
+        null
+      ],
+      [
+        "FLASH",
+        null
+      ],
+      [
+        "READER",
+        null
+      ]
+    ],
+    "time": 1.5756
+  },
+  "img_55": {
+    "predictions": [
+      [
+        "Technology",
+        null
+      ],
+      [
+        "for",
+        null
+      ],
+      [
+        "life...",
+        null
+      ],
+      [
+        "Jungle.com",
+        null
+      ]
+    ],
+    "time": 1.4504
+  },
+  "img_56": {
+    "predictions": [
+      [
+        "SNOUT",
+        null
+      ]
+    ],
+    "time": 1.1484
+  },
+  "img_57": {
+    "predictions": [
+      [
+        "X",
+        null
+      ]
+    ],
+    "time": 0.3709
+  },
+  "img_58": {
+    "predictions": [
+      [
+        "graphic",
+        null
+      ],
+      [
+        "JAVA™2",
+        null
+      ],
+      [
+        "Mastering",
+        null
+      ],
+      [
+        "the",
+        null
+      ],
+      [
+        "JFC",
+        null
+      ],
+      [
+        "3RD",
+        null
+      ],
+      [
+        "EDITION",
+        null
+      ]
+    ],
+    "time": 2.0041
+  },
+  "img_59": {
+    "predictions": [
+      [
+        "WRIGLEY'S",
+        null
+      ],
+      [
+        "DOUBLEMINT",
+        null
+      ],
+      [
+        "CHEWING",
+        null
+      ],
+      [
+        "GUM",
+        null
+      ]
+    ],
+    "time": 1.8813
+  },
+  "img_60": {
+    "predictions": [
+      [
+        "Kenco®",
+        null
+      ]
+    ],
+    "time": 1.2155
+  },
+  "img_61": {
+    "predictions": [
+      [
+        "FIRE",
+        null
+      ],
+      [
+        "HOSE",
+        null
+      ],
+      [
+        "REEL",
+        null
+      ]
+    ],
+    "time": 1.3968
+  },
+  "img_62": {
+    "predictions": [
+      [
+        "EXCLUSIVELY",
+        null
+      ],
+      [
+        "FOR",
+        null
+      ],
+      [
+        "WHEELCHAIR",
+        null
+      ],
+      [
+        "USERS",
+        null
+      ]
+    ],
+    "time": 1.6978
+  },
+  "img_63": {
+    "predictions": [
+      [
+        "Metool",
+        null
+      ]
+    ],
+    "time": 1.1539
+  },
+  "img_64": {
+    "predictions": [
+      [
+        "Gallery",
+        null
+      ],
+      [
+        "1",
+        null
+      ],
+      [
+        "Please",
+        null
+      ],
+      [
+        "Enter",
+        null
+      ]
+    ],
+    "time": 1.3985
+  },
+  "img_65": {
+    "predictions": [
+      [
+        "SIZE",
+        null
+      ],
+      [
+        "QUEEN",
+        null
+      ]
+    ],
+    "time": 1.2712
+  },
+  "img_66": {
+    "predictions": [
+      [
+        "LITTER",
+        null
+      ],
+      [
+        "COLCHESTER",
+        null
+      ],
+      [
+        "BOROUGH",
+        null
+      ]
+    ],
+    "time": 1.5712
+  },
+  "img_67": {
+    "predictions": [
+      [
+        "DEBENHAMS",
+        null
+      ],
+      [
+        "BRITAIN'S",
+        null
+      ],
+      [
+        "FAVOURITE",
+        null
+      ],
+      [
+        "DEPARTMENT",
+        null
+      ],
+      [
+        "STORE",
+        null
+      ],
+      [
+        "www.debenhams.com",
+        null
+      ]
+    ],
+    "time": 2.4249
+  },
+  "img_68": {
+    "predictions": [
+      [
+        "Videos",
+        null
+      ],
+      [
+        "available",
+        null
+      ],
+      [
+        "here",
+        null
+      ],
+      [
+        "All",
+        null
+      ],
+      [
+        "our",
+        null
+      ],
+      [
+        "videos",
+        null
+      ],
+      [
+        "are",
+        null
+      ],
+      [
+        "loaned",
+        null
+      ],
+      [
+        "for",
+        null
+      ],
+      [
+        "one",
+        null
+      ],
+      [
+        "week",
+        null
+      ]
+    ],
+    "time": 1.0955
+  },
+  "img_69": {
+    "predictions": [
+      [
+        "2",
+        null
+      ],
+      [
+        "box",
+        null
+      ]
+    ],
+    "time": 1.2084
+  },
+  "img_70": {
+    "predictions": [
+      [
+        "NatWest",
+        null
+      ]
+    ],
+    "time": 1.1536
+  },
+  "img_71": {
+    "predictions": [
+      [
+        "PAST",
+        null
+      ],
+      [
+        "TIMES",
+        null
+      ]
+    ],
+    "time": 1.2119
+  },
+  "img_72": {
+    "predictions": [
+      [
+        "Essex",
+        null
+      ],
+      [
+        "County",
+        null
+      ],
+      [
+        "Council",
+        null
+      ],
+      [
+        "Colchester",
+        null
+      ],
+      [
+        "Library",
+        null
+      ]
+    ],
+    "time": 1.5107
+  },
+  "img_73": {
+    "predictions": [
+      [
+        "Library",
+        null
+      ],
+      [
+        "Open",
+        null
+      ],
+      [
+        "Essex",
+        null
+      ],
+      [
+        "County",
+        null
+      ],
+      [
+        "Council",
+        null
+      ],
+      [
+        "Libraries",
+        null
+      ]
+    ],
+    "time": 1.6924
+  },
+  "img_74": {
+    "predictions": [
+      [
+        "FORUM",
+        null
+      ],
+      [
+        "trinity",
+        null
+      ],
+      [
+        "street",
+        null
+      ],
+      [
+        "studios",
+        null
+      ]
+    ],
+    "time": 1.633
+  },
+  "img_75": {
+    "predictions": [
+      [
+        "WHILE",
+        null
+      ],
+      [
+        "YOU",
+        null
+      ],
+      [
+        "WAIT",
+        null
+      ],
+      [
+        "SHOE",
+        null
+      ],
+      [
+        "REPAIRS",
+        null
+      ],
+      [
+        "AVAILABLE",
+        null
+      ]
+    ],
+    "time": 1.7567
+  },
+  "img_76": {
+    "predictions": [
+      [
+        "GRAHAMS",
+        null
+      ]
+    ],
+    "time": 1.2151
+  },
+  "img_77": {
+    "predictions": [
+      [
+        "KEY",
+        null
+      ],
+      [
+        "WEST",
+        null
+      ]
+    ],
+    "time": 1.1519
+  },
+  "img_78": {
+    "predictions": [
+      [
+        "Zone",
+        null
+      ],
+      [
+        "ENDS",
+        null
+      ]
+    ],
+    "time": 1.2736
+  },
+  "img_79": {
+    "predictions": [
+      [
+        "Videos",
+        null
+      ],
+      [
+        "Here",
+        null
+      ]
+    ],
+    "time": 0.4951
+  },
+  "img_80": {
+    "predictions": [
+      [
+        "QUEEN",
+        null
+      ],
+      [
+        "STREET",
+        null
+      ],
+      [
+        "FORMERLY",
+        null
+      ],
+      [
+        "SOUTHGATE",
+        null
+      ],
+      [
+        "STREET",
+        null
+      ]
+    ],
+    "time": 1.697
+  },
+  "img_81": {
+    "predictions": [
+      [
+        "ROUTE",
+        null
+      ]
+    ],
+    "time": 1.0902
+  },
+  "img_82": {
+    "predictions": [
+      [
+        "BUS",
+        null
+      ]
+    ],
+    "time": 1.0853
+  },
+  "img_83": {
+    "predictions": [
+      [
+        "Tourist",
+        null
+      ],
+      [
+        "information",
+        null
+      ],
+      [
+        "Castle",
+        null
+      ]
+    ],
+    "time": 1.3295
+  },
+  "img_84": {
+    "predictions": [
+      [
+        "hills",
+        null
+      ],
+      [
+        "RESIDENTIAL",
+        null
+      ],
+      [
+        "&",
+        null
+      ]
+    ],
+    "time": 1.5125
+  },
+  "img_85": {
+    "predictions": [
+      [
+        "ROGERS",
+        null
+      ]
+    ],
+    "time": 1.2121
+  },
+  "img_86": {
+    "predictions": [
+      [
+        "CARTER",
+        null
+      ],
+      [
+        "BUILDER",
+        null
+      ],
+      [
+        "COLCHESTER",
+        null
+      ],
+      [
+        "794455",
+        null
+      ],
+      [
+        "10",
+        null
+      ]
+    ],
+    "time": 2.2454
+  },
+  "img_87": {
+    "predictions": [
+      [
+        "HARWICH",
+        null
+      ],
+      [
+        "COURT",
+        null
+      ],
+      [
+        "HOUSE",
+        null
+      ],
+      [
+        "11",
+        null
+      ],
+      [
+        "FLAT",
+        null
+      ],
+      [
+        "4",
+        null
+      ]
+    ],
+    "time": 1.9399
+  },
+  "img_88": {
+    "predictions": [
+      [
+        "GAS",
+        null
+      ],
+      [
+        "GAS",
+        null
+      ],
+      [
+        "GAS",
+        null
+      ],
+      [
+        "GAS",
+        null
+      ],
+      [
+        "GAS",
+        null
+      ]
+    ],
+    "time": 1.878
+  },
+  "img_89": {
+    "predictions": [
+      [
+        "Fire",
+        null
+      ],
+      [
+        "door",
+        null
+      ],
+      [
+        "keep",
+        null
+      ],
+      [
+        "locked",
+        null
+      ]
+    ],
+    "time": 1.3351
+  },
+  "img_90": {
+    "predictions": [
+      [
+        "LION",
+        null
+      ],
+      [
+        "WALK",
+        null
+      ]
+    ],
+    "time": 0.5535
+  },
+  "img_91": {
+    "predictions": [
+      [
+        "PLANT",
+        null
+      ],
+      [
+        "ROOM",
+        null
+      ],
+      [
+        "Fire",
+        null
+      ],
+      [
+        "door",
+        null
+      ],
+      [
+        "keep",
+        null
+      ],
+      [
+        "locked",
+        null
+      ],
+      [
+        "No",
+        null
+      ],
+      [
+        "unauthorised",
+        null
+      ],
+      [
+        "entry",
+        null
+      ],
+      [
+        "into",
+        null
+      ],
+      [
+        "this",
+        null
+      ],
+      [
+        "area!",
+        null
+      ],
+      [
+        "Permit",
+        null
+      ],
+      [
+        "to",
+        null
+      ],
+      [
+        "work",
+        null
+      ],
+      [
+        "system",
+        null
+      ],
+      [
+        "in",
+        null
+      ],
+      [
+        "operation",
+        null
+      ],
+      [
+        "Estates",
+        null
+      ],
+      [
+        "Management",
+        null
+      ],
+      [
+        "Section",
+        null
+      ]
+    ],
+    "time": 3.1055
+  },
+  "img_92": {
+    "predictions": [
+      [
+        "Coach",
+        null
+      ],
+      [
+        "Stop",
+        null
+      ],
+      [
+        "NATIONAL",
+        null
+      ],
+      [
+        "EXPRESS",
+        null
+      ]
+    ],
+    "time": 1.5193
+  },
+  "img_93": {
+    "predictions": [
+      [
+        "First",
+        null
+      ]
+    ],
+    "time": 0.9296
+  },
+  "img_94": {
+    "predictions": [
+      [
+        "Used",
+        null
+      ],
+      [
+        "tickets",
+        null
+      ]
+    ],
+    "time": 1.1448
+  },
+  "img_95": {
+    "predictions": [
+      [
+        "Alarm",
+        null
+      ],
+      [
+        "Fitted",
+        null
+      ]
+    ],
+    "time": 1.2664
+  },
+  "img_96": {
+    "predictions": [
+      [
+        "FIRE",
+        null
+      ],
+      [
+        "EXTINGUISHER",
+        null
+      ],
+      [
+        "BREAK",
+        null
+      ],
+      [
+        "GLASS",
+        null
+      ]
+    ],
+    "time": 1.6299
+  },
+  "img_97": {
+    "predictions": [
+      [
+        "CASUAL",
+        null
+      ],
+      [
+        "PLUS",
+        null
+      ]
+    ],
+    "time": 1.2103
+  },
+  "img_98": {
+    "predictions": [
+      [
+        "NEW",
+        null
+      ],
+      [
+        "SUPERKINGS",
+        null
+      ],
+      [
+        "Meet",
+        null
+      ],
+      [
+        "the",
+        null
+      ],
+      [
+        "big",
+        null
+      ],
+      [
+        "three.",
+        null
+      ],
+      [
+        "002101",
+        null
+      ]
+    ],
+    "time": 2.0556
+  },
+  "img_99": {
+    "predictions": [
+      [
+        "In",
+        null
+      ],
+      [
+        "the",
+        null
+      ],
+      [
+        "interest",
+        null
+      ],
+      [
+        "of",
+        null
+      ],
+      [
+        "Health",
+        null
+      ],
+      [
+        "and",
+        null
+      ],
+      [
+        "Hygiene",
+        null
+      ],
+      [
+        "PLEASE",
+        null
+      ],
+      [
+        "DO",
+        null
+      ],
+      [
+        "NOT",
+        null
+      ],
+      [
+        "FEED",
+        null
+      ],
+      [
+        "THE",
+        null
+      ],
+      [
+        "PIGEONS",
+        null
+      ]
+    ],
+    "time": 2.1751
+  },
+  "img_100": {
+    "predictions": [
+      [
+        "JOHN",
+        null
+      ],
+      [
+        "REVETT",
+        null
+      ],
+      [
+        "(Builders)",
+        null
+      ],
+      [
+        "Limited",
+        null
+      ],
+      [
+        "CELCON",
+        null
+      ],
+      [
+        "www.celcon.co.uk",
+        null
+      ]
+    ],
+    "time": 1.9394
+  },
+  "img_101": {
+    "predictions": [
+      [
+        "No",
+        null
+      ],
+      [
+        "cycling",
+        null
+      ]
+    ],
+    "time": 0.5525
+  },
+  "img_102": {
+    "predictions": [
+      [
+        "COSTA",
+        null
+      ],
+      [
+        "MED",
+        null
+      ],
+      [
+        "mediterranean",
+        null
+      ],
+      [
+        "cuisine",
+        null
+      ]
+    ],
+    "time": 0.7535
+  },
+  "img_103": {
+    "predictions": [
+      [
+        "FIRED",
+        null
+      ],
+      [
+        "EARTH",
+        null
+      ]
+    ],
+    "time": 0.5622
+  },
+  "img_104": {
+    "predictions": [
+      [
+        "lowns-uk.co",
+        null
+      ]
+    ],
+    "time": 0.6097
+  },
+  "img_105": {
+    "predictions": [
+      [
+        "HOME",
+        null
+      ],
+      [
+        "ENTERTAINMENT",
+        null
+      ]
+    ],
+    "time": 0.9106
+  },
+  "img_106": {
+    "predictions": [
+      [
+        "HFC",
+        null
+      ],
+      [
+        "BANK",
+        null
+      ]
+    ],
+    "time": 0.5638
+  },
+  "img_107": {
+    "predictions": [
+      [
+        "STAR",
+        null
+      ],
+      [
+        "WARS",
+        null
+      ],
+      [
+        "EPISODE",
+        null
+      ],
+      [
+        "II:",
+        null
+      ],
+      [
+        "ATTACK",
+        null
+      ],
+      [
+        "OF",
+        null
+      ],
+      [
+        "THE",
+        null
+      ],
+      [
+        "CLONES",
+        null
+      ]
+    ],
+    "time": 0.9945
+  },
+  "img_108": {
+    "predictions": [
+      [
+        "STAR",
+        null
+      ],
+      [
+        "WARS",
+        null
+      ]
+    ],
+    "time": 0.4927
+  },
+  "img_109": {
+    "predictions": [
+      [
+        "SPIDER-MAN",
+        null
+      ]
+    ],
+    "time": 0.5519
+  },
+  "img_110": {
+    "predictions": [
+      [
+        "TRANSFORMERS",
+        null
+      ],
+      [
+        "ARMADA",
+        null
+      ]
+    ],
+    "time": 0.6161
+  },
+  "img_111": {
+    "predictions": [
+      [
+        "NATURAL",
+        null
+      ],
+      [
+        "HISTORY",
+        null
+      ],
+      [
+        "MUSEUM",
+        null
+      ]
+    ],
+    "time": 0.8886
+  },
+  "img_112": {
+    "predictions": [
+      [
+        "CLOSING",
+        null
+      ],
+      [
+        "DOWN",
+        null
+      ],
+      [
+        "SALE",
+        null
+      ]
+    ],
+    "time": 0.7096
+  },
+  "img_113": {
+    "predictions": [
+      [
+        "one",
+        null
+      ],
+      [
+        "hour",
+        null
+      ],
+      [
+        "the",
+        null
+      ],
+      [
+        "eyecare",
+        null
+      ],
+      [
+        "clinic",
+        null
+      ],
+      [
+        "contact",
+        null
+      ],
+      [
+        "lens",
+        null
+      ],
+      [
+        "centre",
+        null
+      ]
+    ],
+    "time": 1.0433
+  },
+  "img_114": {
+    "predictions": [
+      [
+        "act",
+        null
+      ],
+      [
+        "one",
+        null
+      ],
+      [
+        "bar",
+        null
+      ],
+      [
+        ".co.uk",
+        null
+      ]
+    ],
+    "time": 0.6819
+  },
+  "img_115": {
+    "predictions": [
+      [
+        "FUN",
+        null
+      ],
+      [
+        "FASHION",
+        null
+      ],
+      [
+        "LADIES",
+        null
+      ],
+      [
+        "LINGERIE",
+        null
+      ],
+      [
+        "SHOP",
+        null
+      ],
+      [
+        "01206",
+        null
+      ],
+      [
+        "368166",
+        null
+      ],
+      [
+        "FUNFASHION@HOTMAIL.COM",
+        null
+      ]
+    ],
+    "time": 2.3697
+  },
+  "img_116": {
+    "predictions": [
+      [
+        "P",
+        null
+      ],
+      [
+        "S3",
+        null
+      ]
+    ],
+    "time": 0.552
+  },
+  "img_117": {
+    "predictions": [
+      [
+        "Counselling",
+        null
+      ],
+      [
+        "Helpline",
+        null
+      ],
+      [
+        "Lifelines",
+        null
+      ],
+      [
+        "Family",
+        null
+      ],
+      [
+        "Support",
+        null
+      ]
+    ],
+    "time": 0.9626
+  },
+  "img_118": {
+    "predictions": [
+      [
+        "UK",
+        null
+      ],
+      [
+        "DANCE",
+        null
+      ],
+      [
+        "PROTOTYPE",
+        null
+      ],
+      [
+        "&",
+        null
+      ],
+      [
+        "INSPIRED",
+        null
+      ],
+      [
+        "RECORDS",
+        null
+      ]
+    ],
+    "time": 1.0406
+  },
+  "img_119": {
+    "predictions": [
+      [
+        "First",
+        null
+      ],
+      [
+        "Eastern",
+        null
+      ],
+      [
+        "National",
+        null
+      ],
+      [
+        "Bus",
+        null
+      ],
+      [
+        "Times",
+        null
+      ]
+    ],
+    "time": 0.6853
+  },
+  "img_120": {
+    "predictions": [
+      [
+        "Next",
+        null
+      ],
+      [
+        "Departure",
+        null
+      ],
+      [
+        "12:31",
+        null
+      ],
+      [
+        "GENE",
+        null
+      ],
+      [
+        "2C",
+        null
+      ],
+      [
+        "FIRST",
+        null
+      ],
+      [
+        "EA",
+        null
+      ]
+    ],
+    "time": 1.2918
+  },
+  "img_121": {
+    "predictions": [
+      [
+        "KNOW",
+        null
+      ],
+      [
+        "YOUR",
+        null
+      ],
+      [
+        "First",
+        null
+      ],
+      [
+        "TICKET!",
+        null
+      ]
+    ],
+    "time": 0.9203
+  },
+  "img_122": {
+    "predictions": [
+      [
+        "London",
+        null
+      ],
+      [
+        "Ipswich",
+        null
+      ],
+      [
+        "(A12)",
+        null
+      ],
+      [
+        "Town",
+        null
+      ],
+      [
+        "Centre",
+        null
+      ],
+      [
+        "Longridge",
+        null
+      ],
+      [
+        "Park",
+        null
+      ]
+    ],
+    "time": 1.2213
+  },
+  "img_123": {
+    "predictions": [
+      [
+        "PREMIER",
+        null
+      ],
+      [
+        "TEAM",
+        null
+      ]
+    ],
+    "time": 1.2642
+  },
+  "img_124": {
+    "predictions": [
+      [
+        "Famous",
+        null
+      ],
+      [
+        "for",
+        null
+      ],
+      [
+        "our",
+        null
+      ],
+      [
+        "fish",
+        null
+      ],
+      [
+        "&",
+        null
+      ],
+      [
+        "chips",
+        null
+      ]
+    ],
+    "time": 0.731
+  },
+  "img_125": {
+    "predictions": [
+      [
+        "BUFFETT",
+        null
+      ],
+      [
+        "WAY",
+        null
+      ],
+      [
+        "CUL-DE-SAC",
+        null
+      ]
+    ],
+    "time": 1.6957
+  },
+  "img_126": {
+    "predictions": [
+      [
+        "University",
+        null
+      ],
+      [
+        "of",
+        null
+      ],
+      [
+        "Essex",
+        null
+      ],
+      [
+        "1",
+        null
+      ],
+      [
+        "leading",
+        null
+      ],
+      [
+        "to",
+        null
+      ],
+      [
+        "Wivenhoe",
+        null
+      ],
+      [
+        "Trail",
+        null
+      ],
+      [
+        "1½",
+        null
+      ],
+      [
+        "Greenstead",
+        null
+      ],
+      [
+        "centre",
+        null
+      ],
+      [
+        "½",
+        null
+      ]
+    ],
+    "time": 2.4232
+  },
+  "img_127": {
+    "predictions": [
+      [
+        "DANGER",
+        null
+      ],
+      [
+        "KEEP",
+        null
+      ],
+      [
+        "OUT",
+        null
+      ]
+    ],
+    "time": 1.3981
+  },
+  "img_128": {
+    "predictions": [
+      [
+        "CMC",
+        null
+      ],
+      [
+        "75",
+        null
+      ],
+      [
+        "P.O.",
+        null
+      ],
+      [
+        "N°25",
+        null
+      ]
+    ],
+    "time": 0.9491
+  },
+  "img_129": {
+    "predictions": [
+      [
+        "$",
+        null
+      ]
+    ],
+    "time": 1.0882
+  },
+  "img_130": {
+    "predictions": [
+      [
+        "University",
+        null
+      ],
+      [
+        "of",
+        null
+      ],
+      [
+        "Essex",
+        null
+      ],
+      [
+        "34",
+        null
+      ],
+      [
+        "leading",
+        null
+      ],
+      [
+        "to",
+        null
+      ],
+      [
+        "Wivenhoe",
+        null
+      ],
+      [
+        "Trail",
+        null
+      ],
+      [
+        "1",
+        null
+      ],
+      [
+        "Greenstead",
+        null
+      ],
+      [
+        "centre",
+        null
+      ],
+      [
+        "1/2",
+        null
+      ]
+    ],
+    "time": 2.5488
+  },
+  "img_131": {
+    "predictions": [
+      [
+        "Shit",
+        null
+      ]
+    ],
+    "time": 1.1499
+  },
+  "img_132": {
+    "predictions": [
+      [
+        "University",
+        null
+      ],
+      [
+        "of",
+        null
+      ],
+      [
+        "Essex",
+        null
+      ],
+      [
+        "Day",
+        null
+      ],
+      [
+        "Nursery",
+        null
+      ],
+      [
+        "The",
+        null
+      ],
+      [
+        "Houses",
+        null
+      ],
+      [
+        "Keynes,",
+        null
+      ],
+      [
+        "Rayleigh,",
+        null
+      ],
+      [
+        "Tawney",
+        null
+      ],
+      [
+        "and",
+        null
+      ],
+      [
+        "William",
+        null
+      ],
+      [
+        "Morris",
+        null
+      ],
+      [
+        "Towers",
+        null
+      ],
+      [
+        "Wolfson",
+        null
+      ],
+      [
+        "Court",
+        null
+      ],
+      [
+        "Buses",
+        null
+      ],
+      [
+        "and",
+        null
+      ],
+      [
+        "Cycles",
+        null
+      ],
+      [
+        "Only",
+        null
+      ],
+      [
+        "CONFERENCE",
+        null
+      ],
+      [
+        "CAR",
+        null
+      ],
+      [
+        "PARK",
+        null
+      ],
+      [
+        "Entrance",
+        null
+      ],
+      [
+        "4",
+        null
+      ]
+    ],
+    "time": 3.7642
+  },
+  "img_133": {
+    "predictions": [
+      [
+        "STOP",
+        null
+      ]
+    ],
+    "time": 1.0856
+  },
+  "img_134": {
+    "predictions": [
+      [
+        "AUSTRALIA",
+        null
+      ]
+    ],
+    "time": 1.2639
+  },
+  "img_135": {
+    "predictions": [
+      [
+        "FIRE",
+        null
+      ],
+      [
+        "EXIT",
+        null
+      ],
+      [
+        "Keep",
+        null
+      ],
+      [
+        "clear",
+        null
+      ]
+    ],
+    "time": 0.6677
+  },
+  "img_136": {
+    "predictions": [
+      [
+        "Roland",
+        null
+      ],
+      [
+        "DIGITAL",
+        null
+      ],
+      [
+        "GROUP",
+        null
+      ]
+    ],
+    "time": 1.384
+  },
+  "img_137": {
+    "predictions": [
+      [
+        "571",
+        null
+      ],
+      [
+        "TESTED",
+        null
+      ]
+    ],
+    "time": 1.3858
+  },
+  "img_138": {
+    "predictions": [
+      [
+        "4B.532",
+        null
+      ]
+    ],
+    "time": 1.3868
+  },
+  "img_139": {
+    "predictions": [
+      [
+        "MONDO",
+        null
+      ],
+      [
+        "CAFE",
+        null
+      ],
+      [
+        "-",
+        null
+      ],
+      [
+        "BAR",
+        null
+      ],
+      [
+        "-",
+        null
+      ],
+      [
+        "VENUE",
+        null
+      ],
+      [
+        "food",
+        null
+      ]
+    ],
+    "time": 1.8153
+  },
+  "img_140": {
+    "predictions": [
+      [
+        "Sports",
+        null
+      ],
+      [
+        "Centre",
+        null
+      ],
+      [
+        "Wivenhoe",
+        null
+      ],
+      [
+        "Park",
+        null
+      ],
+      [
+        "Conference",
+        null
+      ],
+      [
+        "Centre",
+        null
+      ],
+      [
+        "Car",
+        null
+      ],
+      [
+        "Parks",
+        null
+      ]
+    ],
+    "time": 1.8173
+  },
+  "img_141": {
+    "predictions": [
+      [
+        "UDX",
+        null
+      ],
+      [
+        "MAYFAIR",
+        null
+      ],
+      [
+        "MINI",
+        null
+      ]
+    ],
+    "time": 1.628
+  },
+  "img_142": {
+    "predictions": [
+      [
+        "PEUGEOT",
+        null
+      ]
+    ],
+    "time": 1.2138
+  },
+  "img_143": {
+    "predictions": [
+      [
+        "EXIT",
+        null
+      ]
+    ],
+    "time": 1.0831
+  },
+  "img_144": {
+    "predictions": [
+      [
+        "EMERGENCY",
+        null
+      ],
+      [
+        "SERVICE",
+        null
+      ],
+      [
+        "VEHICLES",
+        null
+      ],
+      [
+        "ONLY",
+        null
+      ]
+    ],
+    "time": 1.5749
+  },
+  "img_145": {
+    "predictions": [
+      [
+        "CHALLENGE",
+        null
+      ]
+    ],
+    "time": 1.2063
+  },
+  "img_146": {
+    "predictions": [
+      [
+        "RESTAURANT",
+        null
+      ]
+    ],
+    "time": 0.5689
+  },
+  "img_147": {
+    "predictions": [
+      [
+        "FLATS",
+        null
+      ],
+      [
+        "61to69",
+        null
+      ]
+    ],
+    "time": 1.5156
+  },
+  "img_148": {
+    "predictions": [
+      [
+        "1",
+        null
+      ],
+      [
+        "2",
+        null
+      ],
+      [
+        "3",
+        null
+      ],
+      [
+        "4",
+        null
+      ],
+      [
+        "5",
+        null
+      ],
+      [
+        "6",
+        null
+      ],
+      [
+        "7",
+        null
+      ],
+      [
+        "8",
+        null
+      ],
+      [
+        "9",
+        null
+      ]
+    ],
+    "time": 2.052
+  },
+  "img_149": {
+    "predictions": [
+      [
+        "go",
+        null
+      ],
+      [
+        "the",
+        null
+      ],
+      [
+        "one-line",
+        null
+      ],
+      [
+        "guide",
+        null
+      ]
+    ],
+    "time": 1.3216
+  },
+  "img_150": {
+    "predictions": [
+      [
+        "Post",
+        null
+      ],
+      [
+        "Office",
+        null
+      ]
+    ],
+    "time": 1.2089
+  },
+  "img_151": {
+    "predictions": [
+      [
+        "£99",
+        null
+      ]
+    ],
+    "time": 0.4879
+  },
+  "img_152": {
+    "predictions": [
+      [
+        "5",
+        null
+      ],
+      [
+        "SPRINKLER",
+        null
+      ],
+      [
+        "VALVE",
+        null
+      ],
+      [
+        "CHAMBER",
+        null
+      ]
+    ],
+    "time": 1.1002
+  },
+  "img_153": {
+    "predictions": [
+      [
+        "The",
+        null
+      ],
+      [
+        "Linen",
+        null
+      ],
+      [
+        "Factory",
+        null
+      ]
+    ],
+    "time": 0.5527
+  },
+  "img_154": {
+    "predictions": [
+      [
+        "PHARMACY",
+        null
+      ],
+      [
+        "ICE",
+        null
+      ],
+      [
+        "CREAM",
+        null
+      ]
+    ],
+    "time": 0.6989
+  },
+  "img_155": {
+    "predictions": [
+      [
+        "camouflage",
+        null
+      ]
+    ],
+    "time": 0.4362
+  },
+  "img_156": {
+    "predictions": [
+      [
+        "CO-OPERATIVE",
+        null
+      ]
+    ],
+    "time": 0.5469
+  },
+  "img_157": {
+    "predictions": [
+      [
+        "JACKS",
+        null
+      ],
+      [
+        "FAMOUS",
+        null
+      ],
+      [
+        "SUPPLIES",
+        null
+      ],
+      [
+        "EST.",
+        null
+      ],
+      [
+        "1946",
+        null
+      ]
+    ],
+    "time": 1.398
+  },
+  "img_158": {
+    "predictions": [
+      [
+        "PLAY",
+        null
+      ],
+      [
+        "THUNDERBALL",
+        null
+      ],
+      [
+        "HERE",
+        null
+      ]
+    ],
+    "time": 0.733
+  },
+  "img_159": {
+    "predictions": [
+      [
+        "20p",
+        null
+      ],
+      [
+        "A",
+        null
+      ],
+      [
+        "RIDE",
+        null
+      ]
+    ],
+    "time": 0.6872
+  },
+  "img_160": {
+    "predictions": [
+      [
+        "Peacocks",
+        null
+      ]
+    ],
+    "time": 0.5016
+  },
+  "img_161": {
+    "predictions": [
+      [
+        "SLUSH",
+        null
+      ],
+      [
+        "PUPPIE",
+        null
+      ],
+      [
+        "AS",
+        null
+      ],
+      [
+        "COOL",
+        null
+      ],
+      [
+        "AS",
+        null
+      ],
+      [
+        "IT",
+        null
+      ],
+      [
+        "GETS",
+        null
+      ]
+    ],
+    "time": 1.1831
+  },
+  "img_162": {
+    "predictions": [
+      [
+        "PIZZA",
+        null
+      ],
+      [
+        "CALOR",
+        null
+      ],
+      [
+        "Cheques",
+        null
+      ]
+    ],
+    "time": 0.7982
+  },
+  "img_163": {
+    "predictions": [
+      [
+        "The",
+        null
+      ],
+      [
+        "Adult",
+        null
+      ],
+      [
+        "Community",
+        null
+      ],
+      [
+        "College",
+        null
+      ]
+    ],
+    "time": 0.5279
+  },
+  "img_164": {
+    "predictions": [
+      [
+        "11",
+        null
+      ]
+    ],
+    "time": 0.4322
+  },
+  "img_165": {
+    "predictions": [
+      [
+        "Fire",
+        null
+      ],
+      [
+        "up",
+        null
+      ],
+      [
+        "your",
+        null
+      ],
+      [
+        "senses",
+        null
+      ]
+    ],
+    "time": 0.5502
+  },
+  "img_166": {
+    "predictions": [
+      [
+        "Save",
+        null
+      ],
+      [
+        "family",
+        null
+      ],
+      [
+        "day",
+        null
+      ],
+      [
+        "trip",
+        null
+      ],
+      [
+        "4",
+        null
+      ]
+    ],
+    "time": 0.6675
+  },
+  "img_167": {
+    "predictions": [
+      [
+        "SECOM",
+        null
+      ]
+    ],
+    "time": 0.4423
+  },
+  "img_168": {
+    "predictions": [
+      [
+        "CULMER",
+        null
+      ],
+      [
+        "STREET",
+        null
+      ]
+    ],
+    "time": 0.5511
+  },
+  "img_169": {
+    "predictions": [
+      [
+        "Except",
+        null
+      ],
+      [
+        "for",
+        null
+      ],
+      [
+        "access",
+        null
+      ],
+      [
+        "and",
+        null
+      ],
+      [
+        "buses",
+        null
+      ]
+    ],
+    "time": 0.6358
+  },
+  "img_170": {
+    "predictions": [
+      [
+        "priory",
+        null
+      ],
+      [
+        "galleries",
+        null
+      ],
+      [
+        "the",
+        null
+      ],
+      [
+        "ship",
+        null
+      ],
+      [
+        "priory",
+        null
+      ],
+      [
+        "galleries",
+        null
+      ],
+      [
+        "at",
+        null
+      ],
+      [
+        "the",
+        null
+      ],
+      [
+        "ship",
+        null
+      ]
+    ],
+    "time": 1.1009
+  },
+  "img_171": {
+    "predictions": [
+      [
+        "TANFORDS",
+        null
+      ]
+    ],
+    "time": 0.6185
+  },
+  "img_172": {
+    "predictions": [
+      [
+        "NO",
+        null
+      ],
+      [
+        "SMOKING",
+        null
+      ],
+      [
+        "MAXIMUM",
+        null
+      ],
+      [
+        "PENALTY",
+        null
+      ],
+      [
+        "£100",
+        null
+      ]
+    ],
+    "time": 1.2179
+  },
+  "img_173": {
+    "predictions": [
+      [
+        "Colchester",
+        null
+      ],
+      [
+        "Insurance",
+        null
+      ],
+      [
+        "Centre",
+        null
+      ]
+    ],
+    "time": 0.4378
+  },
+  "img_174": {
+    "predictions": [
+      [
+        "EAST",
+        null
+      ],
+      [
+        "HILL",
+        null
+      ]
+    ],
+    "time": 0.5522
+  },
+  "img_175": {
+    "predictions": [
+      [
+        "chips",
+        null
+      ],
+      [
+        "cut",
+        null
+      ],
+      [
+        "over",
+        null
+      ],
+      [
+        "4,000",
+        null
+      ],
+      [
+        "prices",
+        null
+      ],
+      [
+        "chopped",
+        null
+      ]
+    ],
+    "time": 1.0974
+  },
+  "img_176": {
+    "predictions": [
+      [
+        "MILL",
+        null
+      ],
+      [
+        "ANTIQUES",
+        null
+      ]
+    ],
+    "time": 0.6786
+  },
+  "img_177": {
+    "predictions": [
+      [
+        "HAMLION",
+        null
+      ],
+      [
+        "TRANSPORT",
+        null
+      ],
+      [
+        "STORAGE",
+        null
+      ],
+      [
+        "&",
+        null
+      ],
+      [
+        "DISTRIBUTION",
+        null
+      ],
+      [
+        "COLCHESTER",
+        null
+      ],
+      [
+        "794447",
+        null
+      ]
+    ],
+    "time": 1.648
+  },
+  "img_178": {
+    "predictions": [
+      [
+        "University",
+        null
+      ],
+      [
+        "of",
+        null
+      ],
+      [
+        "Essex",
+        null
+      ],
+      [
+        "Gas",
+        null
+      ],
+      [
+        "Station",
+        null
+      ],
+      [
+        "No",
+        null
+      ],
+      [
+        "6",
+        null
+      ]
+    ],
+    "time": 0.8526
+  },
+  "img_179": {
+    "predictions": [
+      [
+        "McDonald's",
+        null
+      ]
+    ],
+    "time": 0.4926
+  },
+  "img_180": {
+    "predictions": [
+      [
+        "Dry",
+        null
+      ],
+      [
+        "riser",
+        null
+      ]
+    ],
+    "time": 1.267
+  },
+  "img_181": {
+    "predictions": [
+      [
+        "Department",
+        null
+      ],
+      [
+        "of",
+        null
+      ],
+      [
+        "Psychology",
+        null
+      ],
+      [
+        "Second",
+        null
+      ],
+      [
+        "Year",
+        null
+      ]
+    ],
+    "time": 1.3868
+  },
+  "img_182": {
+    "predictions": [
+      [
+        "Floor",
+        null
+      ],
+      [
+        "3",
+        null
+      ]
+    ],
+    "time": 1.2033
+  },
+  "img_183": {
+    "predictions": [
+      [
+        "POST",
+        null
+      ],
+      [
+        "OFFICE",
+        null
+      ],
+      [
+        "NATIONAL",
+        null
+      ],
+      [
+        "EXPRESS",
+        null
+      ]
+    ],
+    "time": 1.1144
+  },
+  "img_184": {
+    "predictions": [
+      [
+        "POSTPAK",
+        null
+      ],
+      [
+        "POSTPAK",
+        null
+      ],
+      [
+        "POST",
+        null
+      ],
+      [
+        "OFFICE",
+        null
+      ]
+    ],
+    "time": 1.7558
+  },
+  "img_185": {
+    "predictions": [
+      [
+        "the",
+        null
+      ],
+      [
+        "copy",
+        null
+      ],
+      [
+        "centre",
+        null
+      ]
+    ],
+    "time": 0.9643
+  },
+  "img_186": {
+    "predictions": [
+      [
+        "COLOUR",
+        null
+      ],
+      [
+        "LASER",
+        null
+      ],
+      [
+        "COPIES",
+        null
+      ]
+    ],
+    "time": 1.4444
+  },
+  "img_187": {
+    "predictions": [
+      [
+        "Tetley",
+        null
+      ],
+      [
+        "U",
+        null
+      ]
+    ],
+    "time": 0.5809
+  },
+  "img_188": {
+    "predictions": [
+      [
+        "To",
+        null
+      ],
+      [
+        "find",
+        null
+      ],
+      [
+        "out",
+        null
+      ],
+      [
+        "just",
+        null
+      ]
+    ],
+    "time": 0.5512
+  },
+  "img_189": {
+    "predictions": [
+      [
+        "hellmann",
+        null
+      ],
+      [
+        "parcel",
+        null
+      ],
+      [
+        "systems",
+        null
+      ]
+    ],
+    "time": 0.6043
+  },
+  "img_190": {
+    "predictions": [
+      [
+        "Please",
+        null
+      ],
+      [
+        "wait",
+        null
+      ],
+      [
+        "here",
+        null
+      ],
+      [
+        "until",
+        null
+      ],
+      [
+        "a",
+        null
+      ],
+      [
+        "cashier",
+        null
+      ],
+      [
+        "is",
+        null
+      ],
+      [
+        "available",
+        null
+      ]
+    ],
+    "time": 0.9135
+  },
+  "img_191": {
+    "predictions": [
+      [
+        "SHOP",
+        null
+      ],
+      [
+        "TO",
+        null
+      ],
+      [
+        "LET",
+        null
+      ]
+    ],
+    "time": 0.5502
+  },
+  "img_192": {
+    "predictions": [
+      [
+        "Oxfam",
+        null
+      ],
+      [
+        "Bookshop",
+        null
+      ]
+    ],
+    "time": 0.6112
+  },
+  "img_193": {
+    "predictions": [
+      [
+        "No",
+        null
+      ],
+      [
+        "smoking",
+        null
+      ],
+      [
+        "beyond",
+        null
+      ],
+      [
+        "this",
+        null
+      ],
+      [
+        "point",
+        null
+      ]
+    ],
+    "time": 1.3259
+  },
+  "img_194": {
+    "predictions": [
+      [
+        "High",
+        null
+      ],
+      [
+        "Fidelity",
+        null
+      ],
+      [
+        "NICK",
+        null
+      ],
+      [
+        "HORNBY",
+        null
+      ]
+    ],
+    "time": 0.8605
+  },
+  "img_195": {
+    "predictions": [
+      [
+        "Mark",
+        null
+      ],
+      [
+        "Z.",
+        null
+      ],
+      [
+        "Danielewski's",
+        null
+      ],
+      [
+        "HOUSE",
+        null
+      ],
+      [
+        "OF",
+        null
+      ],
+      [
+        "LEAVES",
+        null
+      ]
+    ],
+    "time": 1.1035
+  },
+  "img_196": {
+    "predictions": [
+      [
+        "John",
+        null
+      ],
+      [
+        "Steinbeck",
+        null
+      ],
+      [
+        "The",
+        null
+      ],
+      [
+        "Grapes",
+        null
+      ],
+      [
+        "of",
+        null
+      ],
+      [
+        "Wrath",
+        null
+      ]
+    ],
+    "time": 0.8068
+  },
+  "img_197": {
+    "predictions": [
+      [
+        "HEART",
+        null
+      ],
+      [
+        "OF",
+        null
+      ],
+      [
+        "DARKNESS",
+        null
+      ],
+      [
+        "JOSEPH",
+        null
+      ],
+      [
+        "CONRAD",
+        null
+      ]
+    ],
+    "time": 0.9495
+  },
+  "img_198": {
+    "predictions": [
+      [
+        "Truman",
+        null
+      ],
+      [
+        "Capote",
+        null
+      ],
+      [
+        "Breakfast",
+        null
+      ],
+      [
+        "at",
+        null
+      ],
+      [
+        "Tiffany's",
+        null
+      ]
+    ],
+    "time": 1.1535
+  },
+  "img_199": {
+    "predictions": [
+      [
+        "NAD",
+        null
+      ],
+      [
+        "PHONES",
+        null
+      ],
+      [
+        "IR",
+        null
+      ]
+    ],
+    "time": 1.1056
+  },
+  "img_200": {
+    "predictions": [
+      [
+        "EAST",
+        null
+      ],
+      [
+        "COURT",
+        null
+      ],
+      [
+        "HOUSE",
+        null
+      ]
+    ],
+    "time": 0.5529
+  },
+  "img_201": {
+    "predictions": [
+      [
+        "Student",
+        null
+      ],
+      [
+        "Accounts",
+        null
+      ],
+      [
+        "Do",
+        null
+      ],
+      [
+        "you",
+        null
+      ],
+      [
+        "Know",
+        null
+      ],
+      [
+        "anyone",
+        null
+      ],
+      [
+        "starting",
+        null
+      ],
+      [
+        "university",
+        null
+      ],
+      [
+        "this",
+        null
+      ],
+      [
+        "year?",
+        null
+      ]
+    ],
+    "time": 1.1546
+  },
+  "img_202": {
+    "predictions": [
+      [
+        "TESCO",
+        null
+      ]
+    ],
+    "time": 0.4422
+  },
+  "img_203": {
+    "predictions": [
+      [
+        "EXIT",
+        null
+      ],
+      [
+        "SERVICE",
+        null
+      ],
+      [
+        "VEHICLES",
+        null
+      ]
+    ],
+    "time": 0.7338
+  },
+  "img_204": {
+    "predictions": [
+      [
+        "YOU",
+        null
+      ],
+      [
+        "ARE",
+        null
+      ],
+      [
+        "HERE",
+        null
+      ],
+      [
+        "Student",
+        null
+      ],
+      [
+        "Residences",
+        null
+      ]
+    ],
+    "time": 0.8084
+  },
+  "img_205": {
+    "predictions": [
+      [
+        "Anil",
+        null
+      ],
+      [
+        "Nazi",
+        null
+      ],
+      [
+        "League",
+        null
+      ],
+      [
+        "Black",
+        null
+      ],
+      [
+        "&",
+        null
+      ],
+      [
+        "White",
+        null
+      ],
+      [
+        "Unite",
+        null
+      ]
+    ],
+    "time": 0.9737
+  },
+  "img_206": {
+    "predictions": [
+      [
+        "HSBC",
+        null
+      ],
+      [
+        "citigroup",
+        null
+      ]
+    ],
+    "time": 1.3322
+  },
+  "img_207": {
+    "predictions": [
+      [
+        "THE",
+        null
+      ],
+      [
+        "SOUTH",
+        null
+      ],
+      [
+        "COLONNADE",
+        null
+      ],
+      [
+        "E14",
+        null
+      ]
+    ],
+    "time": 1.6372
+  },
+  "img_208": {
+    "predictions": [
+      [
+        "CABOT",
+        null
+      ],
+      [
+        "PLACE",
+        null
+      ]
+    ],
+    "time": 1.2734
+  },
+  "img_209": {
+    "predictions": [
+      [
+        "Meditative",
+        null
+      ],
+      [
+        "Rose",
+        null
+      ],
+      [
+        "(1958)",
+        null
+      ],
+      [
+        "Salvador",
+        null
+      ],
+      [
+        "Dalí™",
+        null
+      ]
+    ],
+    "time": 1.4075
+  },
+  "img_210": {
+    "predictions": [
+      [
+        "CANARY",
+        null
+      ],
+      [
+        "WHARF",
+        null
+      ],
+      [
+        "STATION",
+        null
+      ]
+    ],
+    "time": 1.3611
+  },
+  "img_211": {
+    "predictions": [
+      [
+        "Camden",
+        null
+      ],
+      [
+        "Exmouth",
+        null
+      ],
+      [
+        "Mews",
+        null
+      ]
+    ],
+    "time": 1.5166
+  },
+  "img_212": {
+    "predictions": [
+      [
+        "BREAK",
+        null
+      ],
+      [
+        "GLASS",
+        null
+      ],
+      [
+        "FOR",
+        null
+      ],
+      [
+        "KEY",
+        null
+      ]
+    ],
+    "time": 0.728
+  },
+  "img_213": {
+    "predictions": [
+      [
+        "CAUTION",
+        null
+      ],
+      [
+        "SITE",
+        null
+      ],
+      [
+        "TRAFFIC",
+        null
+      ],
+      [
+        "CROSSING",
+        null
+      ]
+    ],
+    "time": 1.7579
+  },
+  "img_214": {
+    "predictions": [
+      [
+        "DRIVERS",
+        null
+      ],
+      [
+        "BEWARE!",
+        null
+      ],
+      [
+        "CONTRACTOR'S",
+        null
+      ],
+      [
+        "VEHICLES",
+        null
+      ]
+    ],
+    "time": 1.815
+  },
+  "img_215": {
+    "predictions": [
+      [
+        "ROSE",
+        null
+      ],
+      [
+        "Builders",
+        null
+      ],
+      [
+        "&",
+        null
+      ],
+      [
+        "Contractors",
+        null
+      ]
+    ],
+    "time": 1.386
+  },
+  "img_216": {
+    "predictions": [
+      [
+        "UOFE",
+        null
+      ]
+    ],
+    "time": 1.2124
+  },
+  "img_217": {
+    "predictions": [
+      [
+        "Accommodation",
+        null
+      ],
+      [
+        "Office",
+        null
+      ],
+      [
+        "South",
+        null
+      ],
+      [
+        "Campus",
+        null
+      ]
+    ],
+    "time": 1.4582
+  },
+  "img_218": {
+    "predictions": [
+      [
+        "2076",
+        null
+      ]
+    ],
+    "time": 1.2612
+  },
+  "img_219": {
+    "predictions": [
+      [
+        "CANS",
+        null
+      ],
+      [
+        "ONLY",
+        null
+      ],
+      [
+        "BROWN",
+        null
+      ],
+      [
+        "GLASS",
+        null
+      ],
+      [
+        "ONLY",
+        null
+      ]
+    ],
+    "time": 1.6253
+  },
+  "img_220": {
+    "predictions": [
+      [
+        "BEWARE",
+        null
+      ],
+      [
+        "ALLIGATOR",
+        null
+      ],
+      [
+        "TEETH",
+        null
+      ]
+    ],
+    "time": 1.5661
+  },
+  "img_221": {
+    "predictions": [
+      [
+        "GAS",
+        null
+      ],
+      [
+        "SV",
+        null
+      ],
+      [
+        "180",
+        null
+      ],
+      [
+        "T",
+        null
+      ],
+      [
+        "2,0",
+        null
+      ]
+    ],
+    "time": 1.8733
+  },
+  "img_222": {
+    "predictions": [
+      [
+        "moto",
+        null
+      ],
+      [
+        "jeanswear",
+        null
+      ]
+    ],
+    "time": 1.3896
+  },
+  "img_223": {
+    "predictions": [
+      [
+        "DANK",
+        null
+      ]
+    ],
+    "time": 0.4386
+  },
+  "img_224": {
+    "predictions": [
+      [
+        "9.-12.",
+        null
+      ],
+      [
+        "September",
+        null
+      ],
+      [
+        "2002,",
+        null
+      ],
+      [
+        "Oldenburg,",
+        null
+      ],
+      [
+        "Germ",
+        null
+      ],
+      [
+        "FTRTFT",
+        null
+      ],
+      [
+        "2002",
+        null
+      ],
+      [
+        "7th",
+        null
+      ],
+      [
+        "International",
+        null
+      ],
+      [
+        "Symposium",
+        null
+      ]
+    ],
+    "time": 2.9067
+  },
+  "img_225": {
+    "predictions": [
+      [
+        "ESPRESSO",
+        null
+      ],
+      [
+        "52",
+        null
+      ],
+      [
+        "ESPRESSOCHOC",
+        null
+      ],
+      [
+        "53",
+        null
+      ],
+      [
+        "HOT",
+        null
+      ],
+      [
+        "MILK",
+        null
+      ],
+      [
+        "54",
+        null
+      ],
+      [
+        "CHOCOMILK",
+        null
+      ],
+      [
+        "55",
+        null
+      ],
+      [
+        "20p",
+        null
+      ],
+      [
+        "20p",
+        null
+      ],
+      [
+        "20p",
+        null
+      ],
+      [
+        "20p",
+        null
+      ]
+    ],
+    "time": 3.9494
+  },
+  "img_226": {
+    "predictions": [
+      [
+        "Metool",
+        null
+      ]
+    ],
+    "time": 1.1544
+  },
+  "img_227": {
+    "predictions": [
+      [
+        "STANLEY",
+        null
+      ],
+      [
+        "KUBRICK'S",
+        null
+      ],
+      [
+        "THE",
+        null
+      ],
+      [
+        "SHINING",
+        null
+      ]
+    ],
+    "time": 1.5184
+  },
+  "img_228": {
+    "predictions": [
+      [
+        "MEMENTO",
+        null
+      ]
+    ],
+    "time": 0.5252
+  },
+  "img_229": {
+    "predictions": [
+      [
+        "Research",
+        null
+      ],
+      [
+        "Organization",
+        null
+      ],
+      [
+        "for",
+        null
+      ],
+      [
+        "the",
+        null
+      ],
+      [
+        "21st",
+        null
+      ],
+      [
+        "Century",
+        null
+      ]
+    ],
+    "time": 10.8392
+  },
+  "img_230": {
+    "predictions": [
+      [
+        "ASDA",
+        null
+      ],
+      [
+        "Price",
+        null
+      ],
+      [
+        "PROMISE",
+        null
+      ],
+      [
+        "Permanently",
+        null
+      ],
+      [
+        "Low",
+        null
+      ],
+      [
+        "Prices",
+        null
+      ],
+      [
+        "Forever",
+        null
+      ]
+    ],
+    "time": 1.3495
+  },
+  "img_231": {
+    "predictions": [
+      [
+        "eg",
+        null
+      ],
+      [
+        "intelligent",
+        null
+      ],
+      [
+        "inhabited",
+        null
+      ],
+      [
+        "environments",
+        null
+      ],
+      [
+        "group",
+        null
+      ]
+    ],
+    "time": 2.1978
+  },
+  "img_232": {
+    "predictions": [
+      [
+        "EUR",
+        null
+      ],
+      [
+        "0.00",
+        null
+      ],
+      [
+        "GERIEBEBEREIT",
+        null
+      ]
+    ],
+    "time": 10.9396
+  },
+  "img_233": {
+    "predictions": [
+      [
+        "St.Helena",
+        null
+      ],
+      [
+        "Room",
+        null
+      ]
+    ],
+    "time": 0.6826
+  },
+  "batch_info": {
+    "Batch #1": {
+      "time": "3min_55s_324ms",
+      "size": 50
+    },
+    "Batch #2": {
+      "time": "1min_36s_979ms",
+      "size": 50
+    },
+    "Batch #3": {
+      "time": "1min_13s_439ms",
+      "size": 50
+    },
+    "Batch #4": {
+      "time": "0min_45s_802ms",
+      "size": 50
+    },
+    "Batch #5": {
+      "time": "1min_17s_381ms",
+      "size": 33
+    }
+  }
+}

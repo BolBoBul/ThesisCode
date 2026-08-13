@@ -1,0 +1,6 @@
+easyocr==1.7.2
+opencv_contrib_python==4.10.0.84
+opencv_python==5.0.0.93
+opencv_python_headless==5.0.0.93
+torch==2.7.0
+transformers==5.13.1
